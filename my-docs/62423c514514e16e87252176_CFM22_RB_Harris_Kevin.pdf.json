@@ -1,0 +1,3905 @@
+[
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.5,
+            38.91999999999996
+          ],
+          [
+            329.5,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            38.91999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5b1068380fb81400df852431b2a6cda8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.55,
+            69.77999999999997
+          ],
+          [
+            461.55,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            69.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 1
+    },
+    "text": "MARCH 25, 2022"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1ff18951bd8d7639ff1b9ebdd76c986c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            148.24200000000008
+          ],
+          [
+            72.025,
+            164.24200000000008
+          ],
+          [
+            510.67799999999994,
+            164.24200000000008
+          ],
+          [
+            510.67799999999994,
+            148.24200000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 1
+    },
+    "text": "NFL Draft 2022 Scouting Report: RB Kevin Harris,"
+  },
+  {
+    "type": "Title",
+    "element_id": "561c02a6e94bb84c9bf5fc689eb07d4b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            172.442
+          ],
+          [
+            72.025,
+            188.442
+          ],
+          [
+            206.608,
+            188.442
+          ],
+          [
+            206.608,
+            172.442
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "South Carolina"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c855613719e496a399b193537d56b95",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            202.0
+          ],
+          [
+            72.025,
+            227.60000000000002
+          ],
+          [
+            509.1209999999995,
+            227.60000000000002
+          ],
+          [
+            509.1209999999995,
+            202.0
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "561c02a6e94bb84c9bf5fc689eb07d4b",
+      "page_number": 1
+    },
+    "text": "Our RB grades can and will change as more information comes in from Pro Day workouts, leaked Wonderlic test results, etc. We will update ratings as new info becomes available."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e734f1fba025d17557ec0798dac9f618",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            239.0
+          ],
+          [
+            72.025,
+            279.03
+          ],
+          [
+            535.3119999999996,
+            279.03
+          ],
+          [
+            535.3119999999996,
+            239.0
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "561c02a6e94bb84c9bf5fc689eb07d4b",
+      "page_number": 1
+    },
+    "text": "We use the term “Power RB” to separate physically bigger, more between-the-tackles–capable RBs from our “speed RBs” group. “Speed RBs” are physically smaller, but much faster/quicker, and less likely to flourish between the tackles."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6ca02f6704c42a1e2050342cb95813b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            313.03
+          ],
+          [
+            72.025,
+            338.42
+          ],
+          [
+            524.0919999999999,
+            338.42
+          ],
+          [
+            524.0919999999999,
+            313.03
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "561c02a6e94bb84c9bf5fc689eb07d4b",
+      "page_number": 1
+    },
+    "text": "We have several scouting data points conflicts here…this is a tough one to call, projecting to the NFL, with Kevin Harris."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6c273ed7406493fb6b339c6c4f0e9b0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            350.03
+          ],
+          [
+            72.025,
+            462.45
+          ],
+          [
+            538.866,
+            462.45
+          ],
+          [
+            538.866,
+            350.03
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "561c02a6e94bb84c9bf5fc689eb07d4b",
+      "page_number": 1
+    },
+    "text": "For some background, I preview-scouted Kevin Harris in the summer of 2021 and thought he was the best college/draft eligible 2022 RB that I saw that summer. It wasn’t a big stretch/shocking scouting proclamation (like it would be a year later), since Harris was a 1st-team all SEC RB in 2020 (as a true sophomore). 1,138 yards rushing (6.2 ypc) and 15 rushing TDs in 10 games…and he really didn’t become the starter until two games into the season. At a glance, compared to guys I previewed (20-30 minutes of tape, 2-3 games quick look) like Breece, Walker, Spiller, Robinson I looked at in the summer of 2021 – Harris was the one I thought best built for the NFL. I was pumped for Harris’s upcoming 2021 CFB campaign."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9dbcf9cf3370547c673a596fbe00c2e4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            473.87
+          ],
+          [
+            72.025,
+            542.87
+          ],
+          [
+            539.8219999999995,
+            542.87
+          ],
+          [
+            539.8219999999995,
+            473.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "561c02a6e94bb84c9bf5fc689eb07d4b",
+      "page_number": 1
+    },
+    "text": "However, leading into his 2021 season, Harris had some back issues to deal with (had to have some fluid build up removed near his spine…which doesn’t sound good/fun). Harris fought to be ready for the season opener, but it was a bad choice – he was not himself in the early 2021 season. He struggled for output the first two months of the season and started losing touches and his main carry job due to the struggles."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7138987d3277825876c4a04c5fd2923b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            554.48
+          ],
+          [
+            72.025,
+            623.3
+          ],
+          [
+            536.905,
+            623.3
+          ],
+          [
+            536.905,
+            554.48
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "561c02a6e94bb84c9bf5fc689eb07d4b",
+      "page_number": 1
+    },
+    "text": "Midseason 2021, after two games of drastically reduced workload and then a BYE week, Harris then got going, self-proclaimed feeling better than he had all season, he reeled off a 16 carry, 128-yard rushing effort in a win over Florida. Harris looked like he might be ready for a stronger finish, but then more struggles the final few regular season games working a split workload. He then got a month off for their bowl game and Harris went out with a bang – 31 carries for 182 yards and a TD in an upset of UNC."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b50b29fd1d7828b4052b1a92ed71db4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            634.9
+          ],
+          [
+            72.025,
+            689.33
+          ],
+          [
+            525.7199999999997,
+            689.33
+          ],
+          [
+            525.7199999999997,
+            634.9
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "561c02a6e94bb84c9bf5fc689eb07d4b",
+      "page_number": 1
+    },
+    "text": "Overall, he had a big letdown in 2021 and his NFL Draft prospects started to fall…but the back issue might have been the driver of the issue. But then you worry if he has a general injury problem/’injury prone’ red flag label…because as he was getting ready to roll at the 2022 NFL Combine, he pulled his hamstring and had to bow out on the times/drills."
+  },
+  {
+    "type": "Title",
+    "element_id": "41b5d639fbc1a8bb2f19250ed8252fb0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.73,
+            731.525
+          ],
+          [
+            419.73,
+            742.525
+          ],
+          [
+            545.066,
+            742.525
+          ],
+          [
+            545.066,
+            731.525
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "College Football Metrics| 1"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.5,
+            38.91999999999996
+          ],
+          [
+            329.5,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            38.91999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5b1068380fb81400df852431b2a6cda8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.55,
+            69.77999999999997
+          ],
+          [
+            461.55,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            69.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "MARCH 25, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a2423b83272e9d4e4b0bc5456391b81f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            145.37
+          ],
+          [
+            72.025,
+            214.20000000000005
+          ],
+          [
+            541.0649999999996,
+            214.20000000000005
+          ],
+          [
+            541.0649999999996,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "Before you think he’s frail…you have to know he’s one of (if not THEE) the most muscular, sturdiest brick wall RBs in this draft (or in the last one or more drafts). The guy is gym rat/workout warrior, an award winner in strength & conditioning at South Carolina during his time there. He has Saquon Barkley-like thighs…and huge calves…and a thick, all-muscle upper body. He’s sculpted out of granite. He deserves the ‘muscle hamster’ label at 5’9”+/222. He led all RBs at the NFL Combine with 21 bench press reps."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6bc86b2afcb18b812c976b2de775496",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            225.79999999999995
+          ],
+          [
+            72.025,
+            280.22
+          ],
+          [
+            539.5029999999996,
+            280.22
+          ],
+          [
+            539.5029999999996,
+            225.79999999999995
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "I had hoped Harris’s 2022 NFL Combine would make up for the rough 2021 season, but he missed all the timing items due to his hamstring…but did rate high-end on the bench press (21), vertical (38.5”), and broad jump (10’6”). What he did do at the Combine was nice. Then I had to hope he’d kill his Pro Day with solid 40-times, etc., but another problem there…"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f0ee5be2654928205f2332f34632322",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            291.83
+          ],
+          [
+            72.025,
+            346.22
+          ],
+          [
+            528.1519999999999,
+            346.22
+          ],
+          [
+            528.1519999999999,
+            291.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "As he was running his 40-yard dash at his Pro Day…his hammy flared 30+ yards into it. He finished the run at a disappointing 4.62, but was it a real 4.62 -- if not for the hammy issue? A 4.5s 40-time would have got him back in the prospect game…a 4.62 time PLUS another ‘hamstring’ wound up not helping his draft stock, at all."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "162c4ce22eaddddada1696f76ef7b0e6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            357.85
+          ],
+          [
+            72.025,
+            368.85
+          ],
+          [
+            374.206,
+            368.85
+          ],
+          [
+            374.206,
+            357.85
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "With his speed times in question, all I can do is tell you what I see…"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "df2c90238b132aa4abe6e47037d8e48e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            380.25
+          ],
+          [
+            72.025,
+            434.65
+          ],
+          [
+            527.244,
+            434.65
+          ],
+          [
+            527.244,
+            380.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "I see a legit power RB for the NFL. I have not seen a runner this tough, this hard-hitting in a long time. Harris’s gift is his power. Every run he has is going 1-3+ extra yards, and the tackler is gonna pay for it when they try to bring him down. He seeks contact and blows up into it. He has a gift, an NFL superpower…his powerful running style."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e22123555cbd0ed65199a5d0e3d87b9a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            446.25
+          ],
+          [
+            72.025,
+            529.6700000000001
+          ],
+          [
+            536.1369999999997,
+            529.6700000000001
+          ],
+          [
+            536.1369999999997,
+            446.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "Many fear that he’s not fast ‘enough’ for the NFL, and I get that…I have a concern on it too, but when I watch him on tape he is running through people, but also running by and past people as well. Word has it that he ran a 4.7+ 40-time his high school junior year and then he went nuts in the gym (where he learned he loved working out from then on in) to transform himself his junior and senior years and ran in the 4.5s as a senior and thus got himself D1 offers as the speed started to make sense with his running prowess and strength as an all-state performer in high school."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dbc66070f844de39fe11373cdeffd00f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            541.08
+          ],
+          [
+            72.025,
+            581.1
+          ],
+          [
+            534.1859999999999,
+            581.1
+          ],
+          [
+            534.1859999999999,
+            541.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "Is Harris a 4.5s or 4.6s guy? I dunno, but I do know he shocked many when he hit a very high-end 21.86 mph on a long TD run against Vandy in 2020. Some guys are just faster on the field then in the track & field version of football scouting…and I think Harris is one of them. https://youtu.be/QOGyQH5zs6s"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a6900058b8174a0a34a8ec3ee5d0571",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            592.7
+          ],
+          [
+            72.025,
+            661.7
+          ],
+          [
+            539.4259999999997,
+            661.7
+          ],
+          [
+            539.4259999999997,
+            592.7
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "Harris’s skills, superpowers for the NFL are not captivating the 40-time fetish scouts. What Harris might lack in pure (timed) speed and agility (had a 7.39 three-cone at his Pro Day), he makes up for in power and instincts. He reminds me of Jordan Howard – not a track star RB, but that SOB finds every hole and will run you over if you’re in his way. Whatever kind of athlete he’s labeled, when fully healthy, as a true sophomore he was a top performer in the SEC on not the best team."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d7d48d517239e9a4f25f679f6775b19",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            673.13
+          ],
+          [
+            72.025,
+            698.725
+          ],
+          [
+            530.336,
+            698.725
+          ],
+          [
+            530.336,
+            673.13
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 2
+    },
+    "text": "I wanna share a few clips of Kevin Harris runs, ones that embody why I think there’s more here (talent- wise) than the scouts and analysts are seeing right now…"
+  },
+  {
+    "type": "Title",
+    "element_id": "fbd95094676666fbf8502cdd36aaa7b6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.73,
+            731.525
+          ],
+          [
+            419.73,
+            742.525
+          ],
+          [
+            545.066,
+            742.525
+          ],
+          [
+            545.066,
+            731.525
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "College Football Metrics| 2"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.5,
+            38.91999999999996
+          ],
+          [
+            329.5,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            38.91999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5b1068380fb81400df852431b2a6cda8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.55,
+            69.77999999999997
+          ],
+          [
+            461.55,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            69.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 3
+    },
+    "text": "MARCH 25, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d188059705cd4ff26cd2844fde0fd18e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            145.37
+          ],
+          [
+            72.025,
+            170.79999999999995
+          ],
+          [
+            535.3999999999999,
+            170.79999999999995
+          ],
+          [
+            535.3999999999999,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 3
+    },
+    "text": "Two runs vs. North Carolina (where South Carolina entered as an underdog to a ranked UNC team…and where Harris is finally healthy in 2021 season and had a huge career-ending effort)…"
+  },
+  {
+    "type": "Title",
+    "element_id": "a9887eaf6742d99346cb14bbd4919029",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            182.39999999999998
+          ],
+          [
+            72.025,
+            193.39999999999998
+          ],
+          [
+            213.96599999999998,
+            193.39999999999998
+          ],
+          [
+            213.96599999999998,
+            182.39999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "https://youtu.be/pP35F8aE0Vc"
+  },
+  {
+    "type": "Title",
+    "element_id": "205cd89daa89b46fca39d31175e10ae3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            204.79999999999995
+          ],
+          [
+            72.025,
+            215.79999999999995
+          ],
+          [
+            209.15599999999998,
+            215.79999999999995
+          ],
+          [
+            209.15599999999998,
+            204.79999999999995
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "https://youtu.be/ics2LGEkH2s"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e94e6c7f8d62df4568f93d2a2e17b3e8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            227.20000000000005
+          ],
+          [
+            72.025,
+            267.22
+          ],
+          [
+            540.0309999999997,
+            267.22
+          ],
+          [
+            540.0309999999997,
+            227.20000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "205cd89daa89b46fca39d31175e10ae3",
+      "page_number": 3
+    },
+    "text": "As I was rewatching his UNC tape, it also reminded me how many times a Kevin Harris run ends with Harris not tackled, just a giant pile that can’t take Harris off his feet and the ref begrudgingly has to blow the play dead for player safety. His leg and core strength is absurd."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f7ea0ead98bbc9fe274695e0439b42e7",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            278.8299999999999
+          ],
+          [
+            72.025,
+            333.23
+          ],
+          [
+            537.105,
+            333.23
+          ],
+          [
+            537.105,
+            278.8299999999999
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "205cd89daa89b46fca39d31175e10ae3",
+      "page_number": 3
+    },
+    "text": "A 3-minute sampling of Harris highlights from his career…where you see many times, he’s just running past and around SEC athletes, or through them – so, I know what his shorts and t-shirt clocked speed is, but in shoulder pads against defenders it seems a bit different…good enough to work in the NFL. https://youtu.be/2OYTXt7XdUA"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c9e0e2a0181240cc43b48ec55d982961",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            344.83
+          ],
+          [
+            72.025,
+            370.25
+          ],
+          [
+            532.991,
+            370.25
+          ],
+          [
+            532.991,
+            344.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "205cd89daa89b46fca39d31175e10ae3",
+      "page_number": 3
+    },
+    "text": "Harris has decent hands in the passing game. Not great, not bad. I saw an NFL.com scout knock him for terrible hands…I didn’t see that on tape. He’s adequate in the RB passing game."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a4bf306369b6faf6081165adbdc50e0b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            381.85
+          ],
+          [
+            72.025,
+            407.25
+          ],
+          [
+            531.3829999999998,
+            407.25
+          ],
+          [
+            531.3829999999998,
+            381.85
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "205cd89daa89b46fca39d31175e10ae3",
+      "page_number": 3
+    },
+    "text": "Character-wise…near perfect. Very quiet. All he does is train and workout. Affable. An academic honor roll student in college in mechanical engineering."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "924025de297e69b7d8ec813d0d4d925f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            418.65
+          ],
+          [
+            72.025,
+            487.67
+          ],
+          [
+            539.7229999999997,
+            487.67
+          ],
+          [
+            539.7229999999997,
+            418.65
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "205cd89daa89b46fca39d31175e10ae3",
+      "page_number": 3
+    },
+    "text": "All I know is this…I’ll sum it up this way – if you offered me a chance to win a million dollars to pick any RB on the planet to try and covert and 3rd & 2 run against the Tampa Bay Bucs run defense of 2021, and the Bucs knew it was going to be a run play…a run play up the middle, for sure, as they stacked 11 in the box – I would take Kevin Harris to get me that million…over Jordan Howard, over Derrick Henry or Jonathan Taylor."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "696013ac8a7a0bcc6ca25786a0a2bc00",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            499.27
+          ],
+          [
+            72.025,
+            568.08
+          ],
+          [
+            538.5880000000001,
+            568.08
+          ],
+          [
+            538.5880000000001,
+            499.27
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "205cd89daa89b46fca39d31175e10ae3",
+      "page_number": 3
+    },
+    "text": "Harris is going to get downgraded in the draft/rankings for his 40-times, and because of his 2021 glitch season with the back issues, and the pre-Draft Combine/Pro Day hamstring tweaks – and all of that is fair enough to consider. I’m just telling you that if healthy, utilized as a power runner behind a decent O- Line…Harris could be the single best/most effective/pro-ready to bang around RB talent in the 2022 NFL Draft…better than Breece Hall as a workhorse in-between the tackles."
+  },
+  {
+    "type": "Title",
+    "element_id": "6ce22990a8930a7d551fa4b6ef9f8cd1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.73,
+            731.525
+          ],
+          [
+            419.73,
+            742.525
+          ],
+          [
+            545.066,
+            742.525
+          ],
+          [
+            545.066,
+            731.525
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "College Football Metrics| 3"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.5,
+            38.91999999999996
+          ],
+          [
+            329.5,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            38.91999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5b1068380fb81400df852431b2a6cda8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.55,
+            69.77999999999997
+          ],
+          [
+            461.55,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            69.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 4
+    },
+    "text": "MARCH 25, 2022"
+  },
+  {
+    "type": "Title",
+    "element_id": "f73b4e3136d8d0a8408d074fe16deaf5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            169.64999999999998
+          ],
+          [
+            72.025,
+            185.64999999999998
+          ],
+          [
+            468.166,
+            185.64999999999998
+          ],
+          [
+            468.166,
+            169.64999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "Kevin Harris, Through the Lens of Our RB Scouting Algorithm:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "28175ad7b532c8cbe1882627b5b2c2e9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            213.39999999999998
+          ],
+          [
+            72.025,
+            224.39999999999998
+          ],
+          [
+            275.366,
+            224.39999999999998
+          ],
+          [
+            275.366,
+            213.39999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f73b4e3136d8d0a8408d074fe16deaf5",
+      "page_number": 4
+    },
+    "text": "-- 358 career carries in college…one fumble."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2a28d2e7d02642cc02fd1921708ec558",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            236.0
+          ],
+          [
+            72.025,
+            247.0
+          ],
+          [
+            540.066,
+            247.0
+          ],
+          [
+            540.066,
+            236.0
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f73b4e3136d8d0a8408d074fe16deaf5",
+      "page_number": 4
+    },
+    "text": "-- Debut game in college, as a true freshman off the bench: 6 carries, 147 yards, 3 TDs (vs. Chattanooga)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "94748aced300872b7423ba47f40c823e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            258.42999999999995
+          ],
+          [
+            72.025,
+            269.42999999999995
+          ],
+          [
+            353.986,
+            269.42999999999995
+          ],
+          [
+            353.986,
+            258.42999999999995
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f73b4e3136d8d0a8408d074fe16deaf5",
+      "page_number": 4
+    },
+    "text": "-- 25 carries, 243 yards, and 5 rushing TDs vs. Ole Miss in 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0e76edc8947d695e675b9da89275bfc3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            281.02
+          ],
+          [
+            72.025,
+            306.42
+          ],
+          [
+            536.049,
+            306.42
+          ],
+          [
+            536.049,
+            281.02
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f73b4e3136d8d0a8408d074fe16deaf5",
+      "page_number": 4
+    },
+    "text": "-- Took 20 or more carries in a game 6 times in his college career, and rushed for 100+ yards five times, 200+ two times…averaging 163.2 rushing yards and 2.0 TDs per game."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "464fd709308d4149144236e832ff42a1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            318.02
+          ],
+          [
+            72.025,
+            329.02
+          ],
+          [
+            446.436,
+            329.02
+          ],
+          [
+            446.436,
+            318.02
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f73b4e3136d8d0a8408d074fe16deaf5",
+      "page_number": 4
+    },
+    "text": "-- Two bowl appearances: 26.0 carries, 196.0 yards rushing, and 1.0 TDs per game."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ecb15b64a0f2ccafb80010f599cfa8a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            340.42
+          ],
+          [
+            72.025,
+            366.02
+          ],
+          [
+            529.929,
+            366.02
+          ],
+          [
+            529.929,
+            340.42
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f73b4e3136d8d0a8408d074fe16deaf5",
+      "page_number": 4
+    },
+    "text": "-- South Carolina had (10-17) record in Harris career 27 game appearances. However, in games he got 20 or more carries they were a more respectable (3-3)."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b48302d02c7d8688f20af5b6775d28c7",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            377.45
+          ],
+          [
+            72.025,
+            388.45
+          ],
+          [
+            352.786,
+            388.45
+          ],
+          [
+            352.786,
+            377.45
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f73b4e3136d8d0a8408d074fe16deaf5",
+      "page_number": 4
+    },
+    "text": "-- Caught 4 or more passes in a game four times in his career."
+  },
+  {
+    "type": "Title",
+    "element_id": "d26abcd918abd8ebe249659b3415495b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            467.48
+          ],
+          [
+            72.025,
+            478.48
+          ],
+          [
+            263.966,
+            478.48
+          ],
+          [
+            263.966,
+            467.48
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2022 NFL Combine/Pro Day Measurables:"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "545d564df424d48941e4713e2ab8eef5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            489.87
+          ],
+          [
+            72.025,
+            500.87
+          ],
+          [
+            122.336,
+            500.87
+          ],
+          [
+            122.336,
+            489.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d26abcd918abd8ebe249659b3415495b",
+      "page_number": 4
+    },
+    "text": "5’9.7”/222"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "036758b20f6614004bf0cb4f6c0a8443",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            512.47
+          ],
+          [
+            72.025,
+            523.47
+          ],
+          [
+            182.136,
+            523.47
+          ],
+          [
+            182.136,
+            512.47
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d26abcd918abd8ebe249659b3415495b",
+      "page_number": 4
+    },
+    "text": "9.5” hands, 31.25” arms"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ee09390b8a671448e1081b0692e671ce",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            534.87
+          ],
+          [
+            72.025,
+            545.87
+          ],
+          [
+            298.186,
+            545.87
+          ],
+          [
+            298.186,
+            534.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d26abcd918abd8ebe249659b3415495b",
+      "page_number": 4
+    },
+    "text": "4.62 40-yard, 2.62 20-yard, 1.66 10-yard (Pro Day)"
+  },
+  {
+    "type": "Title",
+    "element_id": "5e59ca79721f314b8f79b4f16dc2d1e5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            557.47
+          ],
+          [
+            72.025,
+            568.47
+          ],
+          [
+            204.36599999999999,
+            568.47
+          ],
+          [
+            204.36599999999999,
+            557.47
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "4.26 shuttle, 7.39 three-cone"
+  },
+  {
+    "type": "Title",
+    "element_id": "9763b31b89c87649c2410afc0c296d2b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            579.9
+          ],
+          [
+            72.025,
+            590.9
+          ],
+          [
+            260.556,
+            590.9
+          ],
+          [
+            260.556,
+            579.9
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "38.5” vertical, 21 bench reps, 10’6” broad"
+  },
+  {
+    "type": "Title",
+    "element_id": "2c304a39648b2bd2a8db11e97562604f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.73,
+            731.525
+          ],
+          [
+            419.73,
+            742.525
+          ],
+          [
+            545.066,
+            742.525
+          ],
+          [
+            545.066,
+            731.525
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "College Football Metrics| 4"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.5,
+            38.91999999999996
+          ],
+          [
+            329.5,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            38.91999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5b1068380fb81400df852431b2a6cda8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.55,
+            69.77999999999997
+          ],
+          [
+            461.55,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            69.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 5
+    },
+    "text": "MARCH 25, 2022"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d84a798473f081112d894e0acdb03ec5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            145.89999999999998
+          ],
+          [
+            72.025,
+            158.89999999999998
+          ],
+          [
+            525.318,
+            158.89999999999998
+          ],
+          [
+            525.318,
+            145.89999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 5
+    },
+    "text": "The Historical RB Prospects to Whom Kevin Harris Most Compares Within Our System:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05ffae5e4c7cf72c7fff1645f42181e3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            186.39999999999998
+          ],
+          [
+            72.025,
+            255.39999999999998
+          ],
+          [
+            541.185,
+            255.39999999999998
+          ],
+          [
+            541.185,
+            186.39999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 5
+    },
+    "text": "I love the Shonn Greene comp…he was one of the most violent/punishing runners that I’ve scouted over my years. BenJarvus Green-Ellis squeezed every ounce out of his limited talent body in the NFL as a warrior running up the middle in the pros. Ditto Tim Hightower ran with heart and made a long-time NFL career. Ryan Torian was a flash too, but injuries got him. All names who had moments, but weren’t long-term stars…but not many RBs of this style are."
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c72c494d1a5bfa52ea67605791db5923",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            266.83000000000004
+          ],
+          [
+            72.025,
+            277.83000000000004
+          ],
+          [
+            542.866,
+            277.83000000000004
+          ],
+          [
+            542.866,
+            266.83000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 5
+    },
+    "text": "Kevin Harris comps with the smart, savvy, tough, bruising, lesser ‘on paper’ athletic RBs at 220+ pounds."
+  },
+  {
+    "type": "Title",
+    "element_id": "809b65f6989625514e6e75148830b31e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            55.425,
+            311.76
+          ],
+          [
+            55.425,
+            321.12
+          ],
+          [
+            90.72699999999999,
+            321.12
+          ],
+          [
+            90.72699999999999,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "RB Score"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5eb48b3a726fab0c76ab596b65d6097c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            57.625,
+            334.83
+          ],
+          [
+            57.625,
+            435.25
+          ],
+          [
+            88.485,
+            435.25
+          ],
+          [
+            88.485,
+            334.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "809b65f6989625514e6e75148830b31e",
+      "page_number": 5
+    },
+    "text": "7.132 7.643 7.514 5.175 7.092 4.230 -0.047"
+  },
+  {
+    "type": "Title",
+    "element_id": "7496ce424bf5946a0e568e25b2d6628b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            101.22,
+            311.76
+          ],
+          [
+            101.22,
+            321.12
+          ],
+          [
+            126.152,
+            321.12
+          ],
+          [
+            126.152,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "RB-Re"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1778ce2e7917936e7b4b341df45ae6df",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            101.02,
+            334.83
+          ],
+          [
+            101.02,
+            435.25
+          ],
+          [
+            126.11,
+            435.25
+          ],
+          [
+            126.11,
+            334.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7496ce424bf5946a0e568e25b2d6628b",
+      "page_number": 5
+    },
+    "text": "5.32 2.97 3.93 5.80 7.01 2.00 -1.05"
+  },
+  {
+    "type": "Title",
+    "element_id": "a0e67d774e6e522be73e4cf1d92cd83d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            138.05,
+            311.76
+          ],
+          [
+            138.05,
+            321.12
+          ],
+          [
+            161.352,
+            321.12
+          ],
+          [
+            161.352,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "RB-ru"
+  },
+  {
+    "type": "Title",
+    "element_id": "eb970eb0951c6cdeac1ec0cc723fc91e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            190.45,
+            311.76
+          ],
+          [
+            190.45,
+            321.12
+          ],
+          [
+            207.972,
+            321.12
+          ],
+          [
+            207.972,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Last"
+  },
+  {
+    "type": "Title",
+    "element_id": "a151ceb1711aad529a7704248f033339",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            250.47,
+            311.76
+          ],
+          [
+            250.47,
+            321.12
+          ],
+          [
+            269.182,
+            321.12
+          ],
+          [
+            269.182,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "First"
+  },
+  {
+    "type": "Title",
+    "element_id": "05f00f61bbd7cbb7f47de945257784f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            308.1,
+            311.76
+          ],
+          [
+            308.1,
+            321.12
+          ],
+          [
+            338.002,
+            321.12
+          ],
+          [
+            338.002,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College"
+  },
+  {
+    "type": "Title",
+    "element_id": "f07067991cf793df403e554dcf006a68",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            369.53,
+            311.76
+          ],
+          [
+            369.53,
+            321.12
+          ],
+          [
+            379.822,
+            321.12
+          ],
+          [
+            379.822,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Yr"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            396.93,
+            312.12
+          ],
+          [
+            396.93,
+            321.12
+          ],
+          [
+            404.554,
+            321.12
+          ],
+          [
+            404.554,
+            312.12
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "H"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            418.13,
+            311.76
+          ],
+          [
+            418.13,
+            321.12
+          ],
+          [
+            426.232,
+            321.12
+          ],
+          [
+            426.232,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "H"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d50742b762ca03ce462b7811868a01fb",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            138.65,
+            334.83
+          ],
+          [
+            138.65,
+            435.25
+          ],
+          [
+            334.15999999999997,
+            435.25
+          ],
+          [
+            334.15999999999997,
+            334.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "44bd7ae60f478fae1061e11a7739f4b9",
+      "page_number": 5
+    },
+    "text": "8.13 Harris 7.45 Greene 8.25 Howard 4.87 Hightower 6.88 2.99 0.02 Green-Ellis BenJarvus Ole Miss"
+  },
+  {
+    "type": "Title",
+    "element_id": "8ff4c52a72aa7b25564488e2145aec50",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            171.85,
+            394.45
+          ],
+          [
+            171.85,
+            420.45
+          ],
+          [
+            205.53,
+            420.45
+          ],
+          [
+            205.53,
+            394.45
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Zenner Torian"
+  },
+  {
+    "type": "Title",
+    "element_id": "301b70a64b9327af5ae6f733a75e707d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            234.88,
+            334.83
+          ],
+          [
+            234.88,
+            420.45
+          ],
+          [
+            267.14,
+            420.45
+          ],
+          [
+            267.14,
+            334.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Kevin Shonn Jordan Tim Zach Ryan"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "540f953b09d43199c9f4c01ad2f67f4c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            293.5,
+            334.83
+          ],
+          [
+            293.5,
+            435.25
+          ],
+          [
+            432.99,
+            435.25
+          ],
+          [
+            432.99,
+            334.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "301b70a64b9327af5ae6f733a75e707d",
+      "page_number": 5
+    },
+    "text": "So Carolina 2022 5 9.7 Iowa 2009 5 10.4 Indiana 2016 5 11.7 2008 6 0.1 Richmond S. Dakota St. 2015 5 11.4 2008 6 0.3 Arizona St 2008 5 10.5"
+  },
+  {
+    "type": "Title",
+    "element_id": "fcb5f40df9be6bae66c1d77a6c159688",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            448.35,
+            311.76
+          ],
+          [
+            448.35,
+            321.12
+          ],
+          [
+            459.052,
+            321.12
+          ],
+          [
+            459.052,
+            311.76
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "W"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c643d0dd4ad8c7d94bfbc2140d2a9b36",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            444.15,
+            334.83
+          ],
+          [
+            444.15,
+            435.25
+          ],
+          [
+            463.21,
+            435.25
+          ],
+          [
+            463.21,
+            334.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "222 227 230 226 223 225 219"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9f5b2b25e20854d54e2868072570e7f1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            473.75,
+            312.12
+          ],
+          [
+            473.75,
+            435.25
+          ],
+          [
+            500.85200000000003,
+            435.25
+          ],
+          [
+            500.85200000000003,
+            312.12
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "Speed Metric 4.63 1.70 3.14 1.80 3.08 1.50 -1.23"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e076927f0b6f184fcc0cf7d93d9cb24e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            509.75,
+            312.12
+          ],
+          [
+            509.75,
+            435.25
+          ],
+          [
+            536.882,
+            435.25
+          ],
+          [
+            536.882,
+            312.12
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "Agility Metric 2.98 4.81 2.31 0.48 6.00 0.76 -6.93"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6905bb4a9cb9ccccedcdbfefb40acb72",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            545.58,
+            312.12
+          ],
+          [
+            545.58,
+            435.25
+          ],
+          [
+            572.84,
+            435.25
+          ],
+          [
+            572.84,
+            312.12
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "Power Metric 10.81 7.54 9.96 8.28 9.71 7.43 8.60"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d3882e4b8fc07e54432f7ec5887465f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            460.27599999999995
+          ],
+          [
+            72.025,
+            533.906
+          ],
+          [
+            537.1569999999999,
+            533.906
+          ],
+          [
+            537.1569999999999,
+            460.27599999999995
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "A score of 8.50+ is where we see a stronger correlation of RBs going on to become NFL good/great/elite. A score of 10.00+ is more rarefied air in our system and indicates a greater probability of becoming an elite NFL RB. All of the RB ratings are based on a 0-10 scale, but a player can score negative, or above a 10.0 in certain instances."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "904722bd291d705851f7e78e173cda42",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            544.496
+          ],
+          [
+            72.025,
+            596.5260000000001
+          ],
+          [
+            541.415,
+            596.5260000000001
+          ],
+          [
+            541.415,
+            544.496
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "Overall rating/score = A combination of several on-field performance measures, including refinement for strength of opponents faced, mixed with all the physical measurement metrics—then compared/rated historically within our database and formulas. More of a traditional three-down search—runner, blocker, and receiver."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91b94f3ee2765d1978c8dc0db6b01930",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            607.126
+          ],
+          [
+            72.025,
+            686.556
+          ],
+          [
+            541.2330000000001,
+            686.556
+          ],
+          [
+            541.2330000000001,
+            607.126
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "RB-Re score = New/testing starting in 2015. Our new formula/rating that attempts to identify and quantify a prospect’s receiving skills even deeper than in our original formulas. RB prospects can now make it/thrive in the NFL strictly based on their receiving skills—it is an individual attribute sought out for the NFL, and no longer dismissed or overlooked. Our rating combines a study of their receiving numbers in college in relation to their offense and opponents, as well as profiling size-speed-agility along with hand-size measurables, etc."
+  },
+  {
+    "type": "Title",
+    "element_id": "b5a9efa6494b74562a3be97eb3db805b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.73,
+            731.525
+          ],
+          [
+            419.73,
+            742.525
+          ],
+          [
+            545.066,
+            742.525
+          ],
+          [
+            545.066,
+            731.525
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College Football Metrics| 5"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.5,
+            38.91999999999996
+          ],
+          [
+            329.5,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            38.91999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5b1068380fb81400df852431b2a6cda8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.55,
+            69.77999999999997
+          ],
+          [
+            461.55,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            69.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 6
+    },
+    "text": "MARCH 25, 2022"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "98c2304d865301ae8de6b850fca12fc1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            144.79599999999994
+          ],
+          [
+            72.025,
+            245.62599999999998
+          ],
+          [
+            524.646,
+            245.62599999999998
+          ],
+          [
+            524.646,
+            144.79599999999994
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 6
+    },
+    "text": "RB-Ru score = New/testing starting in 2015. Our new formula/rating that attempts to classify and quantify a RB prospect’s ability strictly as a runner of the ball. Our rating combines a study of their rushing numbers in college in relation to their offense and strength of opponents, as well as profiling size-speed-agility along with various size measurables, etc. Raw Speed Metric = A combination of several speed and size measurements from the NFL Combine, judged along with physical size profile, and then compared/rated historically within our database and scouting formulas. This is a rating strictly for RBs of a similar/bigger size profile."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "28c35661fa6217221793ecb609cf1f85",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            256.246
+          ],
+          [
+            72.025,
+            294.64599999999996
+          ],
+          [
+            524.52,
+            294.64599999999996
+          ],
+          [
+            524.52,
+            256.246
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 6
+    },
+    "text": "Agility Metric = A combination of several speed and agility measurements from the NFL Combine, judged along with physical size profile, and then compared/rated historically within our database and scouting formulas. This is a rating strictly for RBs of a similar/bigger size profile."
+  },
+  {
+    "type": "Title",
+    "element_id": "ffbf1c10e5bd5551c02b760c354b3750",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            353.67
+          ],
+          [
+            72.025,
+            365.67
+          ],
+          [
+            194.962,
+            365.67
+          ],
+          [
+            194.962,
+            353.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "2022 NFL Draft Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "136c1b8ca3c67a0f7554e6e89435f07a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            377.25
+          ],
+          [
+            72.025,
+            431.85
+          ],
+          [
+            538.082,
+            431.85
+          ],
+          [
+            538.082,
+            377.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ffbf1c10e5bd5551c02b760c354b3750",
+      "page_number": 6
+    },
+    "text": "Definitely a day three pick, probably 6th-7th-round come draft time…maybe should be a day two pick in reality. He’s the kind of runner the NFL loves, but I’m sure he’ll be a day three guy…the back injury will scare many. Longevity concerns will be a thing…but all NFL RBs are mostly a couple year and then flameout or are just mediocre without notice."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a3361b65d0a98f44d27af48951b796b6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            443.25
+          ],
+          [
+            72.025,
+            468.85
+          ],
+          [
+            528.3900000000001,
+            468.85
+          ],
+          [
+            528.3900000000001,
+            443.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ffbf1c10e5bd5551c02b760c354b3750",
+      "page_number": 6
+    },
+    "text": "If I were an NFL GM, and I wanted a power/workhorse RB out of this draft, for the price, you can have Hall-Walker et. al. – I’ll take Harris as a late bargain."
+  },
+  {
+    "type": "Title",
+    "element_id": "f019bbba3c90fbd2630a58a8fed88d72",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            502.92
+          ],
+          [
+            72.025,
+            514.9200000000001
+          ],
+          [
+            147.56199999999998,
+            514.9200000000001
+          ],
+          [
+            147.56199999999998,
+            502.92
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "NFL Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7846de4103c72e48225c30e73eb98321",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            526.47
+          ],
+          [
+            72.025,
+            552.08
+          ],
+          [
+            522.813,
+            552.08
+          ],
+          [
+            522.813,
+            526.47
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "A guy like Dan Campbell will lose his mind over this guy, as will many old-school head coaches. Mike Vrabel is an idiot if he doesn’t draft the bargain Harris to backup Derrick Henry."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8dceaa3cca4bba66e748268224e87d34",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            563.48
+          ],
+          [
+            72.025,
+            618.1
+          ],
+          [
+            541.6069999999999,
+            618.1
+          ],
+          [
+            541.6069999999999,
+            563.48
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "If Harris can stay healthy, he will earn/force his way onto the field with his running style…then we’ll have to see how much the speed is an issue, or if he can stay between the tackles and just grind his way to big success. If Harris went to the 49ers…watchout Elijah Mitchell in that nice one-cut, up-the-middle run game."
+  },
+  {
+    "type": "Title",
+    "element_id": "bbb7470483974f8c5beb6ccd9178ebd5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.73,
+            731.525
+          ],
+          [
+            419.73,
+            742.525
+          ],
+          [
+            545.066,
+            742.525
+          ],
+          [
+            545.066,
+            731.525
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "College Football Metrics| 6"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.5,
+            38.91999999999996
+          ],
+          [
+            329.5,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            52.91999999999996
+          ],
+          [
+            539.744,
+            38.91999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5b1068380fb81400df852431b2a6cda8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.55,
+            69.77999999999997
+          ],
+          [
+            461.55,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            80.77999999999997
+          ],
+          [
+            539.066,
+            69.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "080d3e3c70e1f1ad999948648a954df3",
+      "page_number": 7
+    },
+    "text": "MARCH 25, 2022"
+  },
+  {
+    "type": "Title",
+    "element_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            256.88,
+            185.75800000000004
+          ],
+          [
+            256.88,
+            194.75800000000004
+          ],
+          [
+            361.91700000000003,
+            194.75800000000004
+          ],
+          [
+            361.91700000000003,
+            185.75800000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "Copyright Statement"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3337388356098e491aeed77fc96e3db",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            210.10000000000002
+          ],
+          [
+            72.025,
+            219.10000000000002
+          ],
+          [
+            276.514,
+            219.10000000000002
+          ],
+          [
+            276.514,
+            210.10000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 7
+    },
+    "text": "Copyright at date and time signed below by R.C. Fischer"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc90d3cc68a3d8e3a5170eae08d7e52f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            233.89999999999998
+          ],
+          [
+            72.025,
+            313.92
+          ],
+          [
+            537.996,
+            313.92
+          ],
+          [
+            537.996,
+            233.89999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 7
+    },
+    "text": "All rights reserved. All content is for entertainment purposes only and TFA is not responsible or liable for personal adverse outcomes nor are any game results or forecasting guaranteed. Past results do not predict future outcomes. We are not held liable for any personal loses incurred. We are solely here to produce and provide content for recreational purposes. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, email the publisher at rcfischer@fantasyfootballmetrics.com"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b3eb4ce4a2895c0a2d11e9318dae0c7d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.025,
+            364.55
+          ],
+          [
+            72.025,
+            373.55
+          ],
+          [
+            410.954,
+            373.55
+          ],
+          [
+            410.954,
+            364.55
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 7
+    },
+    "text": "Signature__________________________________________ Date_____________________"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "246227595e6eb5931e68a3d6ce5b539f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            339.1,
+            359.85
+          ],
+          [
+            339.1,
+            370.85
+          ],
+          [
+            389.216,
+            370.85
+          ],
+          [
+            389.216,
+            359.85
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 7
+    },
+    "text": "3/25/2022"
+  },
+  {
+    "type": "Title",
+    "element_id": "479b1bcbc88d34feb8967d5afa932892",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.73,
+            731.525
+          ],
+          [
+            419.73,
+            742.525
+          ],
+          [
+            545.066,
+            742.525
+          ],
+          [
+            545.066,
+            731.525
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.389400"
+      },
+      "filename": "62423c514514e16e87252176_CFM22_RB_Harris_Kevin.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "College Football Metrics| 7"
+  }
+]

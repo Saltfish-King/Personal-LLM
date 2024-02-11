@@ -1,0 +1,4255 @@
+[
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5553aee1d62fa28056c95fb660688da6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            467.02,
+            69.84000000000003
+          ],
+          [
+            467.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 1
+    },
+    "text": "MARCH 8, 2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "818b5eb4cf1920e42152c85d50e49d02",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            148.2435200000001
+          ],
+          [
+            72.024,
+            164.20352000000003
+          ],
+          [
+            487.95784,
+            164.20352000000003
+          ],
+          [
+            487.95784,
+            148.2435200000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "NFL Draft 2020 Scouting Reports: RB Jonathan"
+  },
+  {
+    "type": "Title",
+    "element_id": "a5e347d501af63094574e60d7f043f40",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            172.60352
+          ],
+          [
+            72.024,
+            188.56351999999993
+          ],
+          [
+            230.72468,
+            188.56351999999993
+          ],
+          [
+            230.72468,
+            172.60352
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "Taylor, Wisconsin"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c855613719e496a399b193537d56b95",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            201.98000000000002
+          ],
+          [
+            72.024,
+            227.53999999999996
+          ],
+          [
+            509.6716799999999,
+            227.53999999999996
+          ],
+          [
+            509.6716799999999,
+            201.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "Our RB grades can and will change as more information comes in from Pro Day workouts, leaked Wonderlic test results, etc. We will update ratings as new info becomes available."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e734f1fba025d17557ec0798dac9f618",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            238.94000000000005
+          ],
+          [
+            72.024,
+            279.04999999999995
+          ],
+          [
+            535.80336,
+            279.04999999999995
+          ],
+          [
+            535.80336,
+            238.94000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "We use the term “Power RB” to separate physically bigger, more between-the-tackles–capable RBs from our “speed RBs” group. “Speed RBs” are physically smaller, but much faster/quicker, and less likely to flourish between the tackles."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "492216131bc862f486ac6ac166805aee",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            313.01000000000005
+          ],
+          [
+            72.024,
+            338.45
+          ],
+          [
+            516.55504,
+            338.45
+          ],
+          [
+            516.55504,
+            313.01000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "I don’t think this will be one of my novella scouting reports…it shouldn’t take a lot of words here to describe/scout Jonathan Taylor."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e8acf45094746674982f2c45f416b0a0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            349.97
+          ],
+          [
+            72.024,
+            389.93
+          ],
+          [
+            531.19968,
+            389.93
+          ],
+          [
+            531.19968,
+            349.97
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "I thought Taylor was the best RB in the 2020 draft class back in my scouting previews conducted in the summer of 2019 – and no one else was even close, and I believed Taylor would have been the best RB prospect if he were in the 2019/previous NFL Draft as well."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b8ebfec3187330b5bd2ae6991f9e9ad",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            401.45000000000005
+          ],
+          [
+            72.024,
+            455.95
+          ],
+          [
+            531.8952000000002,
+            455.95
+          ],
+          [
+            531.8952000000002,
+            401.45000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "When I did more preview work ahead of the NFL Combine…Taylor was still my top guy among the RBs. But when I then saw his NFL Combine, rocket fuel was poured onto an already raging fire of love for Taylor. The question is not “Is Jonathan Taylor the best RB prospect in the 2010 draft class?” No, the question to ponder is – “How good is Taylor as a prospect looking over the past decade?”"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "54340c324cf24e6469e8ea70a69f91ef",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            467.47
+          ],
+          [
+            72.024,
+            507.43
+          ],
+          [
+            523.1512,
+            507.43
+          ],
+          [
+            523.1512,
+            467.47
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "I knew he had size, good movement skills, incredible instincts and vision – he was an obvious great worker with NFL size and movement. What I didn’t realize was he was super high-end in his speed (a 4.39 40-time at the Combine IS CRAZY for his size) to go with his excellent run-the-ball abilities."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0af017d19ecb397ee52a2692a37af9bf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            518.83
+          ],
+          [
+            72.024,
+            573.43
+          ],
+          [
+            529.81448,
+            573.43
+          ],
+          [
+            529.81448,
+            518.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "The more work on Taylor I’ve done, the more I can see/appreciate that speed on tape…and I also see that he catches the ball well – he didn’t get a ton of targets in the passing game at Wisconsin, but he’s fine as a receiver…maybe really fine. He makes some terrific catches on tape, in his limited targeting, and looked fantastic catching the ball at the NFL Combine."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "989a9f2423c005426e85857e2f1f7de5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            584.83
+          ],
+          [
+            72.024,
+            624.94
+          ],
+          [
+            535.91008,
+            624.94
+          ],
+          [
+            535.91008,
+            584.83
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "Making a case for Taylor over D’Andre Swift or Cam Akers or J.K. Dobbins or whomever from 2020 you want to offer up…it’s not worth wasting time typing about it. Taylor is so far ahead of them as a prospect profile, no need to discuss."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb804ef6468c6f0cb62d7dea96e575a2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            636.34
+          ],
+          [
+            72.024,
+            661.9
+          ],
+          [
+            542.4402399999999,
+            661.9
+          ],
+          [
+            542.4402399999999,
+            636.34
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "The question to be pondered – “Just how good is Taylor?” Let’s look at that by comparing him top recent top RB prospects. Let’s consider Taylor vs. Saquon, Zeke, Gurley, David Johnson, Fournette, Chubb."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b7c9861aa77d6ea0a1ae73a8d283bd5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            673.3
+          ],
+          [
+            72.024,
+            713.376
+          ],
+          [
+            542.02336,
+            713.376
+          ],
+          [
+            542.02336,
+            673.3
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a5e347d501af63094574e60d7f043f40",
+      "page_number": 1
+    },
+    "text": "Some of you might be wondering if I am going to address the one big issue with Taylor – his fumbling problem…18 fumbles in his three seasons and 15 of them ‘lost’. Those are big, scary numbers. I’ll get to that in the next section. Put aside the fumbles for now, because I’m first trying to judge the talent – then"
+  },
+  {
+    "type": "Title",
+    "element_id": "41b5d639fbc1a8bb2f19250ed8252fb0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "College Football Metrics| 1"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5553aee1d62fa28056c95fb660688da6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            467.02,
+            69.84000000000003
+          ],
+          [
+            467.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "MARCH 8, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "282b2bc6a02a37c939721213cdb97c30",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            170.77999999999997
+          ],
+          [
+            531.1003200000002,
+            170.77999999999997
+          ],
+          [
+            531.1003200000002,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "we’ll address what the fumbling issue means for his grades, etc. Let’s focus on how good or great he is at running the ball when he isn’t fumbling it first and foremost."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d57f6416ab0abe8e28531e9f99f6fcdf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.30000000000007
+          ],
+          [
+            72.024,
+            251.29999999999995
+          ],
+          [
+            539.39584,
+            251.29999999999995
+          ],
+          [
+            539.39584,
+            182.30000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "Saquon is the only one who can touch Taylor’s speed time for the size – 4.39 40-time for Taylor, 4.40 for Barkley…but Barkley doing so 7 pounds heavier. Let’s not nitpick…we can agree both guys are incredibly fast for their size. The new breed of NFL RB. If you want to pick the best athlete, you pick Saquon. You want to pick the best running back/runner of the ball between the two big speedsters – you pick Taylor, and it’s not even close."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1162ae9efe775290518a63a89fc3ed64",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            262.73
+          ],
+          [
+            72.024,
+            360.77
+          ],
+          [
+            537.77344,
+            360.77
+          ],
+          [
+            537.77344,
+            262.73
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "My biggest knock on Barkley scouting him out of college, and we’ve seen it too much in the pros – not a great interior runner (but OK/good enough), likes to dance a lot and is brought down more easily than he should be. Barkley is not the greatest ‘vision’ RB that I’ve scouted. I’m not sure a running back has ever been physically constructed like Barkley…but if athletic ability was the key, Christine Michael should’ve been a superstar. Jordan Howard is nowhere near the athlete as the big names, but his vision and instincts running the ball may be the best I’ve ever seen…and, thus, he’s successful every time he’s given the chance."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1a991e30321089813993e611cd0c35f6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            372.17
+          ],
+          [
+            72.024,
+            412.25
+          ],
+          [
+            538.3210399999999,
+            412.25
+          ],
+          [
+            538.3210399999999,
+            372.17
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "Taylor is right there with Barkley as an athlete, though Saquon is better…but running ability, no comparison – Taylor is far superior and thus the better NFL RB prospect to Saquon. Both are good/great NFL prospects."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4a3bfa8f72d83db43860a5109c9162f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            423.67
+          ],
+          [
+            72.024,
+            463.75
+          ],
+          [
+            537.9976,
+            463.75
+          ],
+          [
+            537.9976,
+            423.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "Ezekiel Elliott was a warrior running back in college, smart and tough running through the interior...and was successful/had great output. Taylor had better output at a lesser school and tested much better for speed ability."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32e64b6c768dc472c12a216b3444fdfc",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            475.15000000000003
+          ],
+          [
+            72.024,
+            544.15
+          ],
+          [
+            537.93408,
+            544.15
+          ],
+          [
+            537.93408,
+            475.15000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "David Johnson is a freak, but his special sauce was excellent hands (like no other RB I’ve ever seen) and an incredible hulk body with athleticism. Taylor is not an incredible hulk, he’s big and lean and smooth. He doesn’t barrel people over as much as he avoids them or whisks tacklers away/bounces off them easily and keeps going. Taylor is not a purely physical freak runner, per se, as much as he is a technically gifted one with freak-ish athleticism to boot."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "046aa2db71441da92914abc5df91e3b7",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            555.67
+          ],
+          [
+            72.024,
+            639.1
+          ],
+          [
+            541.9352000000001,
+            639.1
+          ],
+          [
+            541.9352000000001,
+            555.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "Leonard Fournette is a mauler…a Mack truck. That’s not Taylor’s style. When Fournette is working in the 225+ pound range, he is more like Taylor…but Fournette is usually 230+ pounds and trying to run through everyone. They have similarities, but Taylor is the better avoider of tacklers where Fournette tries to run through tackles. Taylor’s style a lot less likely to get him injured and more likely leads him to have breakaway plays, because he’s balanced and elusive and always moving, not slowing to punish people for 2-3 extra yards."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "357c46186b240d87c6cf0a6eac47c929",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            650.62
+          ],
+          [
+            72.024,
+            705.096
+          ],
+          [
+            541.04144,
+            705.096
+          ],
+          [
+            541.04144,
+            650.62
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "Nick Chubb, pre-ACL, was the most balanced runner I may have even seen in college. And then I thought he lost that skill some when he got his ACL tear, but he seems to have found it again in the pros. Taylor is like Chubb…only much faster. If you think Chubb is excellent, then you’re gonna love Taylor because he’s a better, no-ACL history version."
+  },
+  {
+    "type": "Title",
+    "element_id": "fbd95094676666fbf8502cdd36aaa7b6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "College Football Metrics| 2"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5553aee1d62fa28056c95fb660688da6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            467.02,
+            69.84000000000003
+          ],
+          [
+            467.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 3
+    },
+    "text": "MARCH 8, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a455a5379472e4070e5f7251dce85af",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            170.77999999999997
+          ],
+          [
+            516.0041600000001,
+            170.77999999999997
+          ],
+          [
+            516.0041600000001,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 3
+    },
+    "text": "If Todd Gurley didn’t have his greatness stolen by his knee issues, maybe that’s the closest thing to Taylor. It’s hard to compare because of Gurley’s injuries and lack of Combine/Pro Day comps."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b1f961f3c6b04281580d08c717e59e9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.30000000000007
+          ],
+          [
+            72.024,
+            236.77999999999997
+          ],
+          [
+            527.1522399999999,
+            236.77999999999997
+          ],
+          [
+            527.1522399999999,
+            182.30000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 3
+    },
+    "text": "The best way I might put Taylor is – if Arian Foster was a far superior athlete, never had a college ACL surgery…that’s Jonathan Taylor. Similar off-field smarts and philosopher mindsets (which may turn some teams off) and similar-ish running styles with Taylor the superior version – and that’s saying something."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3bdfca59671c3dd0e49e280d1325ce90",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            248.30000000000007
+          ],
+          [
+            72.024,
+            273.77
+          ],
+          [
+            531.01264,
+            273.77
+          ],
+          [
+            531.01264,
+            248.30000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 3
+    },
+    "text": "It’s possible Taylor is going to be the best pure, most dominant runner and all-around RB in the league since LaDainian Tomlinson or Arian Foster."
+  },
+  {
+    "type": "Title",
+    "element_id": "9a0c91f419e25c7636151031487a1deb",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            332.0
+          ],
+          [
+            72.024,
+            347.96000000000004
+          ],
+          [
+            493.30696,
+            347.96000000000004
+          ],
+          [
+            493.30696,
+            332.0
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "Jonathan Taylor, Through the Lens of Our RB Scouting Algorithm:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c12446dfd60bee9fdc6f64a4a3d4431",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            375.89000000000004
+          ],
+          [
+            72.024,
+            386.93
+          ],
+          [
+            194.78503999999998,
+            386.93
+          ],
+          [
+            194.78503999999998,
+            375.89000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9a0c91f419e25c7636151031487a1deb",
+      "page_number": 3
+    },
+    "text": "I mean, what can you say…"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6ffe61c5d6ab20395e292c9ac3263035",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            398.33000000000004
+          ],
+          [
+            72.024,
+            409.37
+          ],
+          [
+            322.24504,
+            409.37
+          ],
+          [
+            322.24504,
+            398.33000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9a0c91f419e25c7636151031487a1deb",
+      "page_number": 3
+    },
+    "text": "32 of 41 career college games with 100+ yards rushing."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8abef18750ff9995d4ea33c0c06ea133",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            420.89000000000004
+          ],
+          [
+            72.024,
+            446.46999999999997
+          ],
+          [
+            528.97144,
+            446.46999999999997
+          ],
+          [
+            528.97144,
+            420.89000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9a0c91f419e25c7636151031487a1deb",
+      "page_number": 3
+    },
+    "text": "12 games with 200+ yards rushing, including his 2nd ever college start (26 carries, 223 yards, 3 TDs vs. Fla. Atl.)"
+  },
+  {
+    "type": "Title",
+    "element_id": "fa72a3e98e394e6afad2124d03d88d7e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            457.87
+          ],
+          [
+            72.024,
+            468.90999999999997
+          ],
+          [
+            323.32504,
+            468.90999999999997
+          ],
+          [
+            323.32504,
+            457.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "A 321-yard rushing game with 3 TDs vs. Purdue in 2018."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8c7a991363ae91642a9adef8b18ec6bf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            480.31
+          ],
+          [
+            72.024,
+            491.34999999999997
+          ],
+          [
+            232.46504,
+            491.34999999999997
+          ],
+          [
+            232.46504,
+            480.31
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fa72a3e98e394e6afad2124d03d88d7e",
+      "page_number": 3
+    },
+    "text": "50 rushing TDs in 41 career games."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3bc57bf378ad6175dd3b039bd35ed7fe",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            502.87
+          ],
+          [
+            72.024,
+            513.91
+          ],
+          [
+            351.04504000000003,
+            513.91
+          ],
+          [
+            351.04504000000003,
+            502.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fa72a3e98e394e6afad2124d03d88d7e",
+      "page_number": 3
+    },
+    "text": "4 receiving TDs in 2019 as his game rounded into more shape."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f608f405c96c3665f2d2cc3cea80e817",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            525.31
+          ],
+          [
+            72.024,
+            550.87
+          ],
+          [
+            532.0416799999999,
+            550.87
+          ],
+          [
+            532.0416799999999,
+            525.31
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fa72a3e98e394e6afad2124d03d88d7e",
+      "page_number": 3
+    },
+    "text": "Held to his worst game in college by superior Ohio State in October 2019…20 carries, 52 yards rushing. But bounced back against them in the Big Ten title game with 20 carries for 148 yards and a TD."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3a3c9f2187b51d3177967e9334df522",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            562.39
+          ],
+          [
+            72.024,
+            587.8299999999999
+          ],
+          [
+            536.26936,
+            587.8299999999999
+          ],
+          [
+            536.26936,
+            562.39
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fa72a3e98e394e6afad2124d03d88d7e",
+      "page_number": 3
+    },
+    "text": "He’s #2 in Big Ten history in rushing yards for a career and #6 all-time in the NCAA (and is leaving a year early)."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e299c833f4001dda516040b762f67ed9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            599.38
+          ],
+          [
+            72.024,
+            610.42
+          ],
+          [
+            329.80504,
+            610.42
+          ],
+          [
+            329.80504,
+            599.38
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fa72a3e98e394e6afad2124d03d88d7e",
+      "page_number": 3
+    },
+    "text": "Led the Big Ten in rushing all three seasons of his career."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "61eb7967c93e0594feceb5922f54d7eb",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            621.8199999999999
+          ],
+          [
+            72.024,
+            632.86
+          ],
+          [
+            402.64504,
+            632.86
+          ],
+          [
+            402.64504,
+            621.8199999999999
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fa72a3e98e394e6afad2124d03d88d7e",
+      "page_number": 3
+    },
+    "text": "6.0+ yards per carry every season of his career, including 7.1 ypc in 2018."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "94aded51268aed3e1ffdb14682bcb4c3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            666.8199999999999
+          ],
+          [
+            72.024,
+            692.38
+          ],
+          [
+            533.3888000000001,
+            692.38
+          ],
+          [
+            533.3888000000001,
+            666.8199999999999
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fa72a3e98e394e6afad2124d03d88d7e",
+      "page_number": 3
+    },
+    "text": "There is ONE issue that looms for Taylor…and it’s easy to sweep under the rug amidst the tidal wave of such great other measurables and achievements…Taylor has fumbled 18 times in 41 career"
+  },
+  {
+    "type": "Title",
+    "element_id": "6ce22990a8930a7d551fa4b6ef9f8cd1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "College Football Metrics| 3"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5553aee1d62fa28056c95fb660688da6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            467.02,
+            69.84000000000003
+          ],
+          [
+            467.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 4
+    },
+    "text": "MARCH 8, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9793955c5ff4ce0c09c267906da21250",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            170.77999999999997
+          ],
+          [
+            534.70024,
+            170.77999999999997
+          ],
+          [
+            534.70024,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 4
+    },
+    "text": "games…losing 15 of them. The other top guys mentioned in this report or top RB prospects in this draft class…they don’t have fumble totals anywhere near that level."
+  },
+  {
+    "type": "Title",
+    "element_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.30000000000007
+          ],
+          [
+            72.024,
+            193.34000000000003
+          ],
+          [
+            231.14504,
+            193.34000000000003
+          ],
+          [
+            231.14504,
+            182.30000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "A couple thoughts on his fumbles…"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2b9d448ed0563938c183ac5b5cc966d6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            204.74
+          ],
+          [
+            72.024,
+            230.29999999999995
+          ],
+          [
+            541.6463199999998,
+            230.29999999999995
+          ],
+          [
+            541.6463199999998,
+            204.74
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "-- It didn’t appear to me that he has ‘bad hands’. Part of his issue is he touches the ball A LOT, so his raw totals are elevated."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6fbbfc98447f4cb30074407f73497de",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            241.70000000000005
+          ],
+          [
+            72.024,
+            267.28999999999996
+          ],
+          [
+            532.13872,
+            267.28999999999996
+          ],
+          [
+            532.13872,
+            241.70000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "For example, D’Andre Swift fumbled 7 times in 513 touches (rush + rec.) in his career = a fumble every 73.3 touches. Taylor had 18 fumbles in 968 total career touches = A fumble every 53.8 touches."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca50377c9ee5ca2d422a43a5ae3ee06a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            278.80999999999995
+          ],
+          [
+            72.024,
+            289.84999999999997
+          ],
+          [
+            416.83504,
+            289.84999999999997
+          ],
+          [
+            416.83504,
+            278.80999999999995
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "You want to see the fumble numbers down to a fumble every 100+ touches."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a3f2e781bfa3e3d6d0cf89ba8795635e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            301.25
+          ],
+          [
+            72.024,
+            312.28999999999996
+          ],
+          [
+            404.32504,
+            312.28999999999996
+          ],
+          [
+            404.32504,
+            301.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "Derrick Henry fumbled every 64.2 touches for the Titans on 2019 season."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5640f91688d89df3543dcf73ace9861d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            323.69000000000005
+          ],
+          [
+            72.024,
+            363.77
+          ],
+          [
+            536.24656,
+            363.77
+          ],
+          [
+            536.24656,
+            323.69000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "Ezekiel Elliott has fumbled every 90.5 touches in his career. His rookie season was one fumble per 70+ touches. His 3rd season was one per every 63.5 touches. One per 100+ in 2019, his best showing to pull his career numbers up nicely."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f7e35e7a39dd60a15098e969521da4d6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            375.17
+          ],
+          [
+            72.024,
+            386.21
+          ],
+          [
+            510.67504,
+            386.21
+          ],
+          [
+            510.67504,
+            375.17
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "Chris Carson has a fumble every 63.8 touches in his NFL career. Once every 44.9 touches in 2019."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ee34da35c53908bdb20201091defde4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            397.73
+          ],
+          [
+            72.024,
+            437.71
+          ],
+          [
+            535.58728,
+            437.71
+          ],
+          [
+            535.58728,
+            397.73
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "Physically bigger, high volume RBs tend to fumble a little bit more. But in the case of Derrick Henry or Chris Carson in 2019 or Zeke in his first few seasons – if you’re great otherwise, and your coaching staff is ride or die on you, they take the fumbles with all the other benefits that go with."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "064e4883e7a1ff7415383d343223b7ba",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            449.23
+          ],
+          [
+            72.024,
+            503.71
+          ],
+          [
+            532.70296,
+            503.71
+          ],
+          [
+            532.70296,
+            449.23
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "I’m not making light of the fumble issues because it’s a concern, and the one thing that holds back Taylor from being the 2nd-highest graded RB in our scouting models history…but fumbles happen with high volume backs, and they can be cleaned up. I can’t make David Montgomery faster in his cuts or Kalen Ballage have ‘vision’, but (in theory) you can fix an RB’s/Taylor’s fumbling issue."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5e846e04622156f5dd3616c78cc42cc",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            515.11
+          ],
+          [
+            72.024,
+            584.11
+          ],
+          [
+            536.0793600000001,
+            584.11
+          ],
+          [
+            536.0793600000001,
+            515.11
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "Taylor has had a few fumbles credited working off some wildcat situations that got botched…adding to the tally, ones that were maybe not a real ‘fumbling’ issue in the traditional sense. Take away 3-4 of Taylor’s fumbles in his career…and his numbers fall in line with a more normal/below average rate. The number ’18 fumbles’ is so eyepopping that it makes people doubt Taylor or worry he is a bust, and I get that but in context, though it is an issue, it’s not a massive one…."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e12f5b51db1adb76f55455d3266140bd",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            595.66
+          ],
+          [
+            72.024,
+            635.62
+          ],
+          [
+            536.1566400000002,
+            635.62
+          ],
+          [
+            536.1566400000002,
+            595.66
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "0d0d5306d46a9ff6345ce9a1dc41b4dc",
+      "page_number": 4
+    },
+    "text": "His hand size, his pass catching ability…I don’t see a real habitual problem here. More that he’ll learn to stop fighting for every extra inch in a scrum to not open himself to getting stripped in a dog pile. We hope/assume he can learn that…like every other RB has."
+  },
+  {
+    "type": "Title",
+    "element_id": "2c304a39648b2bd2a8db11e97562604f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "College Football Metrics| 4"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5553aee1d62fa28056c95fb660688da6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            467.02,
+            69.84000000000003
+          ],
+          [
+            467.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 5
+    },
+    "text": "MARCH 8, 2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "45bae1bb013b4384c705a849d466b6d9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            167.77999999999997
+          ],
+          [
+            72.024,
+            178.81999999999994
+          ],
+          [
+            224.54504,
+            178.81999999999994
+          ],
+          [
+            224.54504,
+            167.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2020 NFL Combine measurables…"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "332dbb69a4eea4a6ee2f0e267735b08d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            190.34000000000003
+          ],
+          [
+            72.024,
+            201.38
+          ],
+          [
+            244.70504,
+            201.38
+          ],
+          [
+            244.70504,
+            190.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "45bae1bb013b4384c705a849d466b6d9",
+      "page_number": 5
+    },
+    "text": "5’10.2”/226, 9.5” hands, 31 1/8” arms"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "54760beb406e3562012bc287273c8a8c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            212.77999999999997
+          ],
+          [
+            72.024,
+            223.81999999999994
+          ],
+          [
+            328.12504,
+            223.81999999999994
+          ],
+          [
+            328.12504,
+            212.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "45bae1bb013b4384c705a849d466b6d9",
+      "page_number": 5
+    },
+    "text": "4.39 40-time, 1.46 10-yard, 4.24 shuttle, 7.01 three-cone"
+  },
+  {
+    "type": "Title",
+    "element_id": "ae9a4e24d440c911a83682984c1af365",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            235.22000000000003
+          ],
+          [
+            72.024,
+            246.26
+          ],
+          [
+            290.30504,
+            246.26
+          ],
+          [
+            290.30504,
+            235.22000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "17 bench press, 36.0” vertical, 10’3” broad jump"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "caf368e6e55ea80d1c7a2eff1d717337",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            304.72999999999996
+          ],
+          [
+            72.024,
+            334.61
+          ],
+          [
+            501.718,
+            334.61
+          ],
+          [
+            501.718,
+            304.72999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ae9a4e24d440c911a83682984c1af365",
+      "page_number": 5
+    },
+    "text": "The Historical RB Prospects to Whom Jonathan Taylor Most Compares Within Our System:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2305d827eb0973edcf9e6aa331dd348e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            362.33000000000004
+          ],
+          [
+            72.024,
+            402.28999999999996
+          ],
+          [
+            540.1972800000001,
+            402.28999999999996
+          ],
+          [
+            540.1972800000001,
+            362.33000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ae9a4e24d440c911a83682984c1af365",
+      "page_number": 5
+    },
+    "text": "Taylor is right there with all the top-rated RBs in our database we’ve graded. He’s kinda like Joe Burrow, for me…if Taylor (or Burrow) fail at the next level, why are we even playing/watching college football for scouting purposes?"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0da883e3b1c7c00173b13b2d4a838095",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            413.81
+          ],
+          [
+            72.024,
+            439.39
+          ],
+          [
+            538.75552,
+            439.39
+          ],
+          [
+            538.75552,
+            413.81
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ae9a4e24d440c911a83682984c1af365",
+      "page_number": 5
+    },
+    "text": "My Nick Chubb comp below was back before Chubb got his ACL, as I was doing some pre-work on him. Our Chubb 2018 draft grade was 7.9+."
+  },
+  {
+    "type": "Title",
+    "element_id": "809b65f6989625514e6e75148830b31e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            55.56,
+            473.08
+          ],
+          [
+            55.56,
+            482.44
+          ],
+          [
+            90.84599999999999,
+            482.44
+          ],
+          [
+            90.84599999999999,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "RB Score"
+  },
+  {
+    "type": "Title",
+    "element_id": "7496ce424bf5946a0e568e25b2d6628b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            101.18,
+            473.08
+          ],
+          [
+            101.18,
+            482.44
+          ],
+          [
+            126.122,
+            482.44
+          ],
+          [
+            126.122,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "RB-Re"
+  },
+  {
+    "type": "Title",
+    "element_id": "a0e67d774e6e522be73e4cf1d92cd83d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            140.18,
+            473.08
+          ],
+          [
+            140.18,
+            482.44
+          ],
+          [
+            163.562,
+            482.44
+          ],
+          [
+            163.562,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "RB-ru"
+  },
+  {
+    "type": "Title",
+    "element_id": "eb970eb0951c6cdeac1ec0cc723fc91e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            197.21,
+            473.08
+          ],
+          [
+            197.21,
+            482.44
+          ],
+          [
+            214.71200000000002,
+            482.44
+          ],
+          [
+            214.71200000000002,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Last"
+  },
+  {
+    "type": "Title",
+    "element_id": "a151ceb1711aad529a7704248f033339",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            259.61,
+            473.08
+          ],
+          [
+            259.61,
+            482.44
+          ],
+          [
+            278.312,
+            482.44
+          ],
+          [
+            278.312,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "First"
+  },
+  {
+    "type": "Title",
+    "element_id": "05f00f61bbd7cbb7f47de945257784f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            312.55,
+            473.08
+          ],
+          [
+            312.55,
+            482.44
+          ],
+          [
+            342.41200000000003,
+            482.44
+          ],
+          [
+            342.41200000000003,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College"
+  },
+  {
+    "type": "Title",
+    "element_id": "f07067991cf793df403e554dcf006a68",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            369.55,
+            473.08
+          ],
+          [
+            369.55,
+            482.44
+          ],
+          [
+            379.97200000000004,
+            482.44
+          ],
+          [
+            379.97200000000004,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Yr"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ec6ae965c627d06519465ceafee8cb8f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            56.52,
+            496.27000000000004
+          ],
+          [
+            56.52,
+            611.62
+          ],
+          [
+            350.20096,
+            611.62
+          ],
+          [
+            350.20096,
+            496.27000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f07067991cf793df403e554dcf006a68",
+      "page_number": 5
+    },
+    "text": "Jonathan Wisconsin 10.514 LaDainian 12.017 Todd 10.391 10.523 Saquon 10.955 10.20 10.58 Mendenhall Rashard 10.24 Chubb 8.13 10.584 9.50 10.434 10.01 8.46 7.86 8.514"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "936195694e7259a84d1a3d6f9119c967",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            102.62,
+            496.27000000000004
+          ],
+          [
+            102.62,
+            551.95
+          ],
+          [
+            124.43096000000001,
+            551.95
+          ],
+          [
+            124.43096000000001,
+            496.27000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f07067991cf793df403e554dcf006a68",
+      "page_number": 5
+    },
+    "text": "7.56 8.53 9.27 8.26"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f7700d5ec2fffb8cda68d443bec5800c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            138.14,
+            496.27000000000004
+          ],
+          [
+            138.14,
+            551.95
+          ],
+          [
+            211.82095999999999,
+            551.95
+          ],
+          [
+            211.82095999999999,
+            496.27000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f07067991cf793df403e554dcf006a68",
+      "page_number": 5
+    },
+    "text": "10.61 12.14 10.24 Gurley Barkley 9.48"
+  },
+  {
+    "type": "Title",
+    "element_id": "3494480fb95952bcfaf10ede566a0670",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            176.45,
+            496.27000000000004
+          ],
+          [
+            176.45,
+            522.19
+          ],
+          [
+            227.90096,
+            522.19
+          ],
+          [
+            227.90096,
+            496.27000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Taylor Tomlinson"
+  },
+  {
+    "type": "Title",
+    "element_id": "153726a0465631c90e48f80c1be3e0e9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            176.45,
+            585.67
+          ],
+          [
+            176.45,
+            611.62
+          ],
+          [
+            215.54095999999998,
+            611.62
+          ],
+          [
+            215.54095999999998,
+            585.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Jackson Elliott"
+  },
+  {
+    "type": "Title",
+    "element_id": "fe562e96e585bdb621fa510d4f0c935f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            243.89,
+            570.79
+          ],
+          [
+            243.89,
+            611.62
+          ],
+          [
+            276.86096000000003,
+            611.62
+          ],
+          [
+            276.86096000000003,
+            570.79
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Nick Steven Ezekiel"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7cbcfc5adb74e9e53a845a4e973e85b4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            302.47,
+            496.27000000000004
+          ],
+          [
+            302.47,
+            611.62
+          ],
+          [
+            386.92096000000004,
+            611.62
+          ],
+          [
+            386.92096000000004,
+            496.27000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fe562e96e585bdb621fa510d4f0c935f",
+      "page_number": 5
+    },
+    "text": "2020 2001 TCU 2015 Georgia 2018 Penn St 2008 Illinois 2016 Georgia Oregon St 2004 Ohio State 2016"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            399.91,
+            473.44
+          ],
+          [
+            399.91,
+            482.44
+          ],
+          [
+            407.614,
+            482.44
+          ],
+          [
+            407.614,
+            473.44
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "H"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "670c94f293db421e0243e98f2c7fde0e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            399.91,
+            496.27000000000004
+          ],
+          [
+            399.91,
+            611.62
+          ],
+          [
+            407.71096,
+            611.62
+          ],
+          [
+            407.71096,
+            496.27000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "44bd7ae60f478fae1061e11a7739f4b9",
+      "page_number": 5
+    },
+    "text": "5 5 6 6 5 5 6 5"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bd77fa8ac91ba50821378516af2a0872",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.98,
+            473.44
+          ],
+          [
+            419.98,
+            611.62
+          ],
+          [
+            581.85096,
+            611.62
+          ],
+          [
+            581.85096,
+            473.44
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "44bd7ae60f478fae1061e11a7739f4b9",
+      "page_number": 5
+    },
+    "text": "Agility Speed Power Metric Metric Metric 10.2 226 13.37 8.67 7.66 10.2 221 10.86 11.38 8.45 7.42 222 13.32 12.79 0.5 233 13.62 10.06 10.29 0.0 9.94 10.1 225 13.62 9.76 8.86 10.0 220 10.88 12.99 8.26 6.09 1.4 231 8.07 7.37 11.8 225"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            426.94,
+            473.08
+          ],
+          [
+            426.94,
+            482.44
+          ],
+          [
+            435.082,
+            482.44
+          ],
+          [
+            435.082,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "H"
+  },
+  {
+    "type": "Title",
+    "element_id": "fcb5f40df9be6bae66c1d77a6c159688",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            457.18,
+            473.08
+          ],
+          [
+            457.18,
+            482.44
+          ],
+          [
+            467.842,
+            482.44
+          ],
+          [
+            467.842,
+            473.08
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "W"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ea5f473b01a50189e30225f2e28c5f7c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            485.26,
+            585.67
+          ],
+          [
+            485.26,
+            611.62
+          ],
+          [
+            507.07096,
+            611.62
+          ],
+          [
+            507.07096,
+            585.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "7.87 9.49"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d3882e4b8fc07e54432f7ec5887465f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            636.68464
+          ],
+          [
+            72.024,
+            710.24064
+          ],
+          [
+            537.478,
+            710.24064
+          ],
+          [
+            537.478,
+            636.68464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 5
+    },
+    "text": "A score of 8.50+ is where we see a stronger correlation of RBs going on to become NFL good/great/elite. A score of 10.00+ is more rarefied air in our system and indicates a greater probability of becoming an elite NFL RB. All of the RB ratings are based on a 0-10 scale, but a player can score negative, or above a 10.0 in certain instances."
+  },
+  {
+    "type": "Title",
+    "element_id": "b5a9efa6494b74562a3be97eb3db805b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College Football Metrics| 5"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5553aee1d62fa28056c95fb660688da6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            467.02,
+            69.84000000000003
+          ],
+          [
+            467.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 6
+    },
+    "text": "MARCH 8, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "904722bd291d705851f7e78e173cda42",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            144.84464000000003
+          ],
+          [
+            72.024,
+            196.80463999999995
+          ],
+          [
+            541.49968,
+            196.80463999999995
+          ],
+          [
+            541.49968,
+            144.84464000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 6
+    },
+    "text": "Overall rating/score = A combination of several on-field performance measures, including refinement for strength of opponents faced, mixed with all the physical measurement metrics—then compared/rated historically within our database and formulas. More of a traditional three-down search—runner, blocker, and receiver."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91b94f3ee2765d1978c8dc0db6b01930",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            207.36464
+          ],
+          [
+            72.024,
+            286.71464
+          ],
+          [
+            541.15552,
+            286.71464
+          ],
+          [
+            541.15552,
+            207.36464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 6
+    },
+    "text": "RB-Re score = New/testing starting in 2015. Our new formula/rating that attempts to identify and quantify a prospect’s receiving skills even deeper than in our original formulas. RB prospects can now make it/thrive in the NFL strictly based on their receiving skills—it is an individual attribute sought out for the NFL, and no longer dismissed or overlooked. Our rating combines a study of their receiving numbers in college in relation to their offense and opponents, as well as profiling size-speed-agility along with hand-size measurables, etc."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "98c2304d865301ae8de6b850fca12fc1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            297.39464000000004
+          ],
+          [
+            72.024,
+            398.31464
+          ],
+          [
+            524.4100799999995,
+            398.31464
+          ],
+          [
+            524.4100799999995,
+            297.39464000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 6
+    },
+    "text": "RB-Ru score = New/testing starting in 2015. Our new formula/rating that attempts to classify and quantify a RB prospect’s ability strictly as a runner of the ball. Our rating combines a study of their rushing numbers in college in relation to their offense and strength of opponents, as well as profiling size-speed-agility along with various size measurables, etc. Raw Speed Metric = A combination of several speed and size measurements from the NFL Combine, judged along with physical size profile, and then compared/rated historically within our database and scouting formulas. This is a rating strictly for RBs of a similar/bigger size profile."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "28c35661fa6217221793ecb609cf1f85",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            408.87464
+          ],
+          [
+            72.024,
+            447.29464
+          ],
+          [
+            524.61712,
+            447.29464
+          ],
+          [
+            524.61712,
+            408.87464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 6
+    },
+    "text": "Agility Metric = A combination of several speed and agility measurements from the NFL Combine, judged along with physical size profile, and then compared/rated historically within our database and scouting formulas. This is a rating strictly for RBs of a similar/bigger size profile."
+  },
+  {
+    "type": "Title",
+    "element_id": "855047d05a44cc4a17a85efb85ea4a18",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            506.23
+          ],
+          [
+            72.024,
+            518.23
+          ],
+          [
+            195.12199999999999,
+            518.23
+          ],
+          [
+            195.12199999999999,
+            506.23
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "2020 NFL Draft Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "27bdd9ab090a682f8b8f11f2a8015550",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            529.75
+          ],
+          [
+            72.024,
+            598.75
+          ],
+          [
+            527.12592,
+            598.75
+          ],
+          [
+            527.12592,
+            529.75
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "855047d05a44cc4a17a85efb85ea4a18",
+      "page_number": 6
+    },
+    "text": "If he isn’t the first RB taken in the draft, some GM should be fired. Mainstream people are stuck on D’Andre Swift as the top guy for no more reason than ‘because he was #1 before the Combine’, but reality will sink in and the better scouts will weigh in and Taylor will be the first RB taken and likely go mid-1st-round. Taylor is a better prospect than Josh Jacobs, so he should go higher in the draft as a gauge."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f57f46f2a241501ac155d86c98141eb",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            610.3
+          ],
+          [
+            72.024,
+            650.26
+          ],
+          [
+            536.43264,
+            650.26
+          ],
+          [
+            536.43264,
+            610.3
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "855047d05a44cc4a17a85efb85ea4a18",
+      "page_number": 6
+    },
+    "text": "If I were an NFL GM, if I needed a running back to make my team complete…this is my guy. I don’t think teams should spend 1st-round picks on RBs, but if I were ever going to – Taylor is the type that would tempt me."
+  },
+  {
+    "type": "Title",
+    "element_id": "bbb7470483974f8c5beb6ccd9178ebd5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "College Football Metrics| 6"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5553aee1d62fa28056c95fb660688da6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            467.02,
+            69.84000000000003
+          ],
+          [
+            467.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 7
+    },
+    "text": "MARCH 8, 2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "f019bbba3c90fbd2630a58a8fed88d72",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            168.01999999999998
+          ],
+          [
+            72.024,
+            180.01999999999998
+          ],
+          [
+            147.572,
+            180.01999999999998
+          ],
+          [
+            147.572,
+            168.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "NFL Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3561263775c946df4b5da22afe1d6b2d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            191.66000000000008
+          ],
+          [
+            72.024,
+            217.10000000000002
+          ],
+          [
+            518.5040799999999,
+            217.10000000000002
+          ],
+          [
+            518.5040799999999,
+            191.66000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 7
+    },
+    "text": "If he’s not a perpetual 1,000+ yard rusher/rushing title hopeful year in and out…it would have to be because he got hurt or Doug Marrone or Jeff Fisher was somehow his coach."
+  },
+  {
+    "type": "Title",
+    "element_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            256.85,
+            333.87800000000004
+          ],
+          [
+            256.85,
+            342.87800000000004
+          ],
+          [
+            361.867,
+            342.87800000000004
+          ],
+          [
+            361.867,
+            333.87800000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "Copyright Statement"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3337388356098e491aeed77fc96e3db",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            358.22
+          ],
+          [
+            72.024,
+            367.22
+          ],
+          [
+            276.404,
+            367.22
+          ],
+          [
+            276.404,
+            358.22
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 7
+    },
+    "text": "Copyright at date and time signed below by R.C. Fischer"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc90d3cc68a3d8e3a5170eae08d7e52f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            381.98
+          ],
+          [
+            72.024,
+            462.04
+          ],
+          [
+            537.4639999999999,
+            462.04
+          ],
+          [
+            537.4639999999999,
+            381.98
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 7
+    },
+    "text": "All rights reserved. All content is for entertainment purposes only and TFA is not responsible or liable for personal adverse outcomes nor are any game results or forecasting guaranteed. Past results do not predict future outcomes. We are not held liable for any personal loses incurred. We are solely here to produce and provide content for recreational purposes. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, email the publisher at rcfischer@fantasyfootballmetrics.com"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b3eb4ce4a2895c0a2d11e9318dae0c7d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            512.56
+          ],
+          [
+            72.024,
+            521.56
+          ],
+          [
+            411.094,
+            521.56
+          ],
+          [
+            411.094,
+            512.56
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 7
+    },
+    "text": "Signature__________________________________________ Date_____________________"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c3346ea41849d48e7e8c5e022edade88",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            339.07,
+            507.79
+          ],
+          [
+            339.07,
+            518.8299999999999
+          ],
+          [
+            383.56504,
+            518.8299999999999
+          ],
+          [
+            383.56504,
+            507.79
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 7
+    },
+    "text": "3/8/2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "479b1bcbc88d34feb8967d5afa932892",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:49.034262"
+      },
+      "filename": "5e6b8c57961966288232a6b8_CFM20_RB_Taylor_Jonathan.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "College Football Metrics| 7"
+  }
+]

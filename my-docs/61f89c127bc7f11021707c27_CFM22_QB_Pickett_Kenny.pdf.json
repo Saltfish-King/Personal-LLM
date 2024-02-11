@@ -1,0 +1,5569 @@
+[
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "13c2f589bdfe533ceb5f035e50198002",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            147.93896000000007
+          ],
+          [
+            72.024,
+            164.01896
+          ],
+          [
+            525.89468,
+            164.01896
+          ],
+          [
+            525.89468,
+            147.93896000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 1
+    },
+    "text": "2022 NFL Draft Scouting Report: QB Kenny Pickett,"
+  },
+  {
+    "type": "Title",
+    "element_id": "7c27bb5f579b66728b3f982b67966275",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            172.41896000000008
+          ],
+          [
+            72.024,
+            188.49896
+          ],
+          [
+            108.60464,
+            188.49896
+          ],
+          [
+            108.60464,
+            172.41896000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "Pitt"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86d9b0d74117d71fb4fc11273db39a9e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            201.44727999999998
+          ],
+          [
+            72.024,
+            223.76728000000003
+          ],
+          [
+            535.00848,
+            223.76728000000003
+          ],
+          [
+            535.00848,
+            201.44727999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "Our QB grades can and will change as more information comes in from Pro Day workouts, leaked Wonderlic test results, etc. We will update ratings as new info becomes available."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ac5e85f1a3bc096f06cf8c80b90e3c7e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            257.47
+          ],
+          [
+            72.024,
+            282.94
+          ],
+          [
+            526.33144,
+            282.94
+          ],
+          [
+            526.33144,
+            257.47
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "My ‘hand size issue note from Day 1 of the Senior Bowl week is posted at the bottom of this scouting report"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cc4a23d5e2d27dc4aab197f4de268be0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            317.02000000000004
+          ],
+          [
+            72.024,
+            385.92
+          ],
+          [
+            540.5539200000001,
+            385.92
+          ],
+          [
+            540.5539200000001,
+            317.02000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "This is my first in-depth study of the 2022 NFL Draft season, and I’ve already come up with my early January ‘lock’ bet of the 2022 season – Kenny Pickett is going to be the top pick in the 2022 NFL Draft… I didn’t intend to start my studies with who I thought was the top guy. I skipped on doing a summer 2021 preview on Pickett because I didn’t think anything hot was there in the data…then he went out and had this huge 2021 season and got me interested in seeing what happened, and here we are."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c17882d11ac9f8b9ce272edb8207eb38",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            397.44000000000005
+          ],
+          [
+            72.024,
+            437.53999999999996
+          ],
+          [
+            529.55168,
+            437.53999999999996
+          ],
+          [
+            529.55168,
+            397.44000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "I’m not saying he has my endorsement as being worthy of the #1 pick – I’m just saying he’s the NFL’s kind of top QB prospect. My job is not to guess pick spots -- I’m here to analyze whether Pickett is that good or not, and we will…in a moment. But back to the media cloud/storm coming soon…"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8569c6180474e3b90dfc97609fab7f63",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            449.06
+          ],
+          [
+            72.024,
+            532.37
+          ],
+          [
+            540.8303999999999,
+            532.37
+          ],
+          [
+            540.8303999999999,
+            449.06
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "I really do mean that Pickett is going to be the #1 QB taken in the draft…and #1 overall pick, despite the fact that the entire mock draft media doesn’t have him in their top 3 overall yet…but they have no idea what they’re doing. They never do, and they’re especially awful at reading things in January before the NFL Combine. They’re the same people who, all summer 2021, said Spencer Rattler was the franchise QB #1 overall pick desire of the NFL…and four weeks into the 2021 CFB season his own team didn’t want him."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "110a7826f237f6fe83ce137a09e36e32",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            543.89
+          ],
+          [
+            72.024,
+            583.99
+          ],
+          [
+            539.2924,
+            583.99
+          ],
+          [
+            539.2924,
+            543.89
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "Pickett has the right size/look of a top NFL QB. He has the 2021 production to back that up. He has a ‘tough guy’ approach to the position. He’s smart, well spoken, makes a great presentation. He checks all the proverbial ‘boxes’."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32d07b0b180bb7bbc009b0c6e0c496ea",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            595.51
+          ],
+          [
+            72.024,
+            635.35
+          ],
+          [
+            538.5854400000003,
+            635.35
+          ],
+          [
+            538.5854400000003,
+            595.51
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "If you can, go bet money on Pickett as the #1 pick in the 2022 NFL Draft today – because I don’t see any mock drafts saying he will be the #1 pick right now. It won’t be a pick made by Jacksonville, but it will be to some team acquiring that pick…and I’ll speculate on that in the last section here."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c94db54b342209bab2e978ddefaed256",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            646.87
+          ],
+          [
+            72.024,
+            672.34
+          ],
+          [
+            539.3127999999999,
+            672.34
+          ],
+          [
+            539.3127999999999,
+            646.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "I’ve run the numbers on Pickett, done a background check/investigation, and watched/studied his game tape…and the way I would describe him is a hybrid of Joe Burrow and Justin Herbert."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "13cd6f996a7b2b12dbcd887d1ad07a9a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            683.856
+          ],
+          [
+            72.024,
+            709.5360000000001
+          ],
+          [
+            512.4979200000004,
+            709.5360000000001
+          ],
+          [
+            512.4979200000004,
+            683.856
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "7c27bb5f579b66728b3f982b67966275",
+      "page_number": 1
+    },
+    "text": "Hold on a second…breathe…gather yourself. A Burrow-Herbert hybrid is near-perfection scouting claims…so that would be worthy of your breath being taken away. But I need to add a piece to the"
+  },
+  {
+    "type": "Title",
+    "element_id": "41b5d639fbc1a8bb2f19250ed8252fb0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "College Football Metrics| 1"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "74c197d27ba126dd5126ed8dd6c6ec78",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.37
+          ],
+          [
+            72.024,
+            171.04999999999995
+          ],
+          [
+            528.07584,
+            171.04999999999995
+          ],
+          [
+            528.07584,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 2
+    },
+    "text": "scouting recipe…it’s the 50/50 hybrid mix of Burrow-Herbert, in style/mechanics/movement and skill, but with about 25% of the skill/talent sucked away."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "68cefc62740b8455a357cf7be50a7cd5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.33000000000004
+          ],
+          [
+            72.024,
+            208.02999999999997
+          ],
+          [
+            471.57704,
+            208.02999999999997
+          ],
+          [
+            471.57704,
+            182.33000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 2
+    },
+    "text": "Pickett has some Burrow in him, but he’s not near as good. Pickett has some of Herbert’s style, though he’s not nearly as good. BUT…Pickett is a good/legit NFL prospect."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e29419f469c81acadc02bd65d617f46",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            219.55000000000007
+          ],
+          [
+            72.024,
+            259.39
+          ],
+          [
+            522.5443200000001,
+            259.39
+          ],
+          [
+            522.5443200000001,
+            219.55000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 2
+    },
+    "text": "Pickett has a Burrow type look, movement, throwing ability, and height/size…but Pickett seems a bit thicker/more sturdy. Pickett has the mental side of the game like Herbert (both guys very cerebral)…Pickett is willing to hang in the pocket to the last moment like Herbert."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "70d0e98f7e3e5be559b3e2a4cb777ca0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            270.94000000000005
+          ],
+          [
+            72.024,
+            397.92
+          ],
+          [
+            538.0544800000001,
+            397.92
+          ],
+          [
+            538.0544800000001,
+            270.94000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 2
+    },
+    "text": "Where Pickett falls short is… although he has a pretty solid arm, he doesn’t have quite the arm of Herbert. Pickett is not as Joe Montana/Tom Brady-like of an assassin as Joe Burrow, but Pickett does read the field very well and is not jumpy in the pocket. Pickett’s coolness in the pocket, for me, is one of his two key attributes…but his biggest flaw comes off that pocket calmness as well, in that Pickett can stand calm in a muddy pocket a while because he’s tough, but when Pickett goes to throw from muddiness he doesn’t have the live arm Herbert does, so Pickett waits and waits as he reads the field, and then tries to throw with his feet not set…he tends to flutter and float passes, where Herbert throws laser beams flatfooted. Not a big issue for Pickett in college, but it will hurt him in the faster-to-react NFL."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f98829def8967091add787aede85f8fc",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            409.44000000000005
+          ],
+          [
+            72.024,
+            449.3
+          ],
+          [
+            534.94024,
+            449.3
+          ],
+          [
+            534.94024,
+            409.44000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 2
+    },
+    "text": "Pickett’s top attribute is his ability and desire to read the field, go through multiple progressions…and his calm/tough demeanor in the pocket that allows him to stay put longer to read and react to the field – a rare trait among NFL QBs."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8c24daf4597dbd26dc2b0b8c8fa46663",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            460.82000000000005
+          ],
+          [
+            72.024,
+            544.37
+          ],
+          [
+            540.3694399999999,
+            544.37
+          ],
+          [
+            540.3694399999999,
+            460.82000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 2
+    },
+    "text": "Being 70-80% of a Joe Burrow and/or 70-80% of a Justin Herbert…is still a pretty damn good NFL QB prospect. And I believe he is a legit NFL starting QB talent, although I’d slot him more as a #11-20 QB talent in the NFL (in time/a hope) vs. thinking you got a Burrow-Mahomes-Allen-Herbert-Rodgers-type super-elite skillset. Pickett is more a Kirk Cousins, Matt Ryan level QB…annoyingly good for an NFL team and has his spurts of production but less known for his number compilation than he is for being a leader and a ‘winner’."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b50045c4b2fa8c227d9b642a8a4737e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            555.89
+          ],
+          [
+            72.024,
+            682.9
+          ],
+          [
+            541.7870400000003,
+            682.9
+          ],
+          [
+            541.7870400000003,
+            555.89
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 2
+    },
+    "text": "Pickett has ‘B’ and ‘C+’ skills all over his scouting grade details, but his ‘A’ attributes are harder to measure – leadership, toughness…and how it keeps him cool in the pocket, smart/cerebral. When you have those type of ‘A’ attributes, it can carry/make up for the ‘B’ and ‘C’ attributes and you can be a very successful NFL QB. A franchise QB even. That’s why I think NFL scouts and coaches are gonna absolutely fall in love with him – he’s a good-to-very good QB talent, maybe a great one someday, but definitely a good one…and the way he carries himself in interviews, as a captain/leader, with the smarts, the confidence, the pedigree, the toughness…the whole presentation is going to sail him to the universal media mock draft #1 pick status in short order. My guess is by the end of February, soon after the Senior Bowl (if he really goes there)."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b52d768d66d84cc56041d17fadb7d62",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            694.4159999999999
+          ],
+          [
+            72.024,
+            719.856
+          ],
+          [
+            525.58136,
+            719.856
+          ],
+          [
+            525.58136,
+            694.4159999999999
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 2
+    },
+    "text": "Pickett has the build (6’3”-6’4”, 220), the mind, the college performance, the toughness, and the arm talent to be a #1 pick."
+  },
+  {
+    "type": "Title",
+    "element_id": "fbd95094676666fbf8502cdd36aaa7b6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "College Football Metrics| 2"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d0f36c26233f054a80efb4e77935a077",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.37
+          ],
+          [
+            72.024,
+            199.87
+          ],
+          [
+            523.426,
+            199.87
+          ],
+          [
+            523.426,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 3
+    },
+    "text": "Thinking back to the 2018 QB prospects = Pickett is bigger, way more talented, and more leadership oriented than Sam Darnold was, and Pickett’s confidence is not arrogant to people like Baker Mayfield’s was. Pickett is a bigger, as tough version of Baker…not the pure arm/passer talent but it’s debatable."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5683a361d93d131f63f51925c200e1a7",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            211.39
+          ],
+          [
+            72.024,
+            251.47000000000003
+          ],
+          [
+            529.75504,
+            251.47000000000003
+          ],
+          [
+            529.75504,
+            211.39
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 3
+    },
+    "text": "Thinking back to the 2019 QB prospects = Pickett has all the physical tools and all the personality (for what the NFL looks for) much more than Kyler Murray. The NFL, non-Kingsbury, was scared of Kyler being a bust. Pickett is the way more talented version of Daniel Jones, plus the much tougher version."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd176ff29d158bfac1b991222767d422",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            263.02
+          ],
+          [
+            72.024,
+            317.5
+          ],
+          [
+            540.83608,
+            317.5
+          ],
+          [
+            540.83608,
+            263.02
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 3
+    },
+    "text": "Thinking back to the 2020 QB prospects = Pickett will be seen as more mentally and physically tough than Justin Herbert when coming out in the draft, but not as physically gifted as Herbert. Bigger and less injury prone than Tua. Not sure Pickett could’ve been more well thought of than Joe Burrow, but I bet some would have preferred Pickett’s toughness/attitude."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5394eaad3fd45445c137cca72f5de90d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            329.02000000000004
+          ],
+          [
+            72.024,
+            383.52
+          ],
+          [
+            530.3864800000002,
+            383.52
+          ],
+          [
+            530.3864800000002,
+            329.02000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 3
+    },
+    "text": "Thinking back to the 2021 QB prospects = The media and football people so conned themselves on Trevor Lawrence, no one would have thought Pickett a better prospect (but they should have). But they definitely would have loved Pickett over Zach Wilson because he’s bigger and Wilson is seen as smug where Pickett is ‘confident’, a leader."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cdf4d130bc0658e5171a24dc0bf6f4ec",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            394.8
+          ],
+          [
+            72.024,
+            434.9
+          ],
+          [
+            539.5790400000002,
+            434.9
+          ],
+          [
+            539.5790400000002,
+            394.8
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 3
+    },
+    "text": "I think Pickett will make it as a very solid, good NFL QB with a chance to keep learning and developing as he goes to be a Pro Bowler. He might be the Carson Wentz people were looking for years ago, only a much better QB talent."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aed57693987a72c4f6f1e82b2c505417",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            446.42
+          ],
+          [
+            72.024,
+            544.37
+          ],
+          [
+            540.56128,
+            544.37
+          ],
+          [
+            540.56128,
+            446.42
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 3
+    },
+    "text": "Most everything I see with Pickett is positive – a good arm/can make all the throws. He has good pocket awareness and is mobile enough to get away from trouble. He reads the field very well for a college QB, one of the best QB prospects I’ve seen in taking time to read the field in-progress, under duress – he has no fear in the pocket, which allows him to hang in and make secondary and tertiary reads. He’s got a franchise QB face/look. He’s got a franchise QB ‘body’. He speaks like a person who you would love as the face of the franchise. He’s not too serious but not silly…he’s focused but affable. He’s just excited to play football and is good at it. A natural leader in development."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e604b7a9a023627cdf541f6590849358",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            555.89
+          ],
+          [
+            72.024,
+            610.39
+          ],
+          [
+            521.3116,
+            610.39
+          ],
+          [
+            521.3116,
+            555.89
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 3
+    },
+    "text": "I am mostly glowing about him but note I’m more glowing on his presentation/package than his real scouted skill. I’m never totally dazzled watching him play…just like I’m never bowled over by watching Carson Wentz or Kirk Cousins or Matt Ryan, but I know they’re worthy enough NFL talents…just not the ‘wow’ QB’s like Rodgers, Herbert, Burrow, Mahomes, Kyler, Allen types."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ff563636cddae4792f453ff6d55645d4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            621.91
+          ],
+          [
+            72.024,
+            676.42
+          ],
+          [
+            538.2100800000002,
+            676.42
+          ],
+          [
+            538.2100800000002,
+            621.91
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 3
+    },
+    "text": "Between the top tier elites and the second tier very capable guys is probably Pickett’s upside. That’s not a bad thing. The Dak Prescott zone, maybe? Guys who are never seriously going to be mentioned as an obvious Hall of Famer, but who most teams would be happy to have as their starting, long time QB. Like Eli Manning if he had not won the Super Bowls and not had the name ‘Manning’."
+  },
+  {
+    "type": "Title",
+    "element_id": "6ce22990a8930a7d551fa4b6ef9f8cd1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "College Football Metrics| 3"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "Title",
+    "element_id": "852c415793441be7f21fb9476c927f8f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            236.17000000000007
+          ],
+          [
+            72.024,
+            252.25
+          ],
+          [
+            480.70408,
+            252.25
+          ],
+          [
+            480.70408,
+            236.17000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "Kenny Pickett, Through the Lens of Our QB Scouting Algorithm:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7025683b34708988497e259d83a8040e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            280.54
+          ],
+          [
+            72.024,
+            335.02
+          ],
+          [
+            533.6585600000001,
+            335.02
+          ],
+          [
+            533.6585600000001,
+            280.54
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "852c415793441be7f21fb9476c927f8f",
+      "page_number": 4
+    },
+    "text": "Had a ‘meh’ first four seasons at Pitt and was projected as a 5th-round pick talent by the draft advisory committee this time last year…but he thought he was better, so he took advantage of the COVID extra year to return to play and went out and did a near-Burrow type pop from ‘OK’/not really noticed to ‘boom’ the next year. Pickett posted 42 TDs/7 INTs in the 2021 season in 13 games."
+  },
+  {
+    "type": "Title",
+    "element_id": "ba34b305526bbcd941668ff9a7150a92",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            346.56
+          ],
+          [
+            72.024,
+            357.59999999999997
+          ],
+          [
+            295.41504000000003,
+            357.59999999999997
+          ],
+          [
+            295.41504000000003,
+            346.56
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "All 13 games in 2021 with 2 or more passing TDs."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9eb904418f8dd693235b6b7616a97a48",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            369.12
+          ],
+          [
+            72.024,
+            408.96
+          ],
+          [
+            531.7737600000002,
+            408.96
+          ],
+          [
+            531.7737600000002,
+            369.12
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ba34b305526bbcd941668ff9a7150a92",
+      "page_number": 4
+    },
+    "text": "Is not a speedster, but has good feet…like a Wentz, Rodgers type runner but often shows a Josh Allen mindset to be a physical runner when he has to…he rushed for 20 TDs in 49 career games at Pitt. A Dak Prescott type runner."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8e9bda5f4c883a46c27c1ed1bcab7568",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            443.06
+          ],
+          [
+            72.024,
+            454.09999999999997
+          ],
+          [
+            323.73504,
+            454.09999999999997
+          ],
+          [
+            323.73504,
+            443.06
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ba34b305526bbcd941668ff9a7150a92",
+      "page_number": 4
+    },
+    "text": "Senior Bowl and pre-Combine projected measurables…"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "34f09ece5c62b6cdf4e1c37470ba6b3d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            465.38000000000005
+          ],
+          [
+            72.024,
+            476.42
+          ],
+          [
+            252.43504,
+            476.42
+          ],
+          [
+            252.43504,
+            465.38000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ba34b305526bbcd941668ff9a7150a92",
+      "page_number": 4
+    },
+    "text": "6’3.7”/220, 8.5-9.0”+ hands, 30.6” arms"
+  },
+  {
+    "type": "Title",
+    "element_id": "4c6c5b7b6be6629836dbb1d4cfc1f009",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            487.94000000000005
+          ],
+          [
+            72.024,
+            498.98
+          ],
+          [
+            342.47504000000004,
+            498.98
+          ],
+          [
+            342.47504000000004,
+            487.94000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "Estimates: 4.7+ 40-time runner, with a low 7.0s three-cone."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2ec2ed5f75154aea71b47d11ee6f8556",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            510.53000000000003
+          ],
+          [
+            72.024,
+            535.97
+          ],
+          [
+            532.6680000000001,
+            535.97
+          ],
+          [
+            532.6680000000001,
+            510.53000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4c6c5b7b6be6629836dbb1d4cfc1f009",
+      "page_number": 4
+    },
+    "text": "Now that I’ve written and noted it a few times, now I’m wondering if the computer thinks he has some Dak Prescott in him too. I haven’t run the comps to this point. Let’s see…"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d1fd15c3e1a721e0076309d89ec5f17b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            588.31
+          ],
+          [
+            72.024,
+            601.27
+          ],
+          [
+            535.4689599999999,
+            601.27
+          ],
+          [
+            535.4689599999999,
+            588.31
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4c6c5b7b6be6629836dbb1d4cfc1f009",
+      "page_number": 4
+    },
+    "text": "The Historical QB Prospects to Whom Kenny Pickett Most Compares Within Our System:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bef87058c40fa5dc34f00965c1da01e4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            628.87
+          ],
+          [
+            72.024,
+            639.91
+          ],
+          [
+            419.54504000000003,
+            639.91
+          ],
+          [
+            419.54504000000003,
+            628.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4c6c5b7b6be6629836dbb1d4cfc1f009",
+      "page_number": 4
+    },
+    "text": "Well, our Computer Scouting models didn’t like Dak for a match but I still do."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0721bebe8e702b8acf1347260c8541b5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            651.46
+          ],
+          [
+            72.024,
+            691.54
+          ],
+          [
+            531.92016,
+            691.54
+          ],
+          [
+            531.92016,
+            651.46
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4c6c5b7b6be6629836dbb1d4cfc1f009",
+      "page_number": 4
+    },
+    "text": "The Computer sees more of an old school/throwback type of QB in Pickett…guys like Matt Ryan, Eli Manning were in the mix of the comps for a bit as we set the Pickett data in, but those old school guys had a much worse Comp. Pct. in college (in our weighted, adjusted numbers). Pickett is from the new"
+  },
+  {
+    "type": "Title",
+    "element_id": "2c304a39648b2bd2a8db11e97562604f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "College Football Metrics| 4"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c89dbc86303ed6bd9cdf13eb103a864",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.37
+          ],
+          [
+            72.024,
+            171.04999999999995
+          ],
+          [
+            514.7398400000001,
+            171.04999999999995
+          ],
+          [
+            514.7398400000001,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 5
+    },
+    "text": "school of QB with new school offenses, so it’s somewhat apples-and-oranges in the data to try and compare players from different decades."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7be52121b5df44f213570715894ca67",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.33000000000004
+          ],
+          [
+            72.024,
+            208.02999999999997
+          ],
+          [
+            531.28424,
+            208.02999999999997
+          ],
+          [
+            531.28424,
+            182.33000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 5
+    },
+    "text": "Old school Rivers and Palmer were probably better talents/passers than Ryan-Eli, but I’m not debating that. The Computer sees an old school star potential in Pickett."
+  },
+  {
+    "type": "Title",
+    "element_id": "2d4bc408ab934ce84eacd2fe366d2b1a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            46.584,
+            244.1332
+          ],
+          [
+            46.584,
+            261.41319999999996
+          ],
+          [
+            71.82576,
+            261.41319999999996
+          ],
+          [
+            71.82576,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "QB- Grade"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f570141dff23dc2e31d5d41172590e9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            83.784,
+            244.1332
+          ],
+          [
+            83.784,
+            261.41319999999996
+          ],
+          [
+            110.97175999999999,
+            261.41319999999996
+          ],
+          [
+            110.97175999999999,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "2d4bc408ab934ce84eacd2fe366d2b1a",
+      "page_number": 5
+    },
+    "text": "LJax Rating"
+  },
+  {
+    "type": "Title",
+    "element_id": "eb970eb0951c6cdeac1ec0cc723fc91e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            139.97,
+            244.1332
+          ],
+          [
+            139.97,
+            252.05319999999995
+          ],
+          [
+            158.75176000000002,
+            252.05319999999995
+          ],
+          [
+            158.75176000000002,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Last"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5e209c6cadbc2365b398c42997dc3ef6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            45.624,
+            273.34000000000003
+          ],
+          [
+            45.624,
+            341.74
+          ],
+          [
+            170.15224,
+            341.74
+          ],
+          [
+            170.15224,
+            273.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "eb970eb0951c6cdeac1ec0cc723fc91e",
+      "page_number": 5
+    },
+    "text": "8.584 5.33 9.355 1.86 9.865 0.69 8.024 2.02 Garoppolo 6.179 4.92"
+  },
+  {
+    "type": "Title",
+    "element_id": "98e2de3100522acf860e19e5d3d85fae",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            119.81,
+            273.34000000000003
+          ],
+          [
+            119.81,
+            312.94
+          ],
+          [
+            154.31224,
+            312.94
+          ],
+          [
+            154.31224,
+            273.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Pickett Palmer Rivers"
+  },
+  {
+    "type": "Title",
+    "element_id": "a29e3919ccc690cd5b1c0f18e5cf62d2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            119.81,
+            330.70000000000005
+          ],
+          [
+            119.81,
+            341.74
+          ],
+          [
+            141.33224,
+            341.74
+          ],
+          [
+            141.33224,
+            330.70000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Carr"
+  },
+  {
+    "type": "Title",
+    "element_id": "a151ceb1711aad529a7704248f033339",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            201.43,
+            244.1332
+          ],
+          [
+            201.43,
+            252.05319999999995
+          ],
+          [
+            220.94176000000002,
+            252.05319999999995
+          ],
+          [
+            220.94176000000002,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "First"
+  },
+  {
+    "type": "Title",
+    "element_id": "4185ca46bc2daf71b71c55ceed1560e8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            187.51,
+            273.34000000000003
+          ],
+          [
+            187.51,
+            341.74
+          ],
+          [
+            221.30224,
+            341.74
+          ],
+          [
+            221.30224,
+            273.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Kenny Carson Philip Jimmy Derek"
+  },
+  {
+    "type": "Title",
+    "element_id": "f07067991cf793df403e554dcf006a68",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            250.42,
+            244.1332
+          ],
+          [
+            250.42,
+            252.05319999999995
+          ],
+          [
+            261.02176,
+            252.05319999999995
+          ],
+          [
+            261.02176,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Yr"
+  },
+  {
+    "type": "Title",
+    "element_id": "05f00f61bbd7cbb7f47de945257784f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            297.96,
+            244.1332
+          ],
+          [
+            297.96,
+            252.05319999999995
+          ],
+          [
+            328.98175999999995,
+            252.05319999999995
+          ],
+          [
+            328.98175999999995,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7999be4d466c9959e5e68f9d41b7d564",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            243.46,
+            273.34000000000003
+          ],
+          [
+            243.46,
+            341.74
+          ],
+          [
+            335.34224,
+            341.74
+          ],
+          [
+            335.34224,
+            273.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "05f00f61bbd7cbb7f47de945257784f5",
+      "page_number": 5
+    },
+    "text": "2022 Pitt 2003 USC 2004 NC State 2014 E. Illinois 2014 Fresno State"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            366.38,
+            244.1332
+          ],
+          [
+            366.38,
+            252.05319999999995
+          ],
+          [
+            374.34175999999997,
+            252.05319999999995
+          ],
+          [
+            374.34175999999997,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "H"
+  },
+  {
+    "type": "Title",
+    "element_id": "fcb5f40df9be6bae66c1d77a6c159688",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            395.45,
+            244.1332
+          ],
+          [
+            395.45,
+            252.05319999999995
+          ],
+          [
+            405.09175999999997,
+            252.05319999999995
+          ],
+          [
+            405.09175999999997,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "W"
+  },
+  {
+    "type": "Title",
+    "element_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            418.73,
+            244.1332
+          ],
+          [
+            418.73,
+            270.56319999999994
+          ],
+          [
+            443.47208,
+            270.56319999999994
+          ],
+          [
+            443.47208,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Adj Comp Pct"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4b23865363efcbb1d17682bff051cadf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            359.42,
+            273.34000000000003
+          ],
+          [
+            359.42,
+            341.74
+          ],
+          [
+            449.39223999999996,
+            341.74
+          ],
+          [
+            449.39223999999996,
+            273.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 5
+    },
+    "text": "75.8 217 63.8% 77.0 232 60.3% 77.0 229 69.5% 74.2 222 66.9% 74.8 218 64.0%"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d948f5ca8fcf482883087bbd6263c7ae",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            458.11,
+            244.1332
+          ],
+          [
+            458.11,
+            341.74
+          ],
+          [
+            489.56824,
+            341.74
+          ],
+          [
+            489.56824,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 5
+    },
+    "text": "Adj Yds per Comp 12.4 12.6 13.7 12.5 10.3"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "517522102c4914d1816a4513b24957c3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            500.59,
+            244.1332
+          ],
+          [
+            500.59,
+            341.74
+          ],
+          [
+            528.26176,
+            341.74
+          ],
+          [
+            528.26176,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 5
+    },
+    "text": "Adj Pass per TD 16.2 18.5 17.4 12.1 15.3"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "290105824afbceb4d974b6e64624b4cd",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            539.74,
+            244.1332
+          ],
+          [
+            539.74,
+            341.74
+          ],
+          [
+            570.0417600000001,
+            341.74
+          ],
+          [
+            570.0417600000001,
+            244.1332
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 5
+    },
+    "text": "Adj Pass Per INT 66.1 58.0 50.6 70.4 86.7"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "34bf9f92ec48799ed92e3d59c384e2e8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            388.42464
+          ],
+          [
+            72.024,
+            413.14464
+          ],
+          [
+            515.60608,
+            413.14464
+          ],
+          [
+            515.60608,
+            388.42464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 5
+    },
+    "text": "’LJax rating’ – new for 2022, as we re-do our grading systems to better identify/reward the spread offense QB prospects…looking for the runner-passer talents."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1ba658a4cde5f6284de91e092b60cc7",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            423.72464
+          ],
+          [
+            72.024,
+            434.76464
+          ],
+          [
+            493.27,
+            434.76464
+          ],
+          [
+            493.27,
+            423.72464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 5
+    },
+    "text": "**“Adj” = A view of adjusted college output in our system…adjusted for strength of opponent."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "187a9426ad5850fbf3e04d39aa2b5485",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            445.32464000000004
+          ],
+          [
+            72.024,
+            470.04464
+          ],
+          [
+            515.09632,
+            470.04464
+          ],
+          [
+            515.09632,
+            445.32464000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 5
+    },
+    "text": "***A score of 8.5+ is where we see a stronger correlation of QBs going on to become NFL good-to- great. A scouting score of 9.5+ is rarefied air—higher potential for becoming great-to-elite."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "23a1ad9ebe188b0b8517adebf9fdb451",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            480.60464
+          ],
+          [
+            72.024,
+            519.03464
+          ],
+          [
+            532.11784,
+            519.03464
+          ],
+          [
+            532.11784,
+            480.60464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 5
+    },
+    "text": "QBs scoring 6.0–8.0 are finding more success in the new passing era of the NFL (2014–on). Depending upon the system and surrounding weapons, a 6.0–8.0 rated QB can do fine in today’s NFL—with the right circumstances…but they are not ‘the next Tom Brady’ guys, just NFL-useful guys."
+  },
+  {
+    "type": "Title",
+    "element_id": "ffbf1c10e5bd5551c02b760c354b3750",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            578.23
+          ],
+          [
+            72.024,
+            590.23
+          ],
+          [
+            195.022,
+            590.23
+          ],
+          [
+            195.022,
+            578.23
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2022 NFL Draft Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a25a513c75614c1245246c748eac626f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            601.75
+          ],
+          [
+            72.024,
+            656.23
+          ],
+          [
+            541.9846399999999,
+            656.23
+          ],
+          [
+            541.9846399999999,
+            601.75
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ffbf1c10e5bd5551c02b760c354b3750",
+      "page_number": 5
+    },
+    "text": "As we begin the 2022 NFL Draft journey, with Pickett as the first study out of the gate, I see Pickett being ranked as a top 10 overall and #1-2 QB prospect. So, he’s not a ‘hidden’ prospect by any means. I just think as the real evaluators start factoring in, Pickett will become the obvious/slam dunk #1 overall pick in this draft because any hint of an elite QB should be."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a69c425abc6c3a9f5ba4a6a5ed10d8f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            667.78
+          ],
+          [
+            72.024,
+            693.22
+          ],
+          [
+            530.3956000000001,
+            693.22
+          ],
+          [
+            530.3956000000001,
+            667.78
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ffbf1c10e5bd5551c02b760c354b3750",
+      "page_number": 5
+    },
+    "text": "Jacksonville won’t make this pick, so what team(s) will move up for Pickett? Detroit is a fit…Dan Campbell will like Pickett’s moxie. The Lions could offer their #2 + the 1st-pick they got from the Rams"
+  },
+  {
+    "type": "Title",
+    "element_id": "b5a9efa6494b74562a3be97eb3db805b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College Football Metrics| 5"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4a6bbf0236b41b8184838f40baf95644",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.37
+          ],
+          [
+            72.024,
+            171.04999999999995
+          ],
+          [
+            524.21776,
+            171.04999999999995
+          ],
+          [
+            524.21776,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 6
+    },
+    "text": "this draft year. The Giants could be in play if they wanted to, by trading their TWO 1st-round picks to move up. Carolina I’m sure would like to get in on it."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6114fd24665219d6933d7d53fdcd332f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.33000000000004
+          ],
+          [
+            72.024,
+            208.02999999999997
+          ],
+          [
+            531.84136,
+            208.02999999999997
+          ],
+          [
+            531.84136,
+            182.33000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 6
+    },
+    "text": "A few teams should/will be interested, but some teams have ready-made extra draft capital in 2022 to get it done if they want."
+  },
+  {
+    "type": "Title",
+    "element_id": "f019bbba3c90fbd2630a58a8fed88d72",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            287.26
+          ],
+          [
+            72.024,
+            299.26
+          ],
+          [
+            147.72199999999998,
+            299.26
+          ],
+          [
+            147.72199999999998,
+            287.26
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "NFL Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7320f0ea692f62f1e475882ced5c238e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            310.78000000000003
+          ],
+          [
+            72.024,
+            336.21999999999997
+          ],
+          [
+            525.4350400000001,
+            336.21999999999997
+          ],
+          [
+            525.4350400000001,
+            310.78000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "I think Pickett is going to make a nice NFL QB. Not an all-timer, but a respected/good one. What organization he ultimately winds up with could help…or stunt his growth/upside, as is true of all QBs."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b1f93a37a019258486d489ad6bf2728",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            347.76000000000005
+          ],
+          [
+            72.024,
+            445.7
+          ],
+          [
+            539.95976,
+            445.7
+          ],
+          [
+            539.95976,
+            347.76000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "His one kinda flaw, his weaker arm whip when standing in a muddy pocket…that can be fixed. It may lead to a choppy NFL start to his career with turnovers, but it’s not unexpected for rookies to have some of those transition issues. He can fix that. His other gifts are inherent…and mostly all good+ translating to the NFL. He could be a ‘B+’ NFL QB as we look back in time…or he winds up a solid ‘C/C+’ that never fully fixed his issue and takes too many hits staying in the pocket too long trying to read an extra option or throws flat footed before contact and is deemed too erratic too often. He might grind and hustle and study like a fiend to transform himself to an ‘A’ NFL QB…it’s not off the table."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4c5df0f0fb27003180b95ba88aadb209",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            457.22
+          ],
+          [
+            72.024,
+            497.3
+          ],
+          [
+            527.53624,
+            497.3
+          ],
+          [
+            527.53624,
+            457.22
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "I like Pickett, I don’t love him. I think the NFL scouts and media, and coaches will LOVE him pre- Draft…their daydreams will get away from them and there will be a hot pursuit for Pickett – that’s my nickel bet early on."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "031211ab4edd7a5ca8802ac648e83385",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            508.61
+          ],
+          [
+            72.024,
+            534.29
+          ],
+          [
+            539.5381600000001,
+            534.29
+          ],
+          [
+            539.5381600000001,
+            508.61
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "We’ll update this report, as needed, after/if he attends the Senior Bowl and see how he looks at the NFL Combine."
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a901c1d6f652425b7cbe389ef620ca9d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            568.13
+          ],
+          [
+            72.024,
+            579.17
+          ],
+          [
+            425.06504,
+            579.17
+          ],
+          [
+            425.06504,
+            568.13
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "================================================================"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d37034ab2af7bc492a4f7d61ff6f24d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            613.27
+          ],
+          [
+            72.024,
+            638.71
+          ],
+          [
+            537.04456,
+            638.71
+          ],
+          [
+            537.04456,
+            613.27
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "AFTER THIS (ABOVE) REPORT WAS POSTED, to start the Senior Bowl week, we have the following report to add:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a63ae16cd77435760a6af84951266e6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            672.58
+          ],
+          [
+            72.024,
+            698.256
+          ],
+          [
+            528.7598400000002,
+            698.256
+          ],
+          [
+            528.7598400000002,
+            672.58
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 6
+    },
+    "text": "The Kenny Pickett Hand Size Scouting Issue (the issue + a look at the fumble metrics on the 2022 QB class)?"
+  },
+  {
+    "type": "Title",
+    "element_id": "bbb7470483974f8c5beb6ccd9178ebd5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "College Football Metrics| 6"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bc9c440d3f5680f307bbbadbe7d871b4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            167.93000000000006
+          ],
+          [
+            72.024,
+            193.37
+          ],
+          [
+            507.8908,
+            193.37
+          ],
+          [
+            507.8908,
+            167.93000000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "So, the first scouting ‘firestorm’ of the 2022 Senior Bowl/Scouting season is Kenny Pickett’s hand size…or lack thereof."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "951569dc13d78417e79f73202e63f016",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            204.91000000000008
+          ],
+          [
+            72.024,
+            259.39
+          ],
+          [
+            528.74392,
+            259.39
+          ],
+          [
+            528.74392,
+            204.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "It’s been a whisper issue prior, but now it’s going to be headline news – because Pickett got weighed and measured and everything right along with the other QBs on Monday of Senior Bowl weigh-in day, but he did not take a hand measurement – so, now the whispers have turned into a growing scream/shout."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3cbf67ac06d4c5a177927f4645e2305c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            270.94000000000005
+          ],
+          [
+            72.024,
+            311.02
+          ],
+          [
+            537.1891199999999,
+            311.02
+          ],
+          [
+            537.1891199999999,
+            270.94000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "Is it a real scouting issue? How does it/will it affect our scouting analytics? And how does this affect our previous discussions/debates on the Kenny Pickett betting props? We’ll touch on that at the end of this piece."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f17bb3d0fb1012ce4b1a335db80dc5a6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            367.44000000000005
+          ],
+          [
+            72.024,
+            378.48
+          ],
+          [
+            381.83504,
+            378.48
+          ],
+          [
+            381.83504,
+            367.44000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "The facts/rumors of the ‘hand size’ case (as we know them today)…"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cad9663885fde984b2b9281a75fdb566",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            390.0
+          ],
+          [
+            72.024,
+            429.86
+          ],
+          [
+            535.1078400000004,
+            429.86
+          ],
+          [
+            535.1078400000004,
+            390.0
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "-- Pickett was rumored to have a hand size of 8.25” inches last year by someone’s account (in late 2021). No one knows how credible it was…but him skipping it today probably means there is some kind of issue."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52d294229780d12f9e2eb2745adf0b81",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            441.38000000000005
+          ],
+          [
+            72.024,
+            452.42
+          ],
+          [
+            482.68504,
+            452.42
+          ],
+          [
+            482.68504,
+            441.38000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "-- The supposed NFL line in the sand on the minimum acceptable hand size for a QB is 9.0”."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d19fd138196c29f37cbdf86750b5aa5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            463.94000000000005
+          ],
+          [
+            72.024,
+            504.05
+          ],
+          [
+            535.3469600000003,
+            504.05
+          ],
+          [
+            535.3469600000003,
+            463.94000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "Joe Burrow was the recent (mini) firestorm QB for hand size when he measured at 9.0” exactly. He was then a worry (for a few days of news cycle) to be a risk for the NFL Draft’s top pick, especially to a cold weather city like Cincinnati."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1c7eefe64b669cf1bacde26897256b3c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            515.33
+          ],
+          [
+            72.024,
+            541.01
+          ],
+          [
+            541.2734400000002,
+            541.01
+          ],
+          [
+            541.2734400000002,
+            515.33
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "-- An actual pro FOOTBALL is approx. one inch longer and one inch more in circumference than a college football, so we all do need to see Pickett working an NFL-sized football (and we will in Mobile)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f99e82d28b8b6597b09d4c4c7df46bc",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            552.29
+          ],
+          [
+            72.024,
+            577.97
+          ],
+          [
+            541.0812800000001,
+            577.97
+          ],
+          [
+            541.0812800000001,
+            552.29
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "-- Pickett skipped the hand measurement today…or didn’t want it reported. Probably just skipped it...on purpose."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a797e2f85c6824817b5d170d29b36d5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            589.27
+          ],
+          [
+            72.024,
+            643.99
+          ],
+          [
+            531.14728,
+            643.99
+          ],
+          [
+            531.14728,
+            589.27
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "-- Pickett has a unique ‘issue’ with his thumb for ‘size measurements’…he has a double-jointed thumb which (supposedly) sticks out in an odd direction naturally…hurting his measurement (the way it's taken), BUT the double jointed-ness (supposedly) is thought to be an advantage/helps him to grip the ball better."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "751261247cc61f24efbfe42ab7b0e764",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            655.3
+          ],
+          [
+            72.024,
+            695.376
+          ],
+          [
+            526.4246400000002,
+            695.376
+          ],
+          [
+            526.4246400000002,
+            655.3
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 7
+    },
+    "text": "-- Pickett is working with a therapist to stretch his thumb out/hand out to get a more accurate (more favorable) measurement. There have been several QBs to do the same in recent years (some public, some not)."
+  },
+  {
+    "type": "Title",
+    "element_id": "479b1bcbc88d34feb8967d5afa932892",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "College Football Metrics| 7"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 8
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 8
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3c1382a72bd030f5209a73a8ae728dbd",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.37
+          ],
+          [
+            72.024,
+            171.04999999999995
+          ],
+          [
+            535.27872,
+            171.04999999999995
+          ],
+          [
+            535.27872,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 8
+    },
+    "text": "-- Pickett played most of his career at Pitt with gloves on, both hands…and Pittsburgh is a cold weather place to play."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fcdae3d561c0592e74979870f698ca05",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.33000000000004
+          ],
+          [
+            72.024,
+            208.02999999999997
+          ],
+          [
+            539.40512,
+            208.02999999999997
+          ],
+          [
+            539.40512,
+            182.33000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 8
+    },
+    "text": "-- Pickett was credited with 26 fumbles in 48 career games…10 lost fumbles. In Pickett's 2021 season he had just 3 fumbles and lost two of them. *Using Fox Sports stats"
+  },
+  {
+    "type": "Title",
+    "element_id": "64f58437315bb35bf0798b6f1600d86b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            264.46000000000004
+          ],
+          [
+            72.024,
+            275.5
+          ],
+          [
+            494.92504,
+            275.5
+          ],
+          [
+            494.92504,
+            264.46000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 8
+    },
+    "text": "Fumbles per game (career) for comparisons (on the 2022 semi-mobile/pocket QB prospects):"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "14905bab8322e1f5cf3f2fb38c2a6b8e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            287.02000000000004
+          ],
+          [
+            72.024,
+            298.06
+          ],
+          [
+            177.76504,
+            298.06
+          ],
+          [
+            177.76504,
+            287.02000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "Using Fox Sports stats"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1e08b00065aef3d004252aedabdb1304",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            309.34000000000003
+          ],
+          [
+            72.024,
+            320.38
+          ],
+          [
+            443.06504,
+            320.38
+          ],
+          [
+            443.06504,
+            309.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "0.68 fumbles, 0.43 lost fumbles per game = Desmond Ridder (4 seasons as starter)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8aed711eb1455082d274dd183bd99c9c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            331.90000000000003
+          ],
+          [
+            72.024,
+            342.94
+          ],
+          [
+            434.66504000000003,
+            342.94
+          ],
+          [
+            434.66504000000003,
+            331.90000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "0.54 fumbles, 0.21 lost fumbles per game = Kenny Pickett (4 seasons as starter)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c89acc47b125754516ddce7617d92ee2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            354.48
+          ],
+          [
+            72.024,
+            365.52
+          ],
+          [
+            393.38504,
+            365.52
+          ],
+          [
+            393.38504,
+            354.48
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "0.52 fumbles, 0.26 lost fumbles per game = Matt Corral (last 3 seasons)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c02d31882525e86831ecc7078bc07601",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            377.04
+          ],
+          [
+            72.024,
+            388.08
+          ],
+          [
+            420.98504,
+            388.08
+          ],
+          [
+            420.98504,
+            377.04
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "0.51 fumbles, 0.19 lost fumbles per game = Sam Howell (3 seasons as starter)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1604465a81bb8318c0c090667a519d32",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            421.94000000000005
+          ],
+          [
+            72.024,
+            432.98
+          ],
+          [
+            163.60504,
+            432.98
+          ],
+          [
+            163.60504,
+            421.94000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "Others to consider…"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4e6a5846851cf352645bb65049f1f090",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            444.5
+          ],
+          [
+            72.024,
+            455.53999999999996
+          ],
+          [
+            532.87504,
+            455.53999999999996
+          ],
+          [
+            532.87504,
+            444.5
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "0.61 fumbles, 0.36 lost fumbles per game = Malik Willis (2 seasons as starter at Liberty…highly mobile)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "315a511543b67467f570110ae703346a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            466.82000000000005
+          ],
+          [
+            72.024,
+            477.86
+          ],
+          [
+            502.12504,
+            477.86
+          ],
+          [
+            502.12504,
+            466.82000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "0.35 fumbles, 0.13 lost fumbles per game = Carson Strong (3 seasons as starter…very immobile)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "76a898c6b0c0371da43b46de6bb15713",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            489.38000000000005
+          ],
+          [
+            72.024,
+            514.8499999999999
+          ],
+          [
+            513.51824,
+            514.8499999999999
+          ],
+          [
+            513.51824,
+            489.38000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "0.14 fumbles, 0.07 lost fumbles per game = Bailey Zappe (1 season as D1 starter, and he rarely got touched)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5349a49077f7f23f0eb9d3afd19df088",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            571.51
+          ],
+          [
+            72.024,
+            596.95
+          ],
+          [
+            508.59592000000004,
+            596.95
+          ],
+          [
+            508.59592000000004,
+            571.51
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "Does this matter to you (RC) as a scout and/or running scouting analytics…and for the on-going betting discussions on Pickett?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "54f85210ccc8a4c3287701f2e4c00fa3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            608.47
+          ],
+          [
+            72.024,
+            619.51
+          ],
+          [
+            199.60504,
+            619.51
+          ],
+          [
+            199.60504,
+            608.47
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "Does it matter for scouting?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c19cb735a25644b20a83b1343959f267",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            630.79
+          ],
+          [
+            72.024,
+            685.54
+          ],
+          [
+            529.5802400000001,
+            685.54
+          ],
+          [
+            529.5802400000001,
+            630.79
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "64f58437315bb35bf0798b6f1600d86b",
+      "page_number": 8
+    },
+    "text": "Yes. I mean, I’d rather have a QB with 10” hands than with 8” ones. The inch(es) matter. Everything matters when teams make investments of millions of dollars on football assets. For the NFL, for Dynasty/Fantasy…I want bigger hands so that there is no (theoretical) grip issue, propensity to fumble issue, etc."
+  },
+  {
+    "type": "Title",
+    "element_id": "670b62678a7777925c92a87678884e32",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 8
+    },
+    "text": "College Football Metrics| 8"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 9
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 9
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f7cb9455cb63728f957cac0195f8f38",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.37
+          ],
+          [
+            72.024,
+            185.45000000000005
+          ],
+          [
+            537.4166399999999,
+            185.45000000000005
+          ],
+          [
+            537.4166399999999,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 9
+    },
+    "text": "Pickett runs the ball kinda like Burrow-Herbert-Mahomes…not as their lead punch/gift, but they will get up and go as needed and are pretty effective at it. They’re not deathly slow pocket QB slugs, they’re pretty nimble but not Lamar Jackson nimble/fast/weaponized."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "668f9d09aec4030c357564bda77eb0c3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            196.99
+          ],
+          [
+            72.024,
+            237.06999999999994
+          ],
+          [
+            529.9542399999999,
+            237.06999999999994
+          ],
+          [
+            529.9542399999999,
+            196.99
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 9
+    },
+    "text": "The small hands issue is only a scouting issue…if it is. Pickett was terrific in 2021 for Pitt. We did our initial full scouting and looked fine throwing the ball…he can make ’all the throws’. He wears gloves to add to his grip."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7daa03a89d6ef2f8cea63cbae226529a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            248.35000000000002
+          ],
+          [
+            72.024,
+            317.5
+          ],
+          [
+            540.1641600000003,
+            317.5
+          ],
+          [
+            540.1641600000003,
+            248.35000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 9
+    },
+    "text": "When I scouted him prior…the smaller hands may be part of the reason for the one negative we hit on with him – he doesn’t have a cannon in a muddy pocket when he’s caught flat footed or leaning back with arms and bodies all around him. Justin Herbert throws major league fastballs flatfooted. Pickett does not. It’s not a damning drop off (compared to his throwing with space/a step and plant and throw), but it is why we scout/grade him less than Herbert…less than Burrow, etc. But still ‘good’ for the NFL."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "449e230dbb47a9b70f4838c02b1fbb13",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            329.02000000000004
+          ],
+          [
+            72.024,
+            354.48
+          ],
+          [
+            466.72608000000014,
+            354.48
+          ],
+          [
+            466.72608000000014,
+            329.02000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 9
+    },
+    "text": "It’s odd that 6’3”+ QB has such small hands…but he also registered with very short arms (30.6”)/wingspan (72.75”) for his size. So, the small hands might be more real than not."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a0592f8a7ef06b2553cfcf9ebca3681",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            388.32000000000005
+          ],
+          [
+            72.024,
+            399.36
+          ],
+          [
+            222.67504,
+            399.36
+          ],
+          [
+            222.67504,
+            388.32000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 9
+    },
+    "text": "Will the NFL hold it against him?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f22134b36e4a9f058dca26ecc1915ebf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            410.88000000000005
+          ],
+          [
+            72.024,
+            537.89
+          ],
+          [
+            537.9009600000004,
+            537.89
+          ],
+          [
+            537.9009600000004,
+            410.88000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 9
+    },
+    "text": "Yes and No. it will fade a bit if he does fine at the Senior Bowl. There will be a microscope on his throws all week in Mobile, but the practice week there is not ‘real’…in that it’s a lot of non-contact/t-shirts and shorts stuff, 7-on-7 and 1-on-1 stuff at first then builds to mild fully padded work in 11-on-11, but not much of that ‘real’ work at all until blips of it day/practice three (of 3) typically. Then he’ll play a quarter or so in the game itself. The Senior Bowl drills and such will be to his advantage because there will not be real defensive heat on him (or any QB). The TV analysts will see ‘no issue’ visible in the non-pressure throwing (which is why they thought Logan Thomas, among other frauds, was a real/legit QB…they are head-faked every year by throwing in drills) and the Senior Bowl analysts will want to defend the young man, so all the media words will be ‘no big deal…this is dumb’."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d38bacb1249b22b2e207bd6c2a13517",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            549.41
+          ],
+          [
+            72.024,
+            632.95
+          ],
+          [
+            540.2064800000003,
+            632.95
+          ],
+          [
+            540.2064800000003,
+            549.41
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 9
+    },
+    "text": "However, the NFL teams wanting Pickett to fall in the draft (because he’s the only real franchise guy/look in this draft)…those teams will have disinformation out to the media to keep an issue stoked as long as they can. NFL disinformation campaigns are not wanting to convince YOU, the fan…the Steelers (for example) want to con/worry the Giants or Panthers or any perceived threats to acquiring an asset on the cheap – if the young man is unfairly torpedoed in draft stock/pay by a non-issue made to be an issue in war rooms…well, too bad for the player. A harsh reality of a billion-dollar business."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa2df8410911d7729559367bfd4686cf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            644.23
+          ],
+          [
+            72.024,
+            669.94
+          ],
+          [
+            512.9236,
+            669.94
+          ],
+          [
+            512.9236,
+            644.23
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d6ab2d040dace98a742a3a8de7114d9b",
+      "page_number": 9
+    },
+    "text": "FYI, on NFL QBs with less than 9.0” hand sizes: Michael Vick measured 8.5”. Brandon Allen 8 and 7/8th” (Combine) Up from 8.5” (Senior Bowl) after working with a therapist)"
+  },
+  {
+    "type": "Title",
+    "element_id": "7a04c4718228c140512f407915227374",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 9
+    },
+    "text": "College Football Metrics| 9"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 10
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d6ab2d040dace98a742a3a8de7114d9b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            460.75,
+            69.98000000000002
+          ],
+          [
+            460.75,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 10
+    },
+    "text": "JANUARY 4, 2022"
+  },
+  {
+    "type": "Title",
+    "element_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            256.9,
+            185.60343999999998
+          ],
+          [
+            256.9,
+            194.72343999999998
+          ],
+          [
+            361.97696,
+            194.72343999999998
+          ],
+          [
+            361.97696,
+            185.60343999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 10
+    },
+    "text": "Copyright Statement"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3337388356098e491aeed77fc96e3db",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            210.18999999999994
+          ],
+          [
+            72.024,
+            219.30999999999995
+          ],
+          [
+            276.50112,
+            219.30999999999995
+          ],
+          [
+            276.50112,
+            210.18999999999994
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 10
+    },
+    "text": "Copyright at date and time signed below by R.C. Fischer"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc90d3cc68a3d8e3a5170eae08d7e52f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            233.70999999999992
+          ],
+          [
+            72.024,
+            314.14
+          ],
+          [
+            537.5788000000002,
+            314.14
+          ],
+          [
+            537.5788000000002,
+            233.70999999999992
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 10
+    },
+    "text": "All rights reserved. All content is for entertainment purposes only and TFA is not responsible or liable for personal adverse outcomes nor are any game results or forecasting guaranteed. Past results do not predict future outcomes. We are not held liable for any personal loses incurred. We are solely here to produce and provide content for recreational purposes. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, email the publisher at rcfischer@fantasyfootballmetrics.com"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b3eb4ce4a2895c0a2d11e9318dae0c7d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            364.56
+          ],
+          [
+            72.024,
+            373.67999999999995
+          ],
+          [
+            411.19112,
+            373.67999999999995
+          ],
+          [
+            411.19112,
+            364.56
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 10
+    },
+    "text": "Signature__________________________________________ Date_____________________"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f213e70cc676cce258e58c7b5ae8671b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            339.26,
+            360.0
+          ],
+          [
+            339.26,
+            371.03999999999996
+          ],
+          [
+            383.75504,
+            371.03999999999996
+          ],
+          [
+            383.75504,
+            360.0
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 10
+    },
+    "text": "1/4/2022"
+  },
+  {
+    "type": "Title",
+    "element_id": "ea8384e39ea6077a93b0fcc3dbd3fc12",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            414.41,
+            731.64
+          ],
+          [
+            414.41,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:50.000559"
+      },
+      "filename": "61f89c127bc7f11021707c27_CFM22_QB_Pickett_Kenny.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 10
+    },
+    "text": "College Football Metrics| 10"
+  }
+]

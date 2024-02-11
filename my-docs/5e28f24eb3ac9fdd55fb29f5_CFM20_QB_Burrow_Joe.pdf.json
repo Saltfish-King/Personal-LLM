@@ -1,0 +1,4442 @@
+[
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d864a80a335d16890b607d3eaae19796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.02,
+            69.84000000000003
+          ],
+          [
+            455.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "JANUARY 15, 2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "e5b19d5277b16f92c88c237ab03b378b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            148.2435200000001
+          ],
+          [
+            72.024,
+            164.20352000000003
+          ],
+          [
+            543.8746799999999,
+            164.20352000000003
+          ],
+          [
+            543.8746799999999,
+            148.2435200000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2020 NFL Draft Scouting Report: QB Joe Burrow, LSU"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86d9b0d74117d71fb4fc11273db39a9e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            177.01136000000008
+          ],
+          [
+            72.024,
+            199.4513599999999
+          ],
+          [
+            534.8452800000005,
+            199.4513599999999
+          ],
+          [
+            534.8452800000005,
+            177.01136000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e5b19d5277b16f92c88c237ab03b378b",
+      "page_number": 1
+    },
+    "text": "Our QB grades can and will change as more information comes in from Pro Day workouts, leaked Wonderlic test results, etc. We will update ratings as new info becomes available."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8dde0562ecba44c9d29b50e9a2c1ca6d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            232.94000000000005
+          ],
+          [
+            72.024,
+            273.04999999999995
+          ],
+          [
+            531.8105599999999,
+            273.04999999999995
+          ],
+          [
+            531.8105599999999,
+            232.94000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e5b19d5277b16f92c88c237ab03b378b",
+      "page_number": 1
+    },
+    "text": "Is there anyone speaking out against Joe Burrow as a top QB prospect? Does anyone even doubt that he’s the #1 pick in the draft (not necessarily admitting he’s the best player, just that he will be the #1 pick)? So, what more could I add to the Burrow lovefest of 2020?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2a1f6ace05aac72567ef67efeacc454c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            284.45000000000005
+          ],
+          [
+            72.024,
+            338.93
+          ],
+          [
+            527.85504,
+            338.93
+          ],
+          [
+            527.85504,
+            284.45000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e5b19d5277b16f92c88c237ab03b378b",
+      "page_number": 1
+    },
+    "text": "If I say that I’m very much a Burrow fan for the next level, pro-Burrow as a scout – well then there’s some intrigue taken out of this report already. Just another guy singing Burrow’s praises, big deal! However, despite any desire I might have to surprise you with a controversial take on Burrow, I’m just not finding any reason for a controversial, contrarian call for him as a bust. Not at all."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1f23e4e9396902707c34c276965b9cb",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            350.45000000000005
+          ],
+          [
+            72.024,
+            361.49
+          ],
+          [
+            507.19504,
+            361.49
+          ],
+          [
+            507.19504,
+            350.45000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e5b19d5277b16f92c88c237ab03b378b",
+      "page_number": 1
+    },
+    "text": "The only real intrigue remaining with Burrow, for scouts and fans – just how good is Joe Burrow?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a352914d66f786d3a194428e4d51d055",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            372.89000000000004
+          ],
+          [
+            72.024,
+            456.43
+          ],
+          [
+            540.7051200000002,
+            456.43
+          ],
+          [
+            540.7051200000002,
+            372.89000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e5b19d5277b16f92c88c237ab03b378b",
+      "page_number": 1
+    },
+    "text": "As I was researching background for this report, I was watching some media segments and commentary, post-National Title game. One that caught my eye/ear was Colin Cowherd trying to classify/comp Burrow. He had top CFB analyst Joel Klatt on his show, and Klatt, in full seriousness, compared Burrow to Joe Montana… which makes some sense the more you think of it. The following day, on his show, Cowherd compared Burrow to Tony Romo…a quarterback Colin holds in high regard, so it was a nice comp, even if not quite as glowing as Klatt’s Montana call."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e66298b347ebbc8af1c7cd0a8fd58542",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            467.83000000000004
+          ],
+          [
+            72.024,
+            478.87
+          ],
+          [
+            184.22503999999998,
+            478.87
+          ],
+          [
+            184.22503999999998,
+            467.83000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e5b19d5277b16f92c88c237ab03b378b",
+      "page_number": 1
+    },
+    "text": "Where do I come down?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ace900ea69e8a002ad00aa27ae61c104",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            490.39000000000004
+          ],
+          [
+            72.024,
+            617.38
+          ],
+          [
+            538.8884800000001,
+            617.38
+          ],
+          [
+            538.8884800000001,
+            490.39000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e5b19d5277b16f92c88c237ab03b378b",
+      "page_number": 1
+    },
+    "text": "Well, I can tell you this… I’m 10+ years into my computer scouting models for grading and identifying talent. It’s been a good run and I’ve been ahead of the curve on QBs for most of my scouting analytics and tape assessment career. If you’ve been with me for a while, you know this. I’m not just blowing smoke on my resume. My initial QB grading models, first developed/hatched 10+ years ago, were based on ‘finding the next Tom Brady’ and I’ve been modifying the system as we go, as football evolves faster and faster…though most of my core principles for judging passer ability for the next level are the same, and tried and true. All that being said, Joe Burrow’s 2019 season ‘breaks’ my system – the single greatest performance at quarterback my computations have ever seen. If you ask my computer, only four QB prospects have ever scored greater than ‘11’ on our 0-10 scale…"
+  },
+  {
+    "type": "Title",
+    "element_id": "3d336ce60935fba3e491d1e3af9e357d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            628.78
+          ],
+          [
+            72.024,
+            639.8199999999999
+          ],
+          [
+            210.26504,
+            639.8199999999999
+          ],
+          [
+            210.26504,
+            628.78
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "11.15 = Peyton Manning 1998"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3b89bb1be163780cca50b066b13cfc1f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            651.34
+          ],
+          [
+            72.024,
+            662.38
+          ],
+          [
+            184.34503999999998,
+            662.38
+          ],
+          [
+            184.34503999999998,
+            651.34
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "3d336ce60935fba3e491d1e3af9e357d",
+      "page_number": 1
+    },
+    "text": "11.46 = Tom Brady 2000"
+  },
+  {
+    "type": "Title",
+    "element_id": "d60a23f40311b526730b6851066f3796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            673.78
+          ],
+          [
+            72.024,
+            684.82
+          ],
+          [
+            193.94503999999998,
+            684.82
+          ],
+          [
+            193.94503999999998,
+            673.78
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "12.15 = Andrew Luck 2012"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ad25045d32d3719ed43b0ba3800dc46c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            696.336
+          ],
+          [
+            72.024,
+            707.376
+          ],
+          [
+            186.50503999999998,
+            707.376
+          ],
+          [
+            186.50503999999998,
+            696.336
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d60a23f40311b526730b6851066f3796",
+      "page_number": 1
+    },
+    "text": "13.08 = Joe Burrow 2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "41b5d639fbc1a8bb2f19250ed8252fb0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "College Football Metrics| 1"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d864a80a335d16890b607d3eaae19796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.02,
+            69.84000000000003
+          ],
+          [
+            455.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "JANUARY 15, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04034674542d6023168eb33719035cb6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            167.77999999999997
+          ],
+          [
+            72.024,
+            178.81999999999994
+          ],
+          [
+            342.40504000000004,
+            178.81999999999994
+          ],
+          [
+            342.40504000000004,
+            167.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 2
+    },
+    "text": "Computer model-wise…Burrow is ‘can’t miss’, a future elite."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8fe01b43e93c24047f920db519220295",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            190.34000000000003
+          ],
+          [
+            72.024,
+            215.77999999999997
+          ],
+          [
+            515.1412,
+            215.77999999999997
+          ],
+          [
+            515.1412,
+            190.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 2
+    },
+    "text": "As a scout, outside of just relying on the numbers, which can always be deceiving… can I refute the ‘elite’ label on Burrow? I really can’t."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6fad1aabb6009bce6354c349ae6c4638",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            227.30000000000007
+          ],
+          [
+            72.024,
+            397.73
+          ],
+          [
+            535.53504,
+            397.73
+          ],
+          [
+            535.53504,
+            227.30000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 2
+    },
+    "text": "Consider what he just did – not only did he obliterate several historical statistical categories, but he did so in the toughest conference with arguably the toughest schedule any elite QB has ever faced in their final/best college season. He’s not a ‘system’ QB… LSU had no established system prior to Burrow blowing up. Everyone thought Ed Orgeron was a quasi-joke of a coach and no one paid attention to any of the LSU coordinators. Joe Brady had a couple years of football coaching experience, and no one was expecting a new QB coach to change the world immediately. If anything, LSU’s passing game was a long-time failure. They were a team that relied on running and bad QB play to produce mediocre-good seasons the past decade. The last time LSU made the BCS title game was in 2011…and they were shut out by Alabama in that game. That’s the LSU many of us remember…good, but not Alabama good (kind of like we think of Georgia today). Out of the LSU ashes…Burrow became a mega-star, mega-producer out of nowhere in a system that hasn’t shown the ability to produce stars at quarterback."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d5f4e70ecd7a5d7ed18a976c4d6c411",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            409.13000000000005
+          ],
+          [
+            72.024,
+            478.15
+          ],
+          [
+            541.97152,
+            478.15
+          ],
+          [
+            541.97152,
+            409.13000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 2
+    },
+    "text": "At first, all this LSU success was ‘blamed’ on Joe Brady’s role in the offense…but I think that was because NO ONE had Burrow as a real NFL quarterback prospect. Therefore, for the media, it couldn’t be Burrow, and it couldn’t be Orgeron because neither of those guys mattered (so thought the media). So, trying to find an explanation, the media deduced it must be the new QB coach who spent the previous two years as an undefined offensive assistant for the New Orleans Saints."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "13f59d576e4a79a4ba6b214e27ec0d14",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            489.67
+          ],
+          [
+            72.024,
+            573.19
+          ],
+          [
+            537.6481600000001,
+            573.19
+          ],
+          [
+            537.6481600000001,
+            489.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 2
+    },
+    "text": "If you make me pick between a coach and a quarterback, as to who gets the main credit for the most amazing season a college QB may have ever had…I’m going to assume, heavily, that it was the quarterback…and not the 1st-year QB coach, or any coach, ever. There’s no way this was a ‘system’ or coach-driven event – credit that the staff fostered and aided Burrow, but this was Burrow making people look like geniuses…not the other way around. Just watch the tape. It wasn’t anything magical on offense…it was a magical quarterback."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "20c6b3a8de0ba87a9a60f7f3272ca893",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            584.59
+          ],
+          [
+            72.024,
+            639.1
+          ],
+          [
+            530.6828800000001,
+            639.1
+          ],
+          [
+            530.6828800000001,
+            584.59
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 2
+    },
+    "text": "Baker Mayfield and Kyler Murray both came from a friendly college system, on top of being natural talents. Same thing with Patrick Mahomes. All their college accomplishments…you can note that their surroundings and systems helped/didn’t hurt them. Joe Burrow, to some degree, overcame his surroundings/a new offense implemented, and Burrow made everything beyond great."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0224411b5aa2ee4c9a43042c80fc7480",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            650.62
+          ],
+          [
+            72.024,
+            705.096
+          ],
+          [
+            541.69144,
+            705.096
+          ],
+          [
+            541.69144,
+            650.62
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 2
+    },
+    "text": "My memories of college Andrew Luck and college Peyton Manning…Joe Burrow’s accomplishments puts them to shame. Peyton was really great in college…he’d be the closest thing I could think of where a quarterback was elite and put a previously non-dominant school on his back in a major conference and became a CFB star/winner. Luck was really good, and took Staford higher for sure, but not to the"
+  },
+  {
+    "type": "Title",
+    "element_id": "fbd95094676666fbf8502cdd36aaa7b6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "College Football Metrics| 2"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d864a80a335d16890b607d3eaae19796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.02,
+            69.84000000000003
+          ],
+          [
+            455.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "JANUARY 15, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4e1f056cc57abfc3b910f3afcd14aaac",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            170.77999999999997
+          ],
+          [
+            531.64096,
+            170.77999999999997
+          ],
+          [
+            531.64096,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 3
+    },
+    "text": "pinnacle and his work and output was nothing like Burrow. You could see Luck had it all, skills-wise, he just didn’t destroy college football statistically. He was great, but nowhere near Joe Burrow great."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "edc3cf309576b0f1e5dd7dc98cb9ebec",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.30000000000007
+          ],
+          [
+            72.024,
+            222.26
+          ],
+          [
+            522.35744,
+            222.26
+          ],
+          [
+            522.35744,
+            182.30000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 3
+    },
+    "text": "You cannot compare Burrow to Lamar Jackson or Deshaun Watson or Johnny Manziel…different styles entirely. You compare Burrow to the classic pocket passers, and what Burrow accomplished in 2019 with LSU is nothing short of amazing."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bac3fca413d9bf302db6705be56c2c87",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            233.77999999999997
+          ],
+          [
+            72.024,
+            331.73
+          ],
+          [
+            539.4428800000001,
+            331.73
+          ],
+          [
+            539.4428800000001,
+            233.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 3
+    },
+    "text": "The funny thing is…when you watch Kyler, Mahomes, Mayfield you can see the ball exploding from their hands/arms. Things happen at a quick pace and they just chopped up opposing college defenses, and it was visually pleasing and obvious. We could sink our teeth into it as visual fans. But, are you like me…do you watch Joe Burrow play and wonder the whole time – how is he doing this? He doesn’t look that great/dynamic to me? Burrow doesn’t have that visual delight in his play. I can’t properly describe it. We all respect him and marvel at the numbers tallying up in games, but we are still not seeing something obvious to our eyes/brain. And I think it hurts his standing among scouts."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fe142b62756560aaccfe43f4703222f4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            343.25
+          ],
+          [
+            72.024,
+            412.25
+          ],
+          [
+            542.3480000000002,
+            412.25
+          ],
+          [
+            542.3480000000002,
+            343.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 3
+    },
+    "text": "It’s kinda the issue Tom Brady and Joe Montana had. They weren’t much to look at, a little skinny of frame with just ‘OK’ arms. They weren’t all that respected coming out of college. They just went on to be the two greatest quarterbacks of our generation. John Elway, Dan Marino, Brett Favre, Roger Staubach, Aaron Rodgers…some of the elite/all-time QBs are just pleasing and obvious to the eye. Brady, Montana, Russell Wilson…we had to learn to love them, learn to appreciate them."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fdbbc4388080efa890b0a8337e2dd3f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            423.67
+          ],
+          [
+            72.024,
+            565.15
+          ],
+          [
+            542.0156,
+            565.15
+          ],
+          [
+            542.0156,
+            423.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 3
+    },
+    "text": "I’m not going to argue which of these many elite quarterbacks (with various styles and attributes) I’m mentioning were better than the other…I’m just noting, we all have a blind spot for a certain type of talent at quarterback – when they don’t tickle all our senses. It’s why some preferred Ryan Leaf to boring Peyton Manning in the NFL Draft. It’s why most think Aaron Rodgers is a better QB than Russell Wilson, career-wise, talent-wise…even though I believe Wilson is the better pure QB talent and will have the more notorious/better NFL career when it’s all said and done. Brady-Montana-R.Wilson = ‘boring’…boring and all underappreciated in their respective drafts (all NOT 1st or 2nd-round picks) for not having that ‘look’, for not generating a tingle up our spines…not as exciting as Johnny Manziel or Jameis Winston or E.J. Manuel or Josh Allen (all high 1st-round picks) – scouts and analysts like big guys with big arms or guys with crazy footspeed."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f24b517def88750873239b993f4c123b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            576.55
+          ],
+          [
+            72.024,
+            645.5799999999999
+          ],
+          [
+            540.75712,
+            645.5799999999999
+          ],
+          [
+            540.75712,
+            576.55
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 3
+    },
+    "text": "We, as a football society, are very adept at seeing future great NFL quarterbacks in college right in front of our faces…and looking right past them and not getting it immediately. It’s not like a 10% error rate…it’s like 80%+ error rate among the professionals paid to research and discover such things. In fact, the one thing you can almost always count on is for the football hive minds to back the wrong QB in the draft process."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59862580aea07dae8fc1394b3a726b71",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            657.1
+          ],
+          [
+            72.024,
+            682.66
+          ],
+          [
+            534.56872,
+            682.66
+          ],
+          [
+            534.56872,
+            657.1
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 3
+    },
+    "text": "2019…THEY liked Daniel Jones and Dwayne Haskins over Kyler Murray. *Not talking who went 1st, I’m talking about where all the analysts wanted to go/preached/bemoaned."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "052786e78b53ee55c24d8abe093bf7ff",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            694.056
+          ],
+          [
+            72.024,
+            719.616
+          ],
+          [
+            529.63264,
+            719.616
+          ],
+          [
+            529.63264,
+            694.056
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 3
+    },
+    "text": "2018…THEY liked Sam Darnold and Josh Allen over Baker Mayfield….and liked all of them over Lamar Jackson."
+  },
+  {
+    "type": "Title",
+    "element_id": "6ce22990a8930a7d551fa4b6ef9f8cd1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "College Football Metrics| 3"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d864a80a335d16890b607d3eaae19796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.02,
+            69.84000000000003
+          ],
+          [
+            455.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "JANUARY 15, 2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "a91ec25972faab2cbdf96555879dcc4b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            156.38
+          ],
+          [
+            339.16504000000003,
+            156.38
+          ],
+          [
+            339.16504000000003,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2017…THEY liked Deshaun Watson over Patrick Mahomes."
+  },
+  {
+    "type": "Title",
+    "element_id": "4d184f5e712b1fc7df0bc0197f218ec6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            167.77999999999997
+          ],
+          [
+            72.024,
+            178.81999999999994
+          ],
+          [
+            385.36504,
+            178.81999999999994
+          ],
+          [
+            385.36504,
+            167.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2016…THEY liked Carson Wentz and Paxton Lynch over Dak Prescott."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "132368a47a3f04aa34d6e91bbdf11d8a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            190.34000000000003
+          ],
+          [
+            72.024,
+            201.38
+          ],
+          [
+            358.24504,
+            201.38
+          ],
+          [
+            358.24504,
+            190.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4d184f5e712b1fc7df0bc0197f218ec6",
+      "page_number": 4
+    },
+    "text": "2015…THEY thought Jameis Winston was a generational talent."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4686817bc4f801da1103380274ecaebe",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            212.77999999999997
+          ],
+          [
+            72.024,
+            252.74
+          ],
+          [
+            535.82056,
+            252.74
+          ],
+          [
+            535.82056,
+            212.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4d184f5e712b1fc7df0bc0197f218ec6",
+      "page_number": 4
+    },
+    "text": "I bring this up not just to mock scouts for a bad call…but to point out that ‘bad calls’ are more the norm in the industry. THEY like sexy (big body, big arm, great feet) over ‘boring’ old highly effective, efficient, successful. If you don’t ‘feel it’ with Burrow…the problem is not Burrow’s, is what I’m hinting at."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "724b52b86e42d127f215d3b94f952892",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            264.2900000000001
+          ],
+          [
+            72.024,
+            362.21
+          ],
+          [
+            538.3326400000001,
+            362.21
+          ],
+          [
+            538.3326400000001,
+            264.2900000000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4d184f5e712b1fc7df0bc0197f218ec6",
+      "page_number": 4
+    },
+    "text": "THEY will surface again with underrating Joe Burrow the next few months. How? THEY want Tua Tagovailoa to be the top guy, many of them deep down in their hearts think Tua is better. If Tua was healthy/didn’t have the hip issue, we’d have a raging debate on Tua vs. Burrow -- and I think the media would be split/leaning Tua. They also think Trevor Lawrence is going to be better than Joe…another ‘shot’ at Burrow. How many times did you hear, post-CFB title game…”Well, we saw the two guys who will be the #1 pick in the next two drafts. Lawrence is going to be the better pro, but Burrow got the best of him this season.”"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50fd126915f8b44efb3e8fb0908c8bb4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            373.73
+          ],
+          [
+            72.024,
+            442.75
+          ],
+          [
+            534.1032,
+            442.75
+          ],
+          [
+            534.1032,
+            373.73
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4d184f5e712b1fc7df0bc0197f218ec6",
+      "page_number": 4
+    },
+    "text": "Just because analysts agree that Burrow is going #1…that doesn’t mean they think he’s the best player. They just know he’ll be picked #1. Actually, some maniacs want Chase Young to be selected as the top pick for Cincy…but there are always contrarians/anti-QBs at the top for ‘reasons’ people…they’re ridiculous – but they’re also doing so because they don’t feel the ‘it’ factor with Burrow. He looks too goofy and too skinny to be the best player in college football."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "493eaa833c349ed2912534db813faa84",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            454.15000000000003
+          ],
+          [
+            72.024,
+            523.15
+          ],
+          [
+            535.96768,
+            523.15
+          ],
+          [
+            535.96768,
+            454.15000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4d184f5e712b1fc7df0bc0197f218ec6",
+      "page_number": 4
+    },
+    "text": "I think the sentiment will shift against Burrow every week we move further from the season. He’s going to get a Jared Goff label (as a ‘knock’ against him). He’ll get some Mitchell Trubisky, ‘He was only good for one season’ undermining. Because Burrow doesn’t jump off the screen like some of the other elite QBs, the football people’s instincts (which, again, are almost always wrong) are going to kick in and create some doubt, some suppressed projections going forward for analysts and fans."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9704af057a233f6f6aced67d12df4ea3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            534.6700000000001
+          ],
+          [
+            72.024,
+            560.11
+          ],
+          [
+            518.83984,
+            560.11
+          ],
+          [
+            518.83984,
+            534.6700000000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4d184f5e712b1fc7df0bc0197f218ec6",
+      "page_number": 4
+    },
+    "text": "I get Colin Cowherd calling Burrow ‘Tony Romo’, but really that’s an insult. No one saw Montana or Brady coming. If Burrow is in that class…no one will really see it coming either."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "279683ef7d2e6524d5cf7a16ff311920",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            571.63
+          ],
+          [
+            72.024,
+            713.136
+          ],
+          [
+            542.1072000000003,
+            713.136
+          ],
+          [
+            542.1072000000003,
+            571.63
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "4d184f5e712b1fc7df0bc0197f218ec6",
+      "page_number": 4
+    },
+    "text": "Burrow’s greatness is not obvious…not to me. He looks efficiently dull on tape. But when you’re scouting him and you keep noting…’good throw’, ‘good throw’, ‘good throw’, nice escape, ‘good throw’ about a million times each game as he hits his 3rd…4th…5th..6th…7th TD pass of the game – you eventually have to realize you’re in the presence of greatness who just makes this look too easy. Like Tom Brady early in his NFL rise…there was nothing about his play that jumped out to our senses, but it was always Brady achieving…achieving numbers, accuracy off the charts, accumulating wins and titles. We all could see/feel Aaron Rodgers’ and Peyton Manning’s greatness right away when they became NFL starters. We’re so biased against ‘boring greatness’ that we want to blame Belichick for Brady. No one goes…well, Tony Dungy made Peyton, or Mike McCarthy is why Rodgers was so good. But Montana was SOOO lucky to have worked with Bill Walsh."
+  },
+  {
+    "type": "Title",
+    "element_id": "2c304a39648b2bd2a8db11e97562604f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "College Football Metrics| 4"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d864a80a335d16890b607d3eaae19796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.02,
+            69.84000000000003
+          ],
+          [
+            455.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "JANUARY 15, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "411dad313376b786e7fe5f9ec63194b8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            156.38
+          ],
+          [
+            326.56504,
+            156.38
+          ],
+          [
+            326.56504,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "Maybe Bill Walsh and Bill Belichick were the lucky ones."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bd03f37b4324131f2404cbbf28f75be1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            167.77999999999997
+          ],
+          [
+            72.024,
+            193.34000000000003
+          ],
+          [
+            532.32376,
+            193.34000000000003
+          ],
+          [
+            532.32376,
+            167.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "Is Burrow the next Brady or Montana? Can he be with Zac Taylor as his head coach? That’s a very valid concern. Maybe Taylor will be as ‘lucky’ as Walsh and Belichick (and Orgeron)?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "71ae04da7d2a1c767a228bb2788dbd0e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            204.74
+          ],
+          [
+            72.024,
+            244.81999999999994
+          ],
+          [
+            533.1387200000001,
+            244.81999999999994
+          ],
+          [
+            533.1387200000001,
+            204.74
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "All I know is – Burrow looks fantastic to me. He can obviously throw the ball at a high level. He also has really terrific feet for escapability. He has an NFL size and arm and temperament. He’s unafraid in muddy pockets and not afraid to run the ball and get hit."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3647dcb12dc9d47d929e962c8835a0f6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            256.25
+          ],
+          [
+            72.024,
+            296.33
+          ],
+          [
+            540.61736,
+            296.33
+          ],
+          [
+            540.61736,
+            256.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "I watch Burrow’s 2019-2020 work, and I see him just kick the ass of Alabama, at Alabama…and when the game went from LSU big lead to Alabama getting close, Burrow just stepped back down on the Tide’s neck and won it."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0aa5a58363360539286d5a9cbfe7fd3c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            307.73
+          ],
+          [
+            72.024,
+            333.28999999999996
+          ],
+          [
+            539.5028,
+            333.28999999999996
+          ],
+          [
+            539.5028,
+            307.73
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "Could Burrow keep it up against the likes of Georgia in the SEC title game in essentially a home game for the Bulldogs? Burrow kicked their ass."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f2b0f0cdc0c5e052d1afc3dc53b34f6f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            344.69000000000005
+          ],
+          [
+            72.024,
+            370.25
+          ],
+          [
+            531.21504,
+            370.25
+          ],
+          [
+            531.21504,
+            344.69000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "How would Burrow fare on the big stage of the CFB semi-final game against Oklahoma? I thought Burrow was going to throw for 15 TDs in that game at one point. I think he could have if he wanted to."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d312b54dbfe8781979dc45b27a96bb68",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            381.77000000000004
+          ],
+          [
+            72.024,
+            436.27
+          ],
+          [
+            541.98448,
+            436.27
+          ],
+          [
+            541.98448,
+            381.77000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "How would Burrow deal with the best coach in college football, Dabo Sweeney, and facing the supposed better-than-Burrow Trevor Lawrence? Clemson shook Burrow for a drive or two right off the bat and took an early lead – and then Lawrence fell apart and Burrow punched Clemson in the gut repeatedly on his way to arguably the greatest single season a college quarterback has ever produced."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12aeef02ed3d851e8f13131a62dfdeea",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            447.67
+          ],
+          [
+            72.024,
+            487.75
+          ],
+          [
+            538.9021599999999,
+            487.75
+          ],
+          [
+            538.9021599999999,
+            447.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "Against Alabama, and then his final three big-time games (SEC title, CFB playoffs) – Burrow went 4-0, all non-home games, with 72.1% Comp. Pct., 19 TDs/0 INTs, rushed for 2 TDs and 46.3 yards per game, and threw for 424.5 yards per game."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "70e4113a4f6c8e2e3a8fde9c21abbed1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            499.15000000000003
+          ],
+          [
+            72.024,
+            524.71
+          ],
+          [
+            537.8872,
+            524.71
+          ],
+          [
+            537.8872,
+            499.15000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 5
+    },
+    "text": "What else is there left to say? If Joe Burrow is not a great NFL quarterback eventually…then why are we even playing and studying college football seasons?"
+  },
+  {
+    "type": "Title",
+    "element_id": "3b88a1af2c7ed29be484cded4edfaaeb",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            604.81
+          ],
+          [
+            72.024,
+            620.77
+          ],
+          [
+            465.82696000000004,
+            620.77
+          ],
+          [
+            465.82696000000004,
+            604.81
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Joe Burrow, Through the Lens of Our QB Scouting Algorithm:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "351b6fb8d222f2ea07e99b78d40f775f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            648.7
+          ],
+          [
+            72.024,
+            674.26
+          ],
+          [
+            538.2983999999999,
+            674.26
+          ],
+          [
+            538.2983999999999,
+            648.7
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "3b88a1af2c7ed29be484cded4edfaaeb",
+      "page_number": 5
+    },
+    "text": "Honestly, what’s the point of trying to pick through Burrow’s numbers in college? Everything he did was great and when the competition was elevated…Burrow was even greater."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2c9589e24ddbcb65c7200eeb8bb5c60",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            685.656
+          ],
+          [
+            72.024,
+            696.696
+          ],
+          [
+            206.54504,
+            696.696
+          ],
+          [
+            206.54504,
+            685.656
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "3b88a1af2c7ed29be484cded4edfaaeb",
+      "page_number": 5
+    },
+    "text": "Just two things I’d point out…"
+  },
+  {
+    "type": "Title",
+    "element_id": "b5a9efa6494b74562a3be97eb3db805b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College Football Metrics| 5"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d864a80a335d16890b607d3eaae19796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.02,
+            69.84000000000003
+          ],
+          [
+            455.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "JANUARY 15, 2020"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d7c8d065a0c9057e225ae3a1d55849a2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            199.81999999999994
+          ],
+          [
+            535.51696,
+            199.81999999999994
+          ],
+          [
+            535.51696,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 6
+    },
+    "text": "1) As great as Baker Mayfield, Kyler Murray, Deshaun Watson, Patrick Mahomes were in prior years…they would typically falter against better opponents. Not fail totally but be humanized…have lesser stats and lose games (Watson would smoke Alabama but was pretty contained/bad numbers the CFB playoff game before the finals). Burrow got better as he went along…which is almost unheard of."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0b0ae994f7148af757b426b8e3d2c8a4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            211.22000000000003
+          ],
+          [
+            72.024,
+            273.77
+          ],
+          [
+            534.05152,
+            273.77
+          ],
+          [
+            534.05152,
+            211.22000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 6
+    },
+    "text": "2) As great a passer as Burrow was…it overshadows how nimble and elusive he is running the ball. He’s not a mobile/spread QB that runs as a weapon, but he will burn defenses with his feet if he has to. Always running smart at the right times. He’s not a stiff in the pocket like Brady or Montana were/are. Tua ran for 40+ yards in a game twice in his career, and 50+ ZERO times."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b0d4e59c97814469eccc5f797cdab2ba",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            285.29
+          ],
+          [
+            72.024,
+            310.73
+          ],
+          [
+            524.82832,
+            310.73
+          ],
+          [
+            524.82832,
+            285.29
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 6
+    },
+    "text": "Burrow ran for 40+ yards in a game 8 times, and 50+ five times…and registered one 100-yard rushing game."
+  },
+  {
+    "type": "Title",
+    "element_id": "d751c0d5e791c7dfae296a4c80f5a02d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            344.69000000000005
+          ],
+          [
+            72.024,
+            355.73
+          ],
+          [
+            179.54504,
+            355.73
+          ],
+          [
+            179.54504,
+            344.69000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "Projected Measurables:"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "465548a6273f10cdbf26f873e507a555",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            367.25
+          ],
+          [
+            72.024,
+            378.28999999999996
+          ],
+          [
+            221.18504,
+            378.28999999999996
+          ],
+          [
+            221.18504,
+            367.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d751c0d5e791c7dfae296a4c80f5a02d",
+      "page_number": 6
+    },
+    "text": "6’4”/220, 9.5” hands, 32.5” arms"
+  },
+  {
+    "type": "Title",
+    "element_id": "5dd034e19f93c946c1b2f0aa1f2e2d34",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            389.69000000000005
+          ],
+          [
+            72.024,
+            400.73
+          ],
+          [
+            208.10504,
+            400.73
+          ],
+          [
+            208.10504,
+            389.69000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "4.65 40-time, 7.00 three-cone"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2675e8d4a6fcf880c15b8775766017c3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            475.51
+          ],
+          [
+            72.024,
+            488.47
+          ],
+          [
+            523.3489599999999,
+            488.47
+          ],
+          [
+            523.3489599999999,
+            475.51
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "5dd034e19f93c946c1b2f0aa1f2e2d34",
+      "page_number": 6
+    },
+    "text": "The Historical QB Prospects to Whom Joe Burrow Most Compares Within Our System:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9ad30679296c3bedd7aae3554ddc234",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            516.07
+          ],
+          [
+            72.024,
+            541.63
+          ],
+          [
+            534.9611199999999,
+            541.63
+          ],
+          [
+            534.9611199999999,
+            516.07
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "5dd034e19f93c946c1b2f0aa1f2e2d34",
+      "page_number": 6
+    },
+    "text": "There is no real comp for Joe Burrow in our system. No quarterback has had the kind of season Burrow did in 2019-20."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2cbcc3c6547f635d8640ecf3cd35562b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            553.15
+          ],
+          [
+            72.024,
+            607.66
+          ],
+          [
+            542.3089600000001,
+            607.66
+          ],
+          [
+            542.3089600000001,
+            553.15
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "5dd034e19f93c946c1b2f0aa1f2e2d34",
+      "page_number": 6
+    },
+    "text": "Tom Brady has some size and efficiency numbers in weighted games/against better competition. Garoppolo was a stud but at the FCS level. Mayfield tore up CFB numbers but doesn’t have the size, foot speed Burrow does. Russell Wilson was like a smaller version of Burrow but still not as crazy in output as Burrow was."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f516ab768abf4d556368fb51fd517c9f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            619.06
+          ],
+          [
+            72.024,
+            688.06
+          ],
+          [
+            541.502,
+            688.06
+          ],
+          [
+            541.502,
+            619.06
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "5dd034e19f93c946c1b2f0aa1f2e2d34",
+      "page_number": 6
+    },
+    "text": "Mitch Trubisky has a lot of commonality with Burrow, if you want to find any concerns for Burrow at the next level (including nice running ability). It’s not impossible that the Bengals organization or Zac Taylor’s coaching ability brings Burrow down to more disappointment than unbridled success a la what Matt Nagy has done to Mitch, to a degree. But I think Burrow has a better confidence level than Mitch ever will"
+  },
+  {
+    "type": "Title",
+    "element_id": "bbb7470483974f8c5beb6ccd9178ebd5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 6
+    },
+    "text": "College Football Metrics| 6"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d864a80a335d16890b607d3eaae19796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.02,
+            69.84000000000003
+          ],
+          [
+            455.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "JANUARY 15, 2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "2d4bc408ab934ce84eacd2fe366d2b1a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            47.4,
+            147.62840000000006
+          ],
+          [
+            47.4,
+            164.90840000000003
+          ],
+          [
+            72.81912,
+            164.90840000000003
+          ],
+          [
+            72.81912,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "QB- Grade"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f570141dff23dc2e31d5d41172590e9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            85.224,
+            147.62840000000006
+          ],
+          [
+            85.224,
+            164.90840000000003
+          ],
+          [
+            112.29512,
+            164.90840000000003
+          ],
+          [
+            112.29512,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "2d4bc408ab934ce84eacd2fe366d2b1a",
+      "page_number": 7
+    },
+    "text": "LJax Rating"
+  },
+  {
+    "type": "Title",
+    "element_id": "eb970eb0951c6cdeac1ec0cc723fc91e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            145.58,
+            147.62840000000006
+          ],
+          [
+            145.58,
+            155.66840000000002
+          ],
+          [
+            164.25512,
+            155.66840000000002
+          ],
+          [
+            164.25512,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "Last"
+  },
+  {
+    "type": "Title",
+    "element_id": "a151ceb1711aad529a7704248f033339",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            206.33,
+            147.62840000000006
+          ],
+          [
+            206.33,
+            155.66840000000002
+          ],
+          [
+            225.84512,
+            155.66840000000002
+          ],
+          [
+            225.84512,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "First"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "eb08fe764b6ef6e6373d83e9635f7e64",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            43.56,
+            176.77999999999997
+          ],
+          [
+            43.56,
+            302.21
+          ],
+          [
+            217.22503999999998,
+            302.21
+          ],
+          [
+            217.22503999999998,
+            176.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a151ceb1711aad529a7704248f033339",
+      "page_number": 7
+    },
+    "text": "Burrow 13.076 5.22 10.306 6.83 Wilson Brady 11.463 Garoppolo 8.024 8.895 1.28 Mayfield Trubisky 9.142 6.71 Roethlisberger Ben 10.043 Rivers 9.865 Goff 9.013"
+  },
+  {
+    "type": "Title",
+    "element_id": "a51a46923d48c8859a88d700be676ebd",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            197.45,
+            176.77999999999997
+          ],
+          [
+            197.45,
+            259.22
+          ],
+          [
+            231.05888,
+            259.22
+          ],
+          [
+            231.05888,
+            176.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "Joe Russell Tom Jimmy Baker Mitch"
+  },
+  {
+    "type": "Title",
+    "element_id": "abe2799ee2536bdd92436ee9fac71b05",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            197.45,
+            276.89
+          ],
+          [
+            197.45,
+            302.21
+          ],
+          [
+            224.78503999999998,
+            302.21
+          ],
+          [
+            224.78503999999998,
+            276.89
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "Philip Jared"
+  },
+  {
+    "type": "Title",
+    "element_id": "f07067991cf793df403e554dcf006a68",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            250.37,
+            147.62840000000006
+          ],
+          [
+            250.37,
+            155.66840000000002
+          ],
+          [
+            261.00512,
+            155.66840000000002
+          ],
+          [
+            261.00512,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "Yr"
+  },
+  {
+    "type": "Title",
+    "element_id": "05f00f61bbd7cbb7f47de945257784f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            297.79,
+            147.62840000000006
+          ],
+          [
+            297.79,
+            155.66840000000002
+          ],
+          [
+            328.94512,
+            155.66840000000002
+          ],
+          [
+            328.94512,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "College"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e787c94d7ca72a3fd6f7e3ebd7897401",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            243.41,
+            176.77999999999997
+          ],
+          [
+            243.41,
+            302.21
+          ],
+          [
+            334.12504,
+            302.21
+          ],
+          [
+            334.12504,
+            176.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "05f00f61bbd7cbb7f47de945257784f5",
+      "page_number": 7
+    },
+    "text": "2020 LSU 2012 Wisconsin 2000 Michigan 2014 E. Illinois 2018 Oklahoma 2017 UNC 2004 Miami, Ohio 2004 NC State 2016 Cal"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            366.31,
+            147.62840000000006
+          ],
+          [
+            366.31,
+            155.66840000000002
+          ],
+          [
+            374.30512,
+            155.66840000000002
+          ],
+          [
+            374.30512,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "H"
+  },
+  {
+    "type": "Title",
+    "element_id": "fcb5f40df9be6bae66c1d77a6c159688",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            395.23,
+            147.62840000000006
+          ],
+          [
+            395.23,
+            155.66840000000002
+          ],
+          [
+            405.02512,
+            155.66840000000002
+          ],
+          [
+            405.02512,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "W"
+  },
+  {
+    "type": "Title",
+    "element_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            418.66,
+            147.62840000000006
+          ],
+          [
+            418.66,
+            174.14840000000004
+          ],
+          [
+            443.55988,
+            174.14840000000004
+          ],
+          [
+            443.55988,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "Adj Comp Pct"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a4ea8f2eff380da3328dc02f31ffd452",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            359.35,
+            176.77999999999997
+          ],
+          [
+            359.35,
+            302.21
+          ],
+          [
+            449.26888,
+            302.21
+          ],
+          [
+            449.26888,
+            176.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 7
+    },
+    "text": "76.0 216 74.2% 70.6 210 70.3% 76.3 211 64.6% 74.2 222 66.9% 73.0 215 70.6% 74.1 222 73.0% 77.0 241 69.5% 77.0 229 68.1% 75.5 215 64.2%"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "99e3f78df77b1e36413e1a2ba1348fee",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            458.02,
+            147.62840000000006
+          ],
+          [
+            458.02,
+            302.21
+          ],
+          [
+            489.64131999999995,
+            302.21
+          ],
+          [
+            489.64131999999995,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 7
+    },
+    "text": "Adj Yds per Comp 14.0 13.4 11.8 12.5 15.5 12.4 13.7 12.0 13.2"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ec7c2ac93d6d154107f7cf17af354ff1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            500.5,
+            147.62840000000006
+          ],
+          [
+            500.5,
+            302.21
+          ],
+          [
+            528.0751200000001,
+            302.21
+          ],
+          [
+            528.0751200000001,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 7
+    },
+    "text": "Adj Pass per TD 9.5 10.4 15.0 12.1 11.2 14.2 17.4 14.2 14.3"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a983afcc2fa06c662b43de2b1873be73",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            539.76,
+            147.62840000000006
+          ],
+          [
+            539.76,
+            302.21
+          ],
+          [
+            569.9551200000001,
+            302.21
+          ],
+          [
+            569.9551200000001,
+            147.62840000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 7
+    },
+    "text": "Adj Pass Per INT 110.9 38.9 37.9 70.4 58.4 76.0 50.6 58.1 39.4"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2899a08829b2a1c46494780bf8ea4137",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            349.11464
+          ],
+          [
+            72.024,
+            373.83464
+          ],
+          [
+            515.71064,
+            373.83464
+          ],
+          [
+            515.71064,
+            349.11464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 7
+    },
+    "text": "’LJax rating’ – new for 2020, as we re-do our grading systems to better identify/reward the spread offense QB prospects…looking for the runner-passer talents."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1ba658a4cde5f6284de91e092b60cc7",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            384.39464000000004
+          ],
+          [
+            72.024,
+            395.43464
+          ],
+          [
+            493.3,
+            395.43464
+          ],
+          [
+            493.3,
+            384.39464000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 7
+    },
+    "text": "**“Adj” = A view of adjusted college output in our system…adjusted for strength of opponent."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "187a9426ad5850fbf3e04d39aa2b5485",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            406.11464
+          ],
+          [
+            72.024,
+            430.71464
+          ],
+          [
+            514.97632,
+            430.71464
+          ],
+          [
+            514.97632,
+            406.11464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 7
+    },
+    "text": "***A score of 8.5+ is where we see a stronger correlation of QBs going on to become NFL good-to- great. A scouting score of 9.5+ is rarefied air—higher potential for becoming great-to-elite."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "23a1ad9ebe188b0b8517adebf9fdb451",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            441.41464
+          ],
+          [
+            72.024,
+            479.69464
+          ],
+          [
+            532.39072,
+            479.69464
+          ],
+          [
+            532.39072,
+            441.41464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 7
+    },
+    "text": "QBs scoring 6.0–8.0 are finding more success in the new passing era of the NFL (2014–on). Depending upon the system and surrounding weapons, a 6.0–8.0 rated QB can do fine in today’s NFL—with the right circumstances…but they are not ‘the next Tom Brady’ guys, just NFL-useful guys."
+  },
+  {
+    "type": "Title",
+    "element_id": "855047d05a44cc4a17a85efb85ea4a18",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            538.75
+          ],
+          [
+            72.024,
+            550.75
+          ],
+          [
+            195.12199999999999,
+            550.75
+          ],
+          [
+            195.12199999999999,
+            538.75
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "2020 NFL Draft Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "af1a889001debff3eed08fd64e943852",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            562.27
+          ],
+          [
+            72.024,
+            587.8299999999999
+          ],
+          [
+            534.7595200000001,
+            587.8299999999999
+          ],
+          [
+            534.7595200000001,
+            562.27
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "855047d05a44cc4a17a85efb85ea4a18",
+      "page_number": 7
+    },
+    "text": "He’s going #1 overall. If the Bengals pick Chase Young, I will be speechless. If the Bengals trade the pick away – that would be more in line with ‘the Bengals’/Bungles."
+  },
+  {
+    "type": "Title",
+    "element_id": "f019bbba3c90fbd2630a58a8fed88d72",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            644.5
+          ],
+          [
+            72.024,
+            656.5
+          ],
+          [
+            147.572,
+            656.5
+          ],
+          [
+            147.572,
+            644.5
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "NFL Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6fbb6141b40408cb2532a1201336ef61",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            668.02
+          ],
+          [
+            72.024,
+            693.58
+          ],
+          [
+            527.82736,
+            693.58
+          ],
+          [
+            527.82736,
+            668.02
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 7
+    },
+    "text": "Joe Burrow has to be successful at the next level or college football makes no sense anymore and the NFL just needs to start 32 Lamar Jacksons from here on in."
+  },
+  {
+    "type": "Title",
+    "element_id": "479b1bcbc88d34feb8967d5afa932892",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 7
+    },
+    "text": "College Football Metrics| 7"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 8
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "d864a80a335d16890b607d3eaae19796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.02,
+            69.84000000000003
+          ],
+          [
+            455.02,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 8
+    },
+    "text": "JANUARY 15, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a73c72e2e7fa852f44b9b8f850b0a5f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            170.77999999999997
+          ],
+          [
+            525.00616,
+            170.77999999999997
+          ],
+          [
+            525.00616,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 8
+    },
+    "text": "How successful Burrow will be could be hindered by his coaching staff and organization, for sure. But he’s going to be good, eventually, even if it’s under a new coach that comes along in 2021."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b9ac26090b97a4e8fcd6328053b84126",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.30000000000007
+          ],
+          [
+            72.024,
+            222.26
+          ],
+          [
+            532.75632,
+            222.26
+          ],
+          [
+            532.75632,
+            182.30000000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 8
+    },
+    "text": "I’m not sure if Burrow will ever lead the league in passing yards and/or TDs, but he should always be in the top 10 and he should be a ‘winner’, but I wouldn’t be surprised if he does crush it in output at the next level."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81786a76ea475621445ef9f45a11a470",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            233.77999999999997
+          ],
+          [
+            72.024,
+            259.34000000000003
+          ],
+          [
+            538.60816,
+            259.34000000000003
+          ],
+          [
+            538.60816,
+            233.77999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "d864a80a335d16890b607d3eaae19796",
+      "page_number": 8
+    },
+    "text": "If Andy Dalton can make the Bengals a consistent winner with Marvin Lewis…then Burrow with ___ can as well."
+  },
+  {
+    "type": "Title",
+    "element_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            256.85,
+            370.718
+          ],
+          [
+            256.85,
+            379.718
+          ],
+          [
+            361.867,
+            379.718
+          ],
+          [
+            361.867,
+            370.718
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 8
+    },
+    "text": "Copyright Statement"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3337388356098e491aeed77fc96e3db",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            395.18
+          ],
+          [
+            72.024,
+            404.18
+          ],
+          [
+            276.404,
+            404.18
+          ],
+          [
+            276.404,
+            395.18
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 8
+    },
+    "text": "Copyright at date and time signed below by R.C. Fischer"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc90d3cc68a3d8e3a5170eae08d7e52f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            418.82
+          ],
+          [
+            72.024,
+            498.88
+          ],
+          [
+            537.6339999999999,
+            498.88
+          ],
+          [
+            537.6339999999999,
+            418.82
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 8
+    },
+    "text": "All rights reserved. All content is for entertainment purposes only and TFA is not responsible or liable for personal adverse outcomes nor are any game results or forecasting guaranteed. Past results do not predict future outcomes. We are not held liable for any personal loses incurred. We are solely here to produce and provide content for recreational purposes. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, email the publisher at rcfischer@fantasyfootballmetrics.com"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b3eb4ce4a2895c0a2d11e9318dae0c7d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            549.52
+          ],
+          [
+            72.024,
+            558.52
+          ],
+          [
+            411.094,
+            558.52
+          ],
+          [
+            411.094,
+            549.52
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 8
+    },
+    "text": "Signature__________________________________________ Date_____________________"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cdff6e91895d18bb6460cc9c0d1c6ee8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            339.07,
+            544.75
+          ],
+          [
+            339.07,
+            555.79
+          ],
+          [
+            389.08504,
+            555.79
+          ],
+          [
+            389.08504,
+            544.75
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 8
+    },
+    "text": "1/15/2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "670b62678a7777925c92a87678884e32",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T18:24:48.424849"
+      },
+      "filename": "5e28f24eb3ac9fdd55fb29f5_CFM20_QB_Burrow_Joe.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 8
+    },
+    "text": "College Football Metrics| 8"
+  }
+]

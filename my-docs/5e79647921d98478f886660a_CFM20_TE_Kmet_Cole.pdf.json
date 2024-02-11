@@ -1,0 +1,3132 @@
+[
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4a9d0a1ca36d30b0ebae8460c339f50",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.5,
+            69.84000000000003
+          ],
+          [
+            461.5,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 1
+    },
+    "text": "MARCH 19, 2020"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8ec8aa04db322bd58b44bdba79a46e5a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            148.2435200000001
+          ],
+          [
+            72.024,
+            164.20352000000003
+          ],
+          [
+            492.25466000000006,
+            164.20352000000003
+          ],
+          [
+            492.25466000000006,
+            148.2435200000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 1
+    },
+    "text": "NFL Draft 2020 Scouting Report: TE Cole Kmet,"
+  },
+  {
+    "type": "Title",
+    "element_id": "37ce067e5d7eb65ad89b26b09cca4258",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            172.60352
+          ],
+          [
+            72.024,
+            188.56351999999993
+          ],
+          [
+            181.64468000000002,
+            188.56351999999993
+          ],
+          [
+            181.64468000000002,
+            172.60352
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "Notre Dame"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e9e7cee394de63e4df94bac598a0b14a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            201.98000000000002
+          ],
+          [
+            72.024,
+            227.53999999999996
+          ],
+          [
+            508.4462399999999,
+            227.53999999999996
+          ],
+          [
+            508.4462399999999,
+            201.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "Our TE grades can and will change as more information comes in from Pro Day workouts, leaked Wonderlic test results, etc. We will update ratings as new info becomes available."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "21a9747c6764c6d6025db9e15bdc2508",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            238.94000000000005
+          ],
+          [
+            72.024,
+            293.57
+          ],
+          [
+            540.96808,
+            293.57
+          ],
+          [
+            540.96808,
+            238.94000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "**Our TE formulas had some slight changes in the offseason—an adjustment to better identify and value TE prospects that are smaller physically and are primed for the era ahead...the era of Jordan Reed and Delanie Walker-type TEs. Our historical grades will have changed some on various prospects as well, to show their grades by comparison."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0707bb87cf514322aa4b79c8d5e37796",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            327.41
+          ],
+          [
+            72.024,
+            367.49
+          ],
+          [
+            541.46792,
+            367.49
+          ],
+          [
+            541.46792,
+            327.41
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "I’ve seen TE prospects like Cole Kmet a million times. They’re NFL bodies, potential starters, but they are not valuable or irreplaceable. They aren’t ‘best tight end prospect in their class’ either, although Kmet has risen to just that."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43c8614daea85dcc11b13fee01a93369",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            378.89000000000004
+          ],
+          [
+            72.024,
+            433.49
+          ],
+          [
+            532.1443999999999,
+            433.49
+          ],
+          [
+            532.1443999999999,
+            378.89000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "The media typically gloms on to one holy tight end and you can’t shake them from it all draft season…because the general analysts don’t know much of anything about prospects as it is, but tight ends they don’t care about at all – they just attach to whatever the top guy is supposed to be to sound smart…because they have no clue."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e196350e2fe83dc18f245e32304d3ea1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            467.47
+          ],
+          [
+            72.024,
+            478.51
+          ],
+          [
+            315.04504000000003,
+            478.51
+          ],
+          [
+            315.04504000000003,
+            467.47
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "The media’s favorite TE prospect the past five drafts…"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7591a2e860077716e673f3ddbffd0f89",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            489.91
+          ],
+          [
+            72.024,
+            500.95
+          ],
+          [
+            457.39504,
+            500.95
+          ],
+          [
+            457.39504,
+            489.91
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "2019: T.J. Hockenson…oh, and then his college teammate ends up better (Noah Fant)"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c00d0eee5a21d21f9fd945040626262a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            512.35
+          ],
+          [
+            72.024,
+            523.39
+          ],
+          [
+            217.46504,
+            523.39
+          ],
+          [
+            217.46504,
+            512.35
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "CFM top TE grade = Noah Fant"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "70800e33e25e88f057624e244a1f6560",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            534.9100000000001
+          ],
+          [
+            72.024,
+            560.47
+          ],
+          [
+            473.12992,
+            560.47
+          ],
+          [
+            473.12992,
+            534.9100000000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "2018: Hayden Hurst and Mike Geisicki were the beloved ones…Dallas Goedert and Mark Andrews would be drafted after them, 3rd-round and beyond."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "73546b2d0a912d69dcdb1f6ce4e16496",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            571.87
+          ],
+          [
+            72.024,
+            582.91
+          ],
+          [
+            237.74504,
+            582.91
+          ],
+          [
+            237.74504,
+            571.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "CFM top TE grade = Dallas Goedert"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da1c3d5b9116a35cc30f5e5f5a83eeb0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            594.31
+          ],
+          [
+            72.024,
+            605.35
+          ],
+          [
+            524.01504,
+            605.35
+          ],
+          [
+            524.01504,
+            594.31
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "2017: They loved O.J. Howard and David Njoku! Four rounds later a team would draft George Kittle."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cbbb471e106e694af67481bbc00a33fb",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            616.9
+          ],
+          [
+            72.024,
+            627.94
+          ],
+          [
+            225.62503999999998,
+            627.94
+          ],
+          [
+            225.62503999999998,
+            616.9
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "CFM top TE grade = O.J. Howard"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "84f9cb5327b2e51f0bf0f3e0bf845eaf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            639.34
+          ],
+          [
+            72.024,
+            664.9
+          ],
+          [
+            537.7384,
+            664.9
+          ],
+          [
+            537.7384,
+            639.34
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "2016: Slam dunk for Hunter Henry for the analysts, but Austin Hooper or Tyler Higbee may end up best looking back on it."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "776a00879d31468f478c6cf2ed1e727a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            676.3
+          ],
+          [
+            72.024,
+            687.34
+          ],
+          [
+            230.42504,
+            687.34
+          ],
+          [
+            230.42504,
+            676.3
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "37ce067e5d7eb65ad89b26b09cca4258",
+      "page_number": 1
+    },
+    "text": "CFM top TE grade = Seth DeValve"
+  },
+  {
+    "type": "Title",
+    "element_id": "a81c0c7148cefba21796698da174839d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            698.856
+          ],
+          [
+            72.024,
+            709.896
+          ],
+          [
+            230.78503999999998,
+            709.896
+          ],
+          [
+            230.78503999999998,
+            698.856
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2015: They adored Maxx Williams."
+  },
+  {
+    "type": "Title",
+    "element_id": "41b5d639fbc1a8bb2f19250ed8252fb0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "College Football Metrics| 1"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4a9d0a1ca36d30b0ebae8460c339f50",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.5,
+            69.84000000000003
+          ],
+          [
+            461.5,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "MARCH 19, 2020"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fdc37a547fd8b9194ed1a6fe442bed5a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            156.38
+          ],
+          [
+            477.67504,
+            156.38
+          ],
+          [
+            477.67504,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "CFM top TE grade = Darren Waller (ahead of the curve again, as he was drafted as a WR)"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7652bada4b39d20ee6c75d457a5577f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            190.34000000000003
+          ],
+          [
+            72.024,
+            230.29999999999995
+          ],
+          [
+            526.07944,
+            230.29999999999995
+          ],
+          [
+            526.07944,
+            190.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "So, let’s trust CFM over THEM…once again. I say Cole Kmet is a very average TE prospect and is not worthy of the top TE prospect ranking (but he is 95-100% with all the analysts I’ve seen). I don’t think Kmet is going to be in our top three when it is all said and done. Maybe not top five."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4cba9e38c7a2b886bf6e845f31c66d08",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            241.70000000000005
+          ],
+          [
+            72.024,
+            310.73
+          ],
+          [
+            535.5273599999999,
+            310.73
+          ],
+          [
+            535.5273599999999,
+            241.70000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "Kmet is every average NFL TE prospect – has the NFL size the coaches and scouts adore, and average to slightly above average athleticism with OK hands, but is a stiff, non-athletic piece overall. Hey, it works…Hunter Henry, Kyle Rudolph, Austin Hooper, Zach Ertz (among others) all were not amazing athletes but they were good enough and developed into OK or good+ tight ends. The problem with Kmet is…I don’t think he has the athleticism of those guys nor is he a very good blocker."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f00235ee49b8c458c89af0fc56586d5b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            322.25
+          ],
+          [
+            72.024,
+            376.73
+          ],
+          [
+            541.66448,
+            376.73
+          ],
+          [
+            541.66448,
+            322.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "Kmet has enough size-athleticism to make it as an NFL starter and be OK. He was a good college baseball player. He was a solid tight end for Notre Dame. He’s talented. He’s not nothing, but he has that average 4.7+ tight end speed with pretty rough three-cone (7.44)…he looks very stiff running routes. Sometimes the three-cone is not the truth – I think it is here."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e005bf9a894bf4fb3d890cb7c0fad508",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            388.25
+          ],
+          [
+            72.024,
+            457.27
+          ],
+          [
+            541.5436,
+            457.27
+          ],
+          [
+            541.5436,
+            388.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "I also see Kmet as a poor blocker. All hands and arms. He doesn’t try to drive into better defenders, he tries to put his hands/arms out to stop them in the name of love. I see him do this a lot and get driven off his feet backwards a lot in blocking situations. He’s very beatable as a blocker. He could learn and get better, but if you want to list a guy as a top tight end and he’s not a great athlete…shouldn’t he be an ace blocker then, at least?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "870a5c1b1e94aeb551075890668d6efe",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            468.67
+          ],
+          [
+            72.024,
+            523.15
+          ],
+          [
+            535.32136,
+            523.15
+          ],
+          [
+            535.32136,
+            468.67
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 2
+    },
+    "text": "I just see a lot of average here with Kmet. He’s a for sure NFL prospect…but the top guy, universally the top guy? I don’t get it. I don’t see it. I see a very average tight end, who might develop into decent someday but he’s not ready out-the-box. At best maybe he could be an Austin Hooper, Hunter Henry, Ryan Griffin type tight end?"
+  },
+  {
+    "type": "Title",
+    "element_id": "a300feb6594e8e9c80a7fb0c830cd144",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            580.78
+          ],
+          [
+            72.024,
+            596.74
+          ],
+          [
+            455.74696,
+            596.74
+          ],
+          [
+            455.74696,
+            580.78
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "Cole Kmet, Through the Lens of Our TE Scouting Algorithm:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "86b456fa8f6bca77d05746d51e1fc1d9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            624.7
+          ],
+          [
+            72.024,
+            679.1800000000001
+          ],
+          [
+            536.9144799999999,
+            679.1800000000001
+          ],
+          [
+            536.9144799999999,
+            624.7
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a300feb6594e8e9c80a7fb0c830cd144",
+      "page_number": 2
+    },
+    "text": "The tape on Kmet is OK. He got decent targeting and caught passes pretty well. He wasn’t terrible. Just not special. He was a nobody for his first two college seasons (13 games, 17 catches, no TDs) and then broke out in 2019 with 4.3 rec., 51.5 yards, 0.60 TDs per game – which is a nice season for a tight end in college. Not amazing, but nice."
+  },
+  {
+    "type": "Title",
+    "element_id": "fbd95094676666fbf8502cdd36aaa7b6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "College Football Metrics| 2"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4a9d0a1ca36d30b0ebae8460c339f50",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.5,
+            69.84000000000003
+          ],
+          [
+            461.5,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 3
+    },
+    "text": "MARCH 19, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "538dedcf47167aea032948292e166157",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.34000000000003
+          ],
+          [
+            72.024,
+            185.29999999999995
+          ],
+          [
+            538.0288,
+            185.29999999999995
+          ],
+          [
+            538.0288,
+            145.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 3
+    },
+    "text": "Had a big game Week 1 at Georgia (9-108-1) and then settled in as a 3-4 catches a game, 30-60+ yards a game guy with a TD in most games the rest of 2019. Not dominant, but not a ghost. Just typical…solid…good."
+  },
+  {
+    "type": "Title",
+    "element_id": "b443bfb53b22e0ed01f815c460d21bfe",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            219.26
+          ],
+          [
+            72.024,
+            230.29999999999995
+          ],
+          [
+            186.74504,
+            230.29999999999995
+          ],
+          [
+            186.74504,
+            219.26
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "2020 NFL Combine Data:"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6424979b3155c186bbadae263fae3f48",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            241.70000000000005
+          ],
+          [
+            72.024,
+            252.74
+          ],
+          [
+            226.82504,
+            252.74
+          ],
+          [
+            226.82504,
+            241.70000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "b443bfb53b22e0ed01f815c460d21bfe",
+      "page_number": 3
+    },
+    "text": "6’5.6”/262, 10.5” hands, 33” arms"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ebb30bbc95d4936b471c9da087ebd689",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            264.2900000000001
+          ],
+          [
+            72.024,
+            289.84999999999997
+          ],
+          [
+            541.23328,
+            289.84999999999997
+          ],
+          [
+            541.23328,
+            264.2900000000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "b443bfb53b22e0ed01f815c460d21bfe",
+      "page_number": 3
+    },
+    "text": "4.70 40-time (4th fastest among TEs this year), 4.41 shuttle (9th), 7.44 three-cone (2nd worst among TEs here, 12th)"
+  },
+  {
+    "type": "Title",
+    "element_id": "8ed2331c98cc00e761a28f46baa8f6e3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            301.25
+          ],
+          [
+            72.024,
+            312.28999999999996
+          ],
+          [
+            303.40504000000004,
+            312.28999999999996
+          ],
+          [
+            303.40504000000004,
+            301.25
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "37” vertical (#1 among TEs here), 10’3” broad jump"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0fcef96578fe824a4528765994d404da",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            370.48999999999995
+          ],
+          [
+            72.024,
+            383.45
+          ],
+          [
+            515.18896,
+            383.45
+          ],
+          [
+            515.18896,
+            370.48999999999995
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "8ed2331c98cc00e761a28f46baa8f6e3",
+      "page_number": 3
+    },
+    "text": "The Historical TE Prospects to Whom Cole Kmet Most Compares Within Our System:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "546b4641f00cca14a37b7e3e2f16777d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            411.17
+          ],
+          [
+            72.024,
+            436.75
+          ],
+          [
+            525.21032,
+            436.75
+          ],
+          [
+            525.21032,
+            411.17
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "8ed2331c98cc00e761a28f46baa8f6e3",
+      "page_number": 3
+    },
+    "text": "LaCosse, Uzomah, Ballard…they all logged several years in the NFL. Sometimes starting. Useful. Solid. Not #1 in class ‘special’."
+  },
+  {
+    "type": "Title",
+    "element_id": "325f49da10efca921665bbd8ffc3898a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            79.584,
+            470.8
+          ],
+          [
+            79.584,
+            490.84
+          ],
+          [
+            104.762,
+            490.84
+          ],
+          [
+            104.762,
+            470.8
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "TE Grade"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bc9477e6920ceabc8380a91af7dc8c18",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            78.264,
+            504.55
+          ],
+          [
+            78.264,
+            604.99
+          ],
+          [
+            105.71096,
+            604.99
+          ],
+          [
+            105.71096,
+            504.55
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "325f49da10efca921665bbd8ffc3898a",
+      "page_number": 3
+    },
+    "text": "6.361 6.731 6.311 2.200 2.236 2.853 1.782"
+  },
+  {
+    "type": "Title",
+    "element_id": "a7e711ed4cc85f2040c8f4fe8d24f82c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            117.26,
+            470.8
+          ],
+          [
+            117.26,
+            490.84
+          ],
+          [
+            138.722,
+            490.84
+          ],
+          [
+            138.722,
+            470.8
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "TE- Reed"
+  },
+  {
+    "type": "Title",
+    "element_id": "eb970eb0951c6cdeac1ec0cc723fc91e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            172.46,
+            470.44
+          ],
+          [
+            172.46,
+            479.8
+          ],
+          [
+            189.99200000000002,
+            479.8
+          ],
+          [
+            189.99200000000002,
+            470.44
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "Last"
+  },
+  {
+    "type": "Title",
+    "element_id": "a151ceb1711aad529a7704248f033339",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            228.17,
+            470.44
+          ],
+          [
+            228.17,
+            479.8
+          ],
+          [
+            246.872,
+            479.8
+          ],
+          [
+            246.872,
+            470.44
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "First"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2dfc7cf62d861f2888365e121b33cf04",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            115.34,
+            504.55
+          ],
+          [
+            115.34,
+            604.99
+          ],
+          [
+            243.38096,
+            604.99
+          ],
+          [
+            243.38096,
+            504.55
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "a151ceb1711aad529a7704248f033339",
+      "page_number": 3
+    },
+    "text": "4.06 Kmet Cole 1.80 Blanchflower Rob -2.24 Franklin -6.73 LaCosse -6.72 Uzomah -6.88 Ballard 4.29 Dillon"
+  },
+  {
+    "type": "Title",
+    "element_id": "988a2d82554608ba91ed8e2e162aaed3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            221.45,
+            534.4300000000001
+          ],
+          [
+            221.45,
+            604.99
+          ],
+          [
+            248.78096,
+            604.99
+          ],
+          [
+            248.78096,
+            534.4300000000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "Collin Matt C.J. Jake Kano"
+  },
+  {
+    "type": "Title",
+    "element_id": "f07067991cf793df403e554dcf006a68",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            270.53,
+            470.8
+          ],
+          [
+            270.53,
+            479.8
+          ],
+          [
+            280.484,
+            479.8
+          ],
+          [
+            280.484,
+            470.8
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "Yr"
+  },
+  {
+    "type": "Title",
+    "element_id": "05f00f61bbd7cbb7f47de945257784f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            314.83,
+            470.44
+          ],
+          [
+            314.83,
+            479.8
+          ],
+          [
+            344.692,
+            479.8
+          ],
+          [
+            344.692,
+            470.44
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "College"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a5df768ac363ecd3693ca23b07fc2ccd",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            263.33,
+            504.55
+          ],
+          [
+            263.33,
+            604.99
+          ],
+          [
+            354.88096,
+            604.99
+          ],
+          [
+            354.88096,
+            504.55
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "05f00f61bbd7cbb7f47de945257784f5",
+      "page_number": 3
+    },
+    "text": "2020 Notre Dame 2014 U Mass Iowa State 2011 2015 Illinois 2015 Auburn 2010 Ohio State 2019 Oregon"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            370.63,
+            470.8
+          ],
+          [
+            370.63,
+            479.8
+          ],
+          [
+            378.304,
+            479.8
+          ],
+          [
+            378.304,
+            470.8
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "H"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            393.19,
+            470.44
+          ],
+          [
+            393.19,
+            479.8
+          ],
+          [
+            401.332,
+            479.8
+          ],
+          [
+            401.332,
+            470.44
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "H"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "608d776be8921a632fb70ccd6503af80",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            370.75,
+            504.55
+          ],
+          [
+            370.75,
+            604.99
+          ],
+          [
+            405.28096,
+            604.99
+          ],
+          [
+            405.28096,
+            504.55
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "44bd7ae60f478fae1061e11a7739f4b9",
+      "page_number": 3
+    },
+    "text": "6 5.6 6 4.1 6 5.5 6 5.7 6 5.6 6 6.1 6 5.0"
+  },
+  {
+    "type": "Title",
+    "element_id": "fcb5f40df9be6bae66c1d77a6c159688",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            421.3,
+            470.44
+          ],
+          [
+            421.3,
+            479.8
+          ],
+          [
+            431.962,
+            479.8
+          ],
+          [
+            431.962,
+            470.44
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "W"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c7974a9173ab8ec19f8129d2dfa3d610",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            417.1,
+            504.55
+          ],
+          [
+            417.1,
+            604.99
+          ],
+          [
+            436.03096,
+            604.99
+          ],
+          [
+            436.03096,
+            504.55
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 3
+    },
+    "text": "262 256 256 257 262 265 265"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5ffd4301bc3d4382c820a0e9f568df6a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            448.9,
+            470.8
+          ],
+          [
+            448.9,
+            604.99
+          ],
+          [
+            476.122,
+            604.99
+          ],
+          [
+            476.122,
+            470.8
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 3
+    },
+    "text": "Spd- Agil Metric 1.58 1.77 1.87 0.00 4.11 2.46 0.70"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "079c5bcd4226ee25a56d35d26ea8c044",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            487.18,
+            470.8
+          ],
+          [
+            487.18,
+            604.99
+          ],
+          [
+            514.4019999999999,
+            604.99
+          ],
+          [
+            514.4019999999999,
+            470.8
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "fcb5f40df9be6bae66c1d77a6c159688",
+      "page_number": 3
+    },
+    "text": "Strgth Blxing Metric 5.87 6.97 8.44 7.06 8.94 8.83 7.77"
+  },
+  {
+    "type": "Title",
+    "element_id": "40c0df2a4dda9f7ff06f15518fcf5739",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            525.36,
+            470.8
+          ],
+          [
+            525.36,
+            490.84
+          ],
+          [
+            552.114,
+            490.84
+          ],
+          [
+            552.114,
+            470.8
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "Hands Metric"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "50bc3accfdefc813e4e29f1d984a1cc6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            528.0,
+            504.55
+          ],
+          [
+            528.0,
+            604.99
+          ],
+          [
+            549.8109599999999,
+            604.99
+          ],
+          [
+            549.8109599999999,
+            504.55
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "40c0df2a4dda9f7ff06f15518fcf5739",
+      "page_number": 3
+    },
+    "text": "7.03 7.66 7.28 3.23 3.28 2.94 4.75"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "79b4a2d23fa09fae0cfba0afc00ece41",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            630.08464
+          ],
+          [
+            72.024,
+            703.76064
+          ],
+          [
+            541.1344,
+            703.76064
+          ],
+          [
+            541.1344,
+            630.08464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "40c0df2a4dda9f7ff06f15518fcf5739",
+      "page_number": 3
+    },
+    "text": "A score of 7.0+ is where we start to take a TE prospect more seriously. A score of 8.50+ is where we see a stronger correlation of TEs going on to become NFL good/great/elite. A score of 10.00+ is more rarefied air in our system and indicates a greater probability of becoming an elite NFL TE. All of the TE ratings are based on a 0–10 scale, but a player can score negative, or above a 10.0 in certain instances."
+  },
+  {
+    "type": "Title",
+    "element_id": "6ce22990a8930a7d551fa4b6ef9f8cd1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "College Football Metrics| 3"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4a9d0a1ca36d30b0ebae8460c339f50",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.5,
+            69.84000000000003
+          ],
+          [
+            461.5,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 4
+    },
+    "text": "MARCH 19, 2020"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5cca90fe2e34980cf7c92fcd8669f259",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            144.84464000000003
+          ],
+          [
+            72.024,
+            169.44463999999994
+          ],
+          [
+            496.7739199999997,
+            169.44463999999994
+          ],
+          [
+            496.7739199999997,
+            144.84464000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 4
+    },
+    "text": "**The ‘TE-Reed’ score is in honor of Jordan Reed’s 2015 season…looking at TEs in a different manner—the smaller, speedy receiving threats."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a652689bb1e1f0d73162a483c041e8b1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            180.12464
+          ],
+          [
+            72.024,
+            218.40463999999997
+          ],
+          [
+            536.9835199999998,
+            218.40463999999997
+          ],
+          [
+            536.9835199999998,
+            180.12464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 4
+    },
+    "text": "“Speed-Agility Metric” = A combination of unique metrics surrounding speed, agility, physical size, mixed with some on-field performance metrics. High scorers here project to have a better YAC and show characteristics to be used as deep threats/create separation."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c56cf94ad9acc1d3970774a72fcba7e5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            229.08464000000004
+          ],
+          [
+            72.024,
+            253.80463999999995
+          ],
+          [
+            539.64,
+            253.80463999999995
+          ],
+          [
+            539.64,
+            229.08464000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 4
+    },
+    "text": "“Power-Strength Metric” = A combination of unique metrics surrounding physical size profiling, bench press strength, etc. High scorers here project to be more physical, better blockers, and less injury-prone."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7c4bef448b0e4fd136092710bc1466fa",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            264.39464
+          ],
+          [
+            72.024,
+            316.35464
+          ],
+          [
+            529.8748799999996,
+            316.35464
+          ],
+          [
+            529.8748799999996,
+            264.39464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 4
+    },
+    "text": "“Hands Metric” = A combination of unique metrics surrounding on-field performance in college, considering the strength of opponents played. Furthermore, this data considers some physical profiling for hand size, etc. High scorers here have a better track record of college statistical performance, and project the combination of data for receiving success at the next level."
+  },
+  {
+    "type": "Title",
+    "element_id": "855047d05a44cc4a17a85efb85ea4a18",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            375.29
+          ],
+          [
+            72.024,
+            387.29
+          ],
+          [
+            195.12199999999999,
+            387.29
+          ],
+          [
+            195.12199999999999,
+            375.29
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2020 NFL Draft Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4ab9d70984c1950c9b66c807974041ae",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            398.93
+          ],
+          [
+            72.024,
+            424.49
+          ],
+          [
+            533.96992,
+            424.49
+          ],
+          [
+            533.96992,
+            398.93
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "855047d05a44cc4a17a85efb85ea4a18",
+      "page_number": 4
+    },
+    "text": "Kmet is running #1 in the class for most scouts and analysts, but they have him going in the 2nd-round. Middle second. I’m going to assume he’ll go 2nd-round, but 3rd-round wouldn’t shock me."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9bba57e2ae1a79626a4798966a0f2c1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            435.91
+          ],
+          [
+            72.024,
+            475.99
+          ],
+          [
+            526.86928,
+            475.99
+          ],
+          [
+            526.86928,
+            435.91
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "855047d05a44cc4a17a85efb85ea4a18",
+      "page_number": 4
+    },
+    "text": "If I were an NFL GM, I am absolutely not paying a top 100 draft pick to take someone like Kmet. Not a top 150-200 either. There are better prospects at TE or other spots to use my picks on over an average/OK tight end."
+  },
+  {
+    "type": "Title",
+    "element_id": "f019bbba3c90fbd2630a58a8fed88d72",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            532.63
+          ],
+          [
+            72.024,
+            544.63
+          ],
+          [
+            147.572,
+            544.63
+          ],
+          [
+            147.572,
+            532.63
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "NFL Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1346306c403e3692d8b61250a4bf19b2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            556.15
+          ],
+          [
+            72.024,
+            596.23
+          ],
+          [
+            526.7511999999999,
+            596.23
+          ],
+          [
+            526.7511999999999,
+            556.15
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 4
+    },
+    "text": "If Kmet is drafted to start somewhere they need a tight end, and Dallas Goedert spends another year wasting away as a backup/duo TE – I’m going to freak out. I suspect Kmet will be more Jace Sternberger…not starting/playing much at all season one, and then we’ll see after that."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cfbe9cc7933c8af3b0fd109560143dd4",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            607.66
+          ],
+          [
+            72.024,
+            633.22
+          ],
+          [
+            532.61152,
+            633.22
+          ],
+          [
+            532.61152,
+            607.66
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 4
+    },
+    "text": "There’s some upside here, I don’t mean to be so gloomy…it’s just not a lot of upside or worth ‘the best in class’."
+  },
+  {
+    "type": "Title",
+    "element_id": "2c304a39648b2bd2a8db11e97562604f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "College Football Metrics| 4"
+  },
+  {
+    "type": "Title",
+    "element_id": "e4195529a73b214fc6373b136455c2f2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.47,
+            38.91000000000008
+          ],
+          [
+            329.47,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            52.950000000000045
+          ],
+          [
+            539.69304,
+            38.91000000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2020 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4a9d0a1ca36d30b0ebae8460c339f50",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            461.5,
+            69.84000000000003
+          ],
+          [
+            461.5,
+            80.88
+          ],
+          [
+            539.01504,
+            80.88
+          ],
+          [
+            539.01504,
+            69.84000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "e4195529a73b214fc6373b136455c2f2",
+      "page_number": 5
+    },
+    "text": "MARCH 19, 2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            256.85,
+            298.238
+          ],
+          [
+            256.85,
+            307.238
+          ],
+          [
+            361.867,
+            307.238
+          ],
+          [
+            361.867,
+            298.238
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Copyright Statement"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3337388356098e491aeed77fc96e3db",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            322.58
+          ],
+          [
+            72.024,
+            331.58
+          ],
+          [
+            276.404,
+            331.58
+          ],
+          [
+            276.404,
+            322.58
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 5
+    },
+    "text": "Copyright at date and time signed below by R.C. Fischer"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc90d3cc68a3d8e3a5170eae08d7e52f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            346.34
+          ],
+          [
+            72.024,
+            426.38
+          ],
+          [
+            537.497,
+            426.38
+          ],
+          [
+            537.497,
+            346.34
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 5
+    },
+    "text": "All rights reserved. All content is for entertainment purposes only and TFA is not responsible or liable for personal adverse outcomes nor are any game results or forecasting guaranteed. Past results do not predict future outcomes. We are not held liable for any personal loses incurred. We are solely here to produce and provide content for recreational purposes. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, email the publisher at rcfischer@fantasyfootballmetrics.com"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b3eb4ce4a2895c0a2d11e9318dae0c7d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            476.92
+          ],
+          [
+            72.024,
+            485.92
+          ],
+          [
+            411.094,
+            485.92
+          ],
+          [
+            411.094,
+            476.92
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 5
+    },
+    "text": "Signature__________________________________________ Date_____________________"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "560c1a76c256247a08800c2d658d2cc6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            339.07,
+            472.15000000000003
+          ],
+          [
+            339.07,
+            483.19
+          ],
+          [
+            389.08504,
+            483.19
+          ],
+          [
+            389.08504,
+            472.15000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 5
+    },
+    "text": "3/19/2020"
+  },
+  {
+    "type": "Title",
+    "element_id": "b5a9efa6494b74562a3be97eb3db805b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.74,
+            731.376
+          ],
+          [
+            419.74,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            742.4159999999999
+          ],
+          [
+            545.13504,
+            731.376
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:01.328745"
+      },
+      "filename": "5e79647921d98478f886660a_CFM20_TE_Kmet_Cole.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College Football Metrics| 5"
+  }
+]

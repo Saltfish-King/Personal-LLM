@@ -1,0 +1,3127 @@
+[
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "db0a874a6733764775eb1486b34be517",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.23,
+            69.98000000000002
+          ],
+          [
+            455.23,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "JANUARY 14, 2022"
+  },
+  {
+    "type": "Title",
+    "element_id": "26d8053866343e6fd0c5076d5345fe66",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            147.93896000000007
+          ],
+          [
+            72.024,
+            164.01896
+          ],
+          [
+            479.28704000000005,
+            164.01896
+          ],
+          [
+            479.28704000000005,
+            147.93896000000007
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "2022 NFL Draft Scouting Report: QB Desmond"
+  },
+  {
+    "type": "Title",
+    "element_id": "31e7c11c040949e8aaa4f1f0977cd089",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            172.41896000000008
+          ],
+          [
+            72.024,
+            188.49896
+          ],
+          [
+            232.73463999999998,
+            188.49896
+          ],
+          [
+            232.73463999999998,
+            172.41896000000008
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "Ridder, Cincinnati"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86d9b0d74117d71fb4fc11273db39a9e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            201.44727999999998
+          ],
+          [
+            72.024,
+            223.76728000000003
+          ],
+          [
+            535.00848,
+            223.76728000000003
+          ],
+          [
+            535.00848,
+            201.44727999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "31e7c11c040949e8aaa4f1f0977cd089",
+      "page_number": 1
+    },
+    "text": "Our QB grades can and will change as more information comes in from Pro Day workouts, leaked Wonderlic test results, etc. We will update ratings as new info becomes available."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d74859cf394c76ea559d60db1bc859ef",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            257.47
+          ],
+          [
+            72.024,
+            326.62
+          ],
+          [
+            535.70104,
+            326.62
+          ],
+          [
+            535.70104,
+            257.47
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "31e7c11c040949e8aaa4f1f0977cd089",
+      "page_number": 1
+    },
+    "text": "Back in the summer of 2021, Ross Jacobs and I did a series preview scouting the (mainstream) consensus top 5-8 or so prospects at each position. We walked away thinking Desmond Ridder was the best QB prospect we saw…and much of that was driven by not seeing much in the rest of the names (Willis, Howell, Rattler, etc.). Ridder was somewhat the best by default. I thought he had some real potential for the NFL and thought he’d be a Heisman candidate and could lead Cincy to a shock season."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5855edc61c5ba65e5464d898db04fc3f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            337.90000000000003
+          ],
+          [
+            72.024,
+            421.44
+          ],
+          [
+            537.6129599999999,
+            421.44
+          ],
+          [
+            537.6129599999999,
+            337.90000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "31e7c11c040949e8aaa4f1f0977cd089",
+      "page_number": 1
+    },
+    "text": "Entering the 2022 scouting season (January 2022), in my mind, Ridder was the name to beat at QB for this upcoming NFL Draft before I really looked at anything in detail. Then I scouted Kenny Pickett and Bailey Zappe (two prospects I had not done any work on prior) and then thought…’maybe Ridder isn’t the best in 2022…not even sure he’s top 2-3’. I was convinced early on/right away that Pickett was going to be the NFL’s #1 QB, without a doubt…but, honestly, I had a tiny doubt – I wondered, when I studied Ridder deeper, if he would contend with Pickett for that top spot."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4fe0282633e2ceb7234d363eee950894",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            432.98
+          ],
+          [
+            72.024,
+            444.02
+          ],
+          [
+            523.75504,
+            444.02
+          ],
+          [
+            523.75504,
+            432.98
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "31e7c11c040949e8aaa4f1f0977cd089",
+      "page_number": 1
+    },
+    "text": "Well, I’ve gone through the Ridder study now and ran our scouting metrics, and…’I’m out’ on Ridder."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "068f9447efd19937d1bc6daff1677276",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            455.54
+          ],
+          [
+            72.024,
+            495.38
+          ],
+          [
+            536.93568,
+            495.38
+          ],
+          [
+            536.93568,
+            455.54
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "31e7c11c040949e8aaa4f1f0977cd089",
+      "page_number": 1
+    },
+    "text": "That’s a big change in thinking. I thought he might be a solid ‘B’ NFL prospect last summer, but with more study I see an obvious ‘C’ with more questions to be a ‘D’ than a ‘B’. I won’t damn him to scouting hell, I won’t 100% say he has no NFL future -- but I’m no longer thinking he’s a legit top prospect."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4dc542b511fd74f401665a02dd5a20c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            506.93
+          ],
+          [
+            72.024,
+            517.97
+          ],
+          [
+            151.84503999999998,
+            517.97
+          ],
+          [
+            151.84503999999998,
+            506.93
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "31e7c11c040949e8aaa4f1f0977cd089",
+      "page_number": 1
+    },
+    "text": "What happened?"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f2a6a62e7b955f224d0fd65c8dc69c87",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            529.49
+          ],
+          [
+            72.024,
+            641.8299999999999
+          ],
+          [
+            533.5070400000002,
+            641.8299999999999
+          ],
+          [
+            533.5070400000002,
+            529.49
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "31e7c11c040949e8aaa4f1f0977cd089",
+      "page_number": 1
+    },
+    "text": "With more study, I saw ‘it’…the ‘it’ being his flaws. NFL flaws. Our scouting analytics grades concurred that there was mediocrity here. The ‘it’ flaw on tape that is the issue that caused me to bail was discovered watching throw after throw. Ridder is not a great reader of the field at QB…he just dropped back to pass, knowing where the primary play was/the matchup he wanted, and throwing it smartly/accurately there…or taking off running it wasn’t there. He was very good at this style of offense…receivers spread out, they ran their routes, Ridder delivered passes accurately to those receivers/into those routes. He’s a well-schooled, well-timed QB…it works great in college…against Conference USA foes."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e95fa5ac77f5b703487a3b874b9510d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            653.38
+          ],
+          [
+            72.024,
+            707.856
+          ],
+          [
+            541.8643200000001,
+            707.856
+          ],
+          [
+            541.8643200000001,
+            653.38
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "31e7c11c040949e8aaa4f1f0977cd089",
+      "page_number": 1
+    },
+    "text": "However, when you watched him on display against Notre Dame (a game they won) or Alabama in the 2021 season…he was rendered mediocre or worse. When he faces NFL prospect level defenders, then his preplanned, solid throws don’t look so snappy, and defenders are knocking passes away or taking the receivers out and forcing Ridder to throw into trouble or pull the throw down and run…and on the run is"
+  },
+  {
+    "type": "Title",
+    "element_id": "41b5d639fbc1a8bb2f19250ed8252fb0",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 1
+    },
+    "text": "College Football Metrics| 1"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "db0a874a6733764775eb1486b34be517",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.23,
+            69.98000000000002
+          ],
+          [
+            455.23,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "JANUARY 14, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ae2519902be83742bebfa375642679a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.37
+          ],
+          [
+            72.024,
+            171.04999999999995
+          ],
+          [
+            539.7460000000001,
+            171.04999999999995
+          ],
+          [
+            539.7460000000001,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 2
+    },
+    "text": "where these NFL-level college defenders take him down quickly (whereas he could run for good yardage against C-USA mediocrity)."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b99cc53f1e1b2f7e2794ce8f1358164",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.33000000000004
+          ],
+          [
+            72.024,
+            265.87
+          ],
+          [
+            542.46912,
+            265.87
+          ],
+          [
+            542.46912,
+            182.33000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 2
+    },
+    "text": "Ridder can be a scouting head fake. He really was talented at spreading out the receivers and making snap judgements on throws and delivering them accurately under little pressure. He’s a well-trained, practiced QB. Good mechanics and makes nice throws – in near perfect environments against mediocre opposition. When he faces an Alabama or Notre Dame, everything looks slower to develop. You notice the arm speed isn’t really great for the NFL when NFL-level college defenders are swarming. Ridder looks tiny, thin against the backdrop of these NFL-level bodies."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "88d18ed66c0f9fd511cd7ca09b52313d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            277.41999999999996
+          ],
+          [
+            72.024,
+            418.8
+          ],
+          [
+            539.98792,
+            418.8
+          ],
+          [
+            539.98792,
+            277.41999999999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 2
+    },
+    "text": "I thought, before I watched/studied the Notre Dame game, that the Fighting Irish take down might be the defining moment on how good Ridder is – but in reality, it was the game that really pushed me ‘out’ on him. I watched/studied him against Alabama before the Notre Dame game and set the FCS playoff mediocre performance aside as…‘well, that’s Alabama v. a C-USA team’. But in beating Notre Dame, I thought Ridder was borderline terrible (from an NFL evaluation standpoint). A bunch of shotgun snap, one step and fire timing throws…and when those throws weren’t there, or he tried to wait a beat longer to make a deeper throw…the ball floated unimpressively all over the field. I don’t know how Cincy won that game because Ridder put so many passes at risk. That Notre Dame tape is really the death of Ridder…it shows the problem – solid enough gamer to beat a good team but showed all kinds of passer flaws (for the NFL) with flimsy output to show for it."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9ce9f5b273e5465fd7cf07d08385545",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            430.34000000000003
+          ],
+          [
+            72.024,
+            528.29
+          ],
+          [
+            541.3444800000003,
+            528.29
+          ],
+          [
+            541.3444800000003,
+            430.34000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 2
+    },
+    "text": "Ridder has Sam Darnold disease – they’re robot QBs. Good college QBs in a perfect, sterile environment with no pressure where they can make their preplanned, quick short throws. But the more pocket pressure, the deeper the target/throw, the better athletes they faced…the more weak-armed, indecisive, and non-NFL-like they looked. With these ‘good’ college QBs, but shaky NFL prospects, if you need an improviser to make quick 2nd and 3rd reads…you’ve got the wrong guys. If you need/want a big arm to launch passes without being able to set/plant feet in a muddy pocket – they don’t have the tools, the arm to do so."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8bb8bc0050986b4fc0d19a8b1e6c9a84",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            539.81
+          ],
+          [
+            72.024,
+            608.95
+          ],
+          [
+            539.4355200000001,
+            608.95
+          ],
+          [
+            539.4355200000001,
+            539.81
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 2
+    },
+    "text": "Ridder (and Darnold) type QBs are very good in college. Very good in 7-on-7. They’ll look good with no defensive pressure throwing in drills at the Senior Bowl or at the Combine/Pro Day or in practice. They are well schooled QBs that have no/little answer, no high-end tools when forced outside their protective, safe environments…when the play doesn’t go the way it was supposed to on the chalkboard, they’re in trouble."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec0cddaa9e8f48b86b27835691fcdf71",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            620.23
+          ],
+          [
+            72.024,
+            674.74
+          ],
+          [
+            541.4747199999999,
+            674.74
+          ],
+          [
+            541.4747199999999,
+            620.23
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 2
+    },
+    "text": "Ridder is better than most mediocre college QB prospects at making his preprogrammed throws. He’s not without talent. He’ll have NFL coaches loving how he runs their playbook…in a perfect, practice environment or in shorts and a t-shirt at a workout/Pro Day. The problems only get discovered when the bullets are flying…and then it’s too late."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "34631b9336896ce905170df66a45dabd",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            686.256
+          ],
+          [
+            72.024,
+            711.936
+          ],
+          [
+            538.2100800000003,
+            711.936
+          ],
+          [
+            538.2100800000003,
+            686.256
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 2
+    },
+    "text": "Not only is Ridder a disappointing, mediocre passer prospect…but he’s a lot smaller than thought from my summer preview. When you see him trying to run from Alabama and Notre Dame defenders, he just"
+  },
+  {
+    "type": "Title",
+    "element_id": "fbd95094676666fbf8502cdd36aaa7b6",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 2
+    },
+    "text": "College Football Metrics| 2"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "db0a874a6733764775eb1486b34be517",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.23,
+            69.98000000000002
+          ],
+          [
+            455.23,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "JANUARY 14, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "092f9b81256597d2e98f2b50b35be01d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            145.37
+          ],
+          [
+            72.024,
+            171.04999999999995
+          ],
+          [
+            528.8289599999999,
+            171.04999999999995
+          ],
+          [
+            528.8289599999999,
+            145.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 3
+    },
+    "text": "looks small…looks not like a franchise QB. He looks like a little scrappy NFL backup who runs the scout team really well."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "56c2bcad80ace49c420ffe653fe79756",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            182.33000000000004
+          ],
+          [
+            72.024,
+            280.53999999999996
+          ],
+          [
+            542.45104,
+            280.53999999999996
+          ],
+          [
+            542.45104,
+            182.33000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 3
+    },
+    "text": "Ridder is not a terrible prospect. He’s a legit top 75-100 QB walking the planet earth…but he’s not one of the top 30-40 QBs, not a legit starter nor franchise hope. He can fill-in OK for a moment but he’s never going to give people a vibe like he might be the best QB on his NFL team. He’ll be in the realm of the Colt McCoy’s, Taylor Heinicke’s, Sam Darnold’s – ‘good hand’ QBs that NFL coaches will LOVE having on the team because they are so studious and compliant, and know the playbook, and come into the building at 3am, make preprogrammed throws so meticulously, etc. But at the end of the day, when things get off script, they are not difference makers and they’ll be forgotten backups for a long run in the NFL."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "42b9529d23912a60dd7a4a692f90f6fa",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            291.82000000000005
+          ],
+          [
+            72.024,
+            331.9
+          ],
+          [
+            510.72248,
+            331.9
+          ],
+          [
+            510.72248,
+            291.82000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 3
+    },
+    "text": "Since Ridder is so well schooled in the modern spread passing game…he could fill-in for a game or couple games in the NFL and be OK, maybe make a lucky throw and kill an opponent with steady competence…but given enough time, they’ll get exposed as ‘not franchise material’."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c001891639eaf723d430c123d13eb55",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            343.44000000000005
+          ],
+          [
+            72.024,
+            383.52
+          ],
+          [
+            541.5110400000001,
+            383.52
+          ],
+          [
+            541.5110400000001,
+            343.44000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 3
+    },
+    "text": "Desmond Ridder is a hard worker, a good leader/personality, a good student in the classroom and of football…which means NFL coaches will adore him. He’s just not possessing the physical tools/abilities to be a great QB. He’s going to hold a lot of clipboards the next 5-8 years."
+  },
+  {
+    "type": "Title",
+    "element_id": "aed05531956f44c725051633bab9cb39",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            440.71999999999997
+          ],
+          [
+            72.024,
+            456.79999999999995
+          ],
+          [
+            500.86408,
+            456.79999999999995
+          ],
+          [
+            500.86408,
+            440.71999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "Desmond Ridder, Through the Lens of Our QB Scouting Algorithm:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e4160b617245f4feb3e9d530af3f7d3f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            485.06
+          ],
+          [
+            72.024,
+            510.53
+          ],
+          [
+            533.88224,
+            510.53
+          ],
+          [
+            533.88224,
+            485.06
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "aed05531956f44c725051633bab9cb39",
+      "page_number": 3
+    },
+    "text": "The three 2021 season games where Ridder was matched against elevated D1 competition was against Indiana, Notre Dame, and Alabama. Three games where…"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "16559f8ff6e31ed5bb230ccc3723a77b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            522.05
+          ],
+          [
+            72.024,
+            533.0899999999999
+          ],
+          [
+            296.13504,
+            533.0899999999999
+          ],
+          [
+            296.13504,
+            522.05
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "aed05531956f44c725051633bab9cb39",
+      "page_number": 3
+    },
+    "text": "He was under 60% Comp. Pct. in all three games."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c55a7dff4d1698cfa2c992e2108ccd63",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            544.37
+          ],
+          [
+            72.024,
+            555.41
+          ],
+          [
+            250.99504,
+            555.41
+          ],
+          [
+            250.99504,
+            544.37
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "aed05531956f44c725051633bab9cb39",
+      "page_number": 3
+    },
+    "text": "Threw for just 1.0 TD passes per game."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4b6ee157bb909a18418407e8cc4fe43d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            566.9300000000001
+          ],
+          [
+            72.024,
+            577.97
+          ],
+          [
+            276.45504,
+            577.97
+          ],
+          [
+            276.45504,
+            566.9300000000001
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "aed05531956f44c725051633bab9cb39",
+      "page_number": 3
+    },
+    "text": "Averaged just 217.0 passing yards per game."
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7db7c11e22190031128bc7da569bb490",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            589.51
+          ],
+          [
+            72.024,
+            614.95
+          ],
+          [
+            512.13608,
+            614.95
+          ],
+          [
+            512.13608,
+            589.51
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "aed05531956f44c725051633bab9cb39",
+      "page_number": 3
+    },
+    "text": "Averaged 21.7 rushing yards per game, when he typically ran for 40-50+ yards in most games and clocked a few 75-100+ yard games throughout his career."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c7da61293e155a816a1540559b09aff2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            649.06
+          ],
+          [
+            72.024,
+            703.5360000000001
+          ],
+          [
+            542.00176,
+            703.5360000000001
+          ],
+          [
+            542.00176,
+            649.06
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "aed05531956f44c725051633bab9cb39",
+      "page_number": 3
+    },
+    "text": "Rushed for 50+ yards in a game 18 times in his 50-game career…he can move, but kinda in a good college way…not so good in an NFL way. He’s not Lamar Jackson…he’s Joe Burrow or Kellen Mond kinda lean and slippery 4.65-4.7+ runners. But like Mond, Ridder has a thin frame and will get blown up on the run at the next level by bigger/faster entities."
+  },
+  {
+    "type": "Title",
+    "element_id": "6ce22990a8930a7d551fa4b6ef9f8cd1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 3
+    },
+    "text": "College Football Metrics| 3"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "db0a874a6733764775eb1486b34be517",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.23,
+            69.98000000000002
+          ],
+          [
+            455.23,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "JANUARY 14, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "92600bcbe3e291983daa266f5f724924",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            167.93000000000006
+          ],
+          [
+            72.024,
+            208.02999999999997
+          ],
+          [
+            532.2437600000001,
+            208.02999999999997
+          ],
+          [
+            532.2437600000001,
+            167.93000000000006
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 4
+    },
+    "text": "14 games in 2021 season, just two 300+ yard passing games. Low pass attempt volume. He’s not a volume passer/swashbuckler through the skies…he’s a game manager, a really nice college QB but NFL future game manager."
+  },
+  {
+    "type": "Title",
+    "element_id": "5ae1012ffcde538d299e9458a7e8c89b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            241.87
+          ],
+          [
+            72.024,
+            252.90999999999997
+          ],
+          [
+            214.99504,
+            252.90999999999997
+          ],
+          [
+            214.99504,
+            241.87
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2022 NFL Combine Projections:"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b98d0dc1b39db56546f802a85229fc17",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            264.46000000000004
+          ],
+          [
+            72.024,
+            275.5
+          ],
+          [
+            216.91503999999998,
+            275.5
+          ],
+          [
+            216.91503999999998,
+            264.46000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "5ae1012ffcde538d299e9458a7e8c89b",
+      "page_number": 4
+    },
+    "text": "6’2.5”/215, 9.5” hands, 32” arm"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "dd34cddd92af53b12d09f562f54b1676",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            287.02000000000004
+          ],
+          [
+            72.024,
+            298.06
+          ],
+          [
+            213.55504,
+            298.06
+          ],
+          [
+            213.55504,
+            287.02000000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "5ae1012ffcde538d299e9458a7e8c89b",
+      "page_number": 4
+    },
+    "text": "4.70 40-time, 7.05+ three-cone"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7791806264b942b53a04c4f9b6029e57",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            350.15999999999997
+          ],
+          [
+            72.024,
+            380.40000000000003
+          ],
+          [
+            507.67136,
+            380.40000000000003
+          ],
+          [
+            507.67136,
+            350.15999999999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "5ae1012ffcde538d299e9458a7e8c89b",
+      "page_number": 4
+    },
+    "text": "The Historical QB Prospects to Whom Desmond Ridder Most Compares Within Our System:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6a83289876fef46291be241b22426ef",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            408.0
+          ],
+          [
+            72.024,
+            448.09999999999997
+          ],
+          [
+            533.1316800000002,
+            448.09999999999997
+          ],
+          [
+            533.1316800000002,
+            408.0
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "5ae1012ffcde538d299e9458a7e8c89b",
+      "page_number": 4
+    },
+    "text": "I think if I took Stidham, Allen, and Thomas below and mashed them together in some hybrid fashion…I’d come out with Ridden. NFL capable, but a backup. Has some mobility. Doesn’t have a huge arm, but an OK one."
+  },
+  {
+    "type": "Title",
+    "element_id": "f389e3beaeb28955b258948eabbedd42",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            459.38000000000005
+          ],
+          [
+            72.024,
+            470.42
+          ],
+          [
+            186.16503999999998,
+            470.42
+          ],
+          [
+            186.16503999999998,
+            459.38000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "NFL backups/fringe QBs."
+  },
+  {
+    "type": "Title",
+    "element_id": "2d4bc408ab934ce84eacd2fe366d2b1a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            46.584,
+            506.7932
+          ],
+          [
+            46.584,
+            523.8332
+          ],
+          [
+            71.82576,
+            523.8332
+          ],
+          [
+            71.82576,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "QB- Grade"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f570141dff23dc2e31d5d41172590e9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            83.784,
+            506.7932
+          ],
+          [
+            83.784,
+            523.8332
+          ],
+          [
+            110.97175999999999,
+            523.8332
+          ],
+          [
+            110.97175999999999,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "2d4bc408ab934ce84eacd2fe366d2b1a",
+      "page_number": 4
+    },
+    "text": "LJax Rating"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e7e201591c534e6c7e81969c4c7af475",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            45.624,
+            535.97
+          ],
+          [
+            45.624,
+            604.15
+          ],
+          [
+            106.05224,
+            604.15
+          ],
+          [
+            106.05224,
+            535.97
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "2d4bc408ab934ce84eacd2fe366d2b1a",
+      "page_number": 4
+    },
+    "text": "6.268 5.38 8.211 4.12 6.541 3.01 7.411 6.74 7.153 6.42"
+  },
+  {
+    "type": "Title",
+    "element_id": "eb970eb0951c6cdeac1ec0cc723fc91e",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            139.97,
+            506.7932
+          ],
+          [
+            139.97,
+            514.7132
+          ],
+          [
+            158.75176000000002,
+            514.7132
+          ],
+          [
+            158.75176000000002,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "Last"
+  },
+  {
+    "type": "Title",
+    "element_id": "d0f9716ad593ca1887373c022d09a603",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            119.81,
+            535.97
+          ],
+          [
+            119.81,
+            604.15
+          ],
+          [
+            159.59224,
+            604.15
+          ],
+          [
+            159.59224,
+            535.97
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "Ridder Stidham Allen Thomas Shaw"
+  },
+  {
+    "type": "Title",
+    "element_id": "a151ceb1711aad529a7704248f033339",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            201.43,
+            506.7932
+          ],
+          [
+            201.43,
+            514.7132
+          ],
+          [
+            220.94176000000002,
+            514.7132
+          ],
+          [
+            220.94176000000002,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "First"
+  },
+  {
+    "type": "Title",
+    "element_id": "f07067991cf793df403e554dcf006a68",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            250.42,
+            506.7932
+          ],
+          [
+            250.42,
+            514.7132
+          ],
+          [
+            261.02176,
+            514.7132
+          ],
+          [
+            261.02176,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "Yr"
+  },
+  {
+    "type": "Title",
+    "element_id": "05f00f61bbd7cbb7f47de945257784f5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            297.96,
+            506.7932
+          ],
+          [
+            297.96,
+            514.7132
+          ],
+          [
+            328.98175999999995,
+            514.7132
+          ],
+          [
+            328.98175999999995,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "College"
+  },
+  {
+    "type": "Title",
+    "element_id": "f298b58e983cb76f3379fc70afe01143",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            187.51,
+            535.97
+          ],
+          [
+            187.51,
+            604.15
+          ],
+          [
+            323.80224,
+            604.15
+          ],
+          [
+            323.80224,
+            535.97
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "Desmond 2022 Cincinnati Jarrett Brandon Darron Connor"
+  },
+  {
+    "type": "Title",
+    "element_id": "6c2587de887dafd5ecb738bd0844b80c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            243.46,
+            550.13
+          ],
+          [
+            243.46,
+            604.15
+          ],
+          [
+            332.46224,
+            604.15
+          ],
+          [
+            332.46224,
+            550.13
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "2019 Auburn 2016 Arkansas 2012 Oregon 2014 So. Carolina"
+  },
+  {
+    "type": "Title",
+    "element_id": "44bd7ae60f478fae1061e11a7739f4b9",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            366.38,
+            506.7932
+          ],
+          [
+            366.38,
+            514.7132
+          ],
+          [
+            374.34175999999997,
+            514.7132
+          ],
+          [
+            374.34175999999997,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "H"
+  },
+  {
+    "type": "Title",
+    "element_id": "fcb5f40df9be6bae66c1d77a6c159688",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            395.45,
+            506.7932
+          ],
+          [
+            395.45,
+            514.7132
+          ],
+          [
+            405.09175999999997,
+            514.7132
+          ],
+          [
+            405.09175999999997,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "W"
+  },
+  {
+    "type": "Title",
+    "element_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            418.73,
+            506.7932
+          ],
+          [
+            418.73,
+            532.9532
+          ],
+          [
+            443.47208,
+            532.9532
+          ],
+          [
+            443.47208,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "Adj Comp Pct"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4062246d57e39e32c0531b806a13f997",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            359.42,
+            535.97
+          ],
+          [
+            359.42,
+            604.15
+          ],
+          [
+            449.39223999999996,
+            604.15
+          ],
+          [
+            449.39223999999996,
+            535.97
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 4
+    },
+    "text": "75.0 207 61.8% 74.3 218 61.3% 71.4 212 62.0% 74.6 216 61.9% 72.8 209 64.6%"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "808e034c78cea0a94ce1aed81172ba8c",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            458.11,
+            506.7932
+          ],
+          [
+            458.11,
+            604.15
+          ],
+          [
+            489.56824,
+            604.15
+          ],
+          [
+            489.56824,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 4
+    },
+    "text": "Adj Yds per Comp 14.0 11.9 13.4 11.5 13.1"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7543cc7a5ffd42766293ad65cdbf47ac",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            500.59,
+            506.7932
+          ],
+          [
+            500.59,
+            604.15
+          ],
+          [
+            528.26176,
+            604.15
+          ],
+          [
+            528.26176,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 4
+    },
+    "text": "Adj Pass per TD 15.4 20.5 15.8 15.4 11.0"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d6b832e38000b5c3368dc60377695293",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            539.74,
+            506.7932
+          ],
+          [
+            539.74,
+            604.15
+          ],
+          [
+            570.0417600000001,
+            604.15
+          ],
+          [
+            570.0417600000001,
+            506.7932
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 4
+    },
+    "text": "Adj Pass Per INT 63.1 67.9 35.4 48.5 185.0"
+  },
+  {
+    "type": "ListItem",
+    "element_id": "34bf9f92ec48799ed92e3d59c384e2e8",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            629.45464
+          ],
+          [
+            72.024,
+            653.93464
+          ],
+          [
+            515.76344,
+            653.93464
+          ],
+          [
+            515.76344,
+            629.45464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 4
+    },
+    "text": "’LJax rating’ – new for 2022, as we re-do our grading systems to better identify/reward the spread offense QB prospects…looking for the runner-passer talents."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1ba658a4cde5f6284de91e092b60cc7",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            664.76464
+          ],
+          [
+            72.024,
+            675.8046400000001
+          ],
+          [
+            493.27,
+            675.8046400000001
+          ],
+          [
+            493.27,
+            664.76464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 4
+    },
+    "text": "**“Adj” = A view of adjusted college output in our system…adjusted for strength of opponent."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "187a9426ad5850fbf3e04d39aa2b5485",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            686.36064
+          ],
+          [
+            72.024,
+            711.08064
+          ],
+          [
+            515.09632,
+            711.08064
+          ],
+          [
+            515.09632,
+            686.36064
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "9dc50c5d57fdabc4219cc60fd5f4c0ca",
+      "page_number": 4
+    },
+    "text": "***A score of 8.5+ is where we see a stronger correlation of QBs going on to become NFL good-to- great. A scouting score of 9.5+ is rarefied air—higher potential for becoming great-to-elite."
+  },
+  {
+    "type": "Title",
+    "element_id": "2c304a39648b2bd2a8db11e97562604f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 4
+    },
+    "text": "College Football Metrics| 4"
+  },
+  {
+    "type": "Title",
+    "element_id": "080d3e3c70e1f1ad999948648a954df3",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            329.66,
+            39.01999999999998
+          ],
+          [
+            329.66,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            52.940000000000055
+          ],
+          [
+            539.76592,
+            39.01999999999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2022 NFL DRAFT SCOUTING REPORT"
+  },
+  {
+    "type": "Title",
+    "element_id": "db0a874a6733764775eb1486b34be517",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            455.23,
+            69.98000000000002
+          ],
+          [
+            455.23,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            81.01999999999998
+          ],
+          [
+            539.11504,
+            69.98000000000002
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "JANUARY 14, 2022"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "23a1ad9ebe188b0b8517adebf9fdb451",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            144.75464
+          ],
+          [
+            72.024,
+            183.15463999999997
+          ],
+          [
+            532.11784,
+            183.15463999999997
+          ],
+          [
+            532.11784,
+            144.75464
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "db0a874a6733764775eb1486b34be517",
+      "page_number": 5
+    },
+    "text": "QBs scoring 6.0–8.0 are finding more success in the new passing era of the NFL (2014–on). Depending upon the system and surrounding weapons, a 6.0–8.0 rated QB can do fine in today’s NFL—with the right circumstances…but they are not ‘the next Tom Brady’ guys, just NFL-useful guys."
+  },
+  {
+    "type": "Title",
+    "element_id": "ffbf1c10e5bd5551c02b760c354b3750",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            218.59000000000003
+          ],
+          [
+            72.024,
+            230.59000000000003
+          ],
+          [
+            195.022,
+            230.59000000000003
+          ],
+          [
+            195.022,
+            218.59000000000003
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "2022 NFL Draft Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f33f46f918a3ea9ffa4ab7377fcfbd7b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            242.11
+          ],
+          [
+            72.024,
+            267.54999999999995
+          ],
+          [
+            537.9092800000001,
+            267.54999999999995
+          ],
+          [
+            537.9092800000001,
+            242.11
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ffbf1c10e5bd5551c02b760c354b3750",
+      "page_number": 5
+    },
+    "text": "I see Ridder mostly with 1st and 2nd-round grades/mock draft rankings. He could get into the 1st-round if/when Malik Willis and Sam Howell fall from grace, but my bet is 2nd-round."
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b05c6715a1870463fb415b6e0f4a8fd",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            279.1
+          ],
+          [
+            72.024,
+            333.58
+          ],
+          [
+            536.70816,
+            333.58
+          ],
+          [
+            536.70816,
+            279.1
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "ffbf1c10e5bd5551c02b760c354b3750",
+      "page_number": 5
+    },
+    "text": "If I were an NFL GM, I would not make this pick – the NFL is a QB driven league, we all know this, I gotta take shots at QBs with guys who can be elite…and I don’t think Ridder can be. He can hang/work and even improve to ‘solid’ for the NFL…but I’m looking for special, so I pass. I’ll take Bailey Zappe over Ridder after the Kenny Pickett sweepstakes are over/picked #1 overall (my early bet/guess)."
+  },
+  {
+    "type": "Title",
+    "element_id": "f019bbba3c90fbd2630a58a8fed88d72",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            367.68
+          ],
+          [
+            72.024,
+            379.68
+          ],
+          [
+            147.72199999999998,
+            379.68
+          ],
+          [
+            147.72199999999998,
+            367.68
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "NFL Outlook:"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e80091899994471201649e097d27ddd1",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            391.44000000000005
+          ],
+          [
+            72.024,
+            445.94
+          ],
+          [
+            534.4933599999999,
+            445.94
+          ],
+          [
+            534.4933599999999,
+            391.44000000000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "f019bbba3c90fbd2630a58a8fed88d72",
+      "page_number": 5
+    },
+    "text": "Career NFL back up who will get better as he goes through years as a backup on the roster and may get thrown into action early on due to injuries…and he can be OK running an offense, but over time he will be exposed as ‘lacking’. He will hang in the NFL for a good while though…he’ll be a capable/reliable backup over time."
+  },
+  {
+    "type": "Title",
+    "element_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            256.9,
+            497.46344
+          ],
+          [
+            256.9,
+            506.58344
+          ],
+          [
+            361.97696,
+            506.58344
+          ],
+          [
+            361.97696,
+            497.46344
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "Copyright Statement"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3337388356098e491aeed77fc96e3db",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            522.05
+          ],
+          [
+            72.024,
+            531.17
+          ],
+          [
+            276.50112,
+            531.17
+          ],
+          [
+            276.50112,
+            522.05
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 5
+    },
+    "text": "Copyright at date and time signed below by R.C. Fischer"
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc90d3cc68a3d8e3a5170eae08d7e52f",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            545.5699999999999
+          ],
+          [
+            72.024,
+            625.99
+          ],
+          [
+            537.88024,
+            625.99
+          ],
+          [
+            537.88024,
+            545.5699999999999
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 5
+    },
+    "text": "All rights reserved. All content is for entertainment purposes only and TFA is not responsible or liable for personal adverse outcomes nor are any game results or forecasting guaranteed. Past results do not predict future outcomes. We are not held liable for any personal loses incurred. We are solely here to produce and provide content for recreational purposes. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, email the publisher at rcfischer@fantasyfootballmetrics.com"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b3eb4ce4a2895c0a2d11e9318dae0c7d",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            72.024,
+            676.42
+          ],
+          [
+            72.024,
+            685.54
+          ],
+          [
+            411.19112,
+            685.54
+          ],
+          [
+            411.19112,
+            676.42
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 5
+    },
+    "text": "Signature__________________________________________ Date_____________________"
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4e7fa7a8ac598d5652ba49469e8a01fa",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            339.26,
+            671.62
+          ],
+          [
+            339.26,
+            682.66
+          ],
+          [
+            389.30504,
+            682.66
+          ],
+          [
+            389.30504,
+            671.62
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "parent_id": "babad717cfc89cbbc1b5e37c8f61a7bf",
+      "page_number": 5
+    },
+    "text": "1/14/2022"
+  },
+  {
+    "type": "Title",
+    "element_id": "b5a9efa6494b74562a3be97eb3db805b",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            419.93,
+            731.64
+          ],
+          [
+            419.93,
+            742.68
+          ],
+          [
+            545.35504,
+            742.68
+          ],
+          [
+            545.35504,
+            731.64
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612,
+        "layout_height": 792
+      },
+      "data_source": {
+        "date_processed": "2024-01-15T23:05:00.450255"
+      },
+      "filename": "61fde7d1ddf06c63fc0987bd_CFM22_QB_Ridder_Desmond.pdf",
+      "file_directory": "files_used",
+      "last_modified": "2024-01-15T08:30:47",
+      "filetype": "application/pdf",
+      "page_number": 5
+    },
+    "text": "College Football Metrics| 5"
+  }
+]
