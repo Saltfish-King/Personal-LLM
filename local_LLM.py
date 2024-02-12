@@ -1,13 +1,19 @@
-# These codes are originally designed to be run on Apple 
-output_dir = 'my-docs' # Path to output directory
-input_dir = 'files_used' # Path to input directory
-weaviate_url = "http://localhost:8080"
-embedding_model_name = 'all-MiniLM-L6-v2'
-device = 'mps'
-
 import subprocess
 import os
 from typing import List, Dict
+import uuid
+import weaviate
+from weaviate.util import get_valid_uuid
+from weaviate.auth import AuthApiKey
+from unstructured.chunking.title import chunk_by_title
+from unstructured.documents.elements import DataSourceMetadata
+from unstructured.partition.json import partition_json
+from sentence_transformers import SentenceTransformer
+from langchain.llms import LlamaCpp
+from langchain.vectorstores.weaviate import Weaviate
+from langchain.callbacks.manager import CallbackManager
+from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+from langchain.prompts import PromptTemplate
 
 def process_local(output_dir: str, num_processes: int, input_path: str):
         command = [
@@ -41,13 +47,10 @@ def get_result_files(folder_path) -> List[Dict]:
                 file_list.append(file_path)
     return file_list
 
-import uuid
-import weaviate
-from weaviate.util import get_valid_uuid
-
-def create_local_weaviate_client(db_url: str):
+def create_local_weaviate_client(db_url: str, APIKEY: str):
     return weaviate.Client(
         url=db_url,
+        auth_client_secret=APIKEY
     )
 
 def get_schema(vectorizer: str = "none"):
@@ -97,13 +100,6 @@ def count_documents(client: weaviate.Client) -> Dict:
     count = response
     return count
 
-from unstructured.chunking.title import chunk_by_title
-from unstructured.documents.elements import DataSourceMetadata
-from unstructured.partition.json import partition_json
-from sentence_transformers import SentenceTransformer
-
-embedding_model = SentenceTransformer(embedding_model_name, device=device)
-
 def compute_embedding(chunk_text: List[str]):
     embeddings = embedding_model.encode(chunk_text, device=device)
     return embeddings
@@ -150,12 +146,6 @@ def add_data_to_weaviate(files, client, chunk_under_n_chars=500, chunk_new_after
         
     client.batch.flush()
 
-from langchain.llms import LlamaCpp
-from langchain.vectorstores.weaviate import Weaviate
-from langchain.callbacks.manager import CallbackManager
-from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
-from langchain.prompts import PromptTemplate
-
 def question_answer(question: str, vectorstore: Weaviate):
     embedding = compute_embedding(question)
     similar_docs = vectorstore.max_marginal_relevance_search_by_vector(embedding)
@@ -174,12 +164,41 @@ def question_answer(question: str, vectorstore: Weaviate):
     return answer, similar_docs
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser.add_argument('--input', default="files_used", type=str, help='The file source directory')
+    parser.add_argument('--output', default="my-docs", type=str, help='The embedded files')
+    parser.add_argument('--embedding_model_name', default="all-MiniLM-L6-v2", type=str, help='embedding model')
+    parser.add_argument('--device', default="cuda", type=str, help='device to use')
+    parser.add_argument('--question', default="Give a summary of NFL Draft 2020 Scouting Reports: RB Jonathan Taylor, Wisconsin?", type=str, help='a default question')
+    args = parser.parse_args()
+
+    output_dir = args.output
+    input_dir = args.input
+    embedding_model_name = args.embedding_model_name
+    device = args.device
+    question = args.question
+
+
     process_local(output_dir=output_dir, num_processes=2, input_path=input_dir)
     files = get_result_files(output_dir)
 
-    client = create_local_weaviate_client(db_url=weaviate_url)
+    # weaviate_url = "http://localhost:8080"
+    '''
+    Since for now (2024/02/**) there is no way to create weaviate inside a Docker container, 
+    use its cloud service WCS for experiments. The WCS sandbox expires every two weeks. 
+    Weaviate client v4 is used
+    '''
+    # weaviate_url = os.getenv("weaviate_url", "https://my-wea-sandbox-65fijroy.weaviate.network")
+    # APIKEY = os.getenv("APIKEY", "11qnKUShe3GIhixsCqq3QYa5RZSiIxbijyZ5")
+    weaviate_url = "https://my-wea-sandbox-65fijroy.weaviate.network"
+    APIKEY = weaviate.AuthApiKey(api_key="11qnKUShe3GIhixsCqq3QYa5RZSiIxbijyZ5")
+    client = create_local_weaviate_client(db_url=weaviate_url, APIKEY=APIKEY)
     my_schema = get_schema()
     upload_schema(my_schema, weaviate=client)
+
+    embedding_model = SentenceTransformer(embedding_model_name, device=device)
+
     
     add_data_to_weaviate(
         files=files,
@@ -204,10 +223,8 @@ if __name__ == "__main__":
         verbose=True, # Verbose is required to pass to the callback manager
     )
 
-    client = weaviate.Client(weaviate_url)
+    # client = weaviate.Client(weaviate_url)
     vectorstore = Weaviate(client, "Doc", "text")
-
-    question = "Give a summary of NFL Draft 2020 Scouting Reports: RB Jonathan Taylor, Wisconsin?"
 
     answer, similar_docs = question_answer(question, vectorstore)
 
