@@ -4,6 +4,7 @@ from typing import List, Dict
 import uuid
 import weaviate
 from weaviate.util import get_valid_uuid
+from weaviate.auth import AuthApiKey
 from unstructured.chunking.title import chunk_by_title
 from unstructured.documents.elements import DataSourceMetadata
 from unstructured.partition.json import partition_json
@@ -47,9 +48,9 @@ def get_result_files(folder_path) -> List[Dict]:
     return file_list
 
 def create_local_weaviate_client(db_url: str, APIKEY: str):
-    return weaviate.connect_to_wcs(
-        cluster_url=db_url,
-        auth_credentials=weaviate.auth.AuthApiKey(APIKEY)
+    return weaviate.Client(
+        url=db_url,
+        auth_client_secret=APIKEY
     )
 
 def get_schema(vectorizer: str = "none"):
@@ -86,9 +87,8 @@ def get_schema(vectorizer: str = "none"):
     }
 
 def upload_schema(my_schema, weaviate):
-    # in weaviate client v4, the schema API was removed in favor of the collections API.
-    weaviate.collections.delete_all()
-    weaviate.collections.create(my_schema)
+    weaviate.schema.delete_all()
+    weaviate.schema.create(my_schema)
 
 def count_documents(client: weaviate.Client) -> Dict:
     response = (
@@ -191,7 +191,7 @@ if __name__ == "__main__":
     # weaviate_url = os.getenv("weaviate_url", "https://my-wea-sandbox-65fijroy.weaviate.network")
     # APIKEY = os.getenv("APIKEY", "11qnKUShe3GIhixsCqq3QYa5RZSiIxbijyZ5")
     weaviate_url = "https://my-wea-sandbox-65fijroy.weaviate.network"
-    APIKEY = "11qnKUShe3GIhixsCqq3QYa5RZSiIxbijyZ5"
+    APIKEY = weaviate.AuthApiKey(api_key="11qnKUShe3GIhixsCqq3QYa5RZSiIxbijyZ5")
     client = create_local_weaviate_client(db_url=weaviate_url, APIKEY=APIKEY)
     my_schema = get_schema()
     upload_schema(my_schema, weaviate=client)
@@ -234,5 +234,5 @@ if __name__ == "__main__":
     for index, result in enumerate(similar_docs):
         print(f"\n\n-- RESULT {index+1}:\n")
         print(result)
-    
+
     client.close()
