@@ -125,7 +125,6 @@ def get_chunks(elements, chunk_under_n_chars=500, chunk_new_after_n_chars=1500):
     embeddings = compute_embedding(chunk_texts)
     return chunks, embeddings
 
-
 def add_data_to_weaviate(files, client, chunk_under_n_chars=500, chunk_new_after_n_chars=1500):
     for filename in files:
         try:
@@ -171,6 +170,7 @@ if __name__ == "__main__":
     parser.add_argument('--embedding_model_name', default="all-MiniLM-L6-v2", type=str, help='embedding model')
     parser.add_argument('--device', default="cuda", type=str, help='device to use')
     parser.add_argument('--question', default="Give a summary of NFL Draft 2020 Scouting Reports: RB Jonathan Taylor, Wisconsin?", type=str, help='a default question')
+    parser.add_argument('--model_path', default="model_files/llama-2-7b-chat.Q4_K_S.gguf", type=str, help='path to LLM model')
     args = parser.parse_args()
 
     output_dir = args.output
@@ -178,7 +178,6 @@ if __name__ == "__main__":
     embedding_model_name = args.embedding_model_name
     device = args.device
     question = args.question
-
 
     process_local(output_dir=output_dir, num_processes=2, input_path=input_dir)
     files = get_result_files(output_dir)
@@ -199,7 +198,6 @@ if __name__ == "__main__":
 
     embedding_model = SentenceTransformer(embedding_model_name, device=device)
 
-    
     add_data_to_weaviate(
         files=files,
         client=client,
@@ -214,7 +212,7 @@ if __name__ == "__main__":
     n_batch = 100  # Should be between 1 and n_ctx, consider the amount of RAM of your Apple Silicon Chip.
     # Make sure the model path is correct for your system!
     llm = LlamaCpp(
-        model_path="model_files/llama-2-7b-chat.Q4_K_S.gguf",
+        model_path=args.model_path,
         n_gpu_layers=n_gpu_layers,
         n_batch=n_batch,
         n_ctx=2048, # context window. By default 512
