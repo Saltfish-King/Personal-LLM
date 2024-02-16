@@ -9,7 +9,7 @@ from unstructured.chunking.title import chunk_by_title
 from unstructured.documents.elements import DataSourceMetadata
 from unstructured.partition.json import partition_json
 from sentence_transformers import SentenceTransformer
-from langchain.llms import LlamaCpp
+from langchain_community.llms import LlamaCpp
 from langchain.vectorstores.weaviate import Weaviate
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
@@ -208,9 +208,9 @@ if __name__ == "__main__":
     print(count_documents(client=client)['data']['Aggregate']['Doc'])
 
     callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
-    n_gpu_layers = 1  # Metal set to 1 is enough.
-    n_batch = 100  # Should be between 1 and n_ctx, consider the amount of RAM of your Apple Silicon Chip.
-    # Make sure the model path is correct for your system!
+    n_gpu_layers = 1  # set to 1 as default
+    n_batch = 100  # Should be between 1 and n_ctx, consider the RAM amount
+    # Make sure the model path is correct for the system!
     llm = LlamaCpp(
         model_path=args.model_path,
         n_gpu_layers=n_gpu_layers,
@@ -235,4 +235,3 @@ if __name__ == "__main__":
         print(f"\n\n-- RESULT {index+1}:\n")
         print(result)
 
-    client.close()

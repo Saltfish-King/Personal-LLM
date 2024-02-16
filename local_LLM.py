@@ -3,12 +3,13 @@ import os
 from typing import List, Dict
 import uuid
 import weaviate
+import weaviate.classes as wvc
 from weaviate.util import get_valid_uuid
 from unstructured.chunking.title import chunk_by_title
 from unstructured.documents.elements import DataSourceMetadata
 from unstructured.partition.json import partition_json
 from sentence_transformers import SentenceTransformer
-from langchain.llms import LlamaCpp
+from langchain_community.llms import LlamaCpp
 from langchain.vectorstores.weaviate import Weaviate
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
@@ -52,52 +53,39 @@ def create_local_weaviate_client(db_url: str, APIKEY: str):
         auth_credentials=weaviate.auth.AuthApiKey(APIKEY)
     )
 
-def get_schema(vectorizer: str = "none"):
-    return {
-        "classes": [
-            {
-                "class": "Doc",
-                "description": "A generic document class",
-                "vectorizer": vectorizer,
-                "properties": [
-                    {
-                        "name": "last_modified",
-                        "dataType": ["text"],
-                        "description": "Last modified date for the document",
-                    },
-                    {
-                        "name": "player",
-                        "dataType": ["text"],
-                        "description": "Player related to the document",
-                    },
-                    {
-                        "name": "position",
-                        "dataType": ["text"],
-                        "description": "Player Position related to the document",
-                    },
-                    {
-                        "name": "text",
-                        "dataType": ["text"],
-                        "description": "Text content for the document",
-                    },
-                ],
-            },
-        ],
-    }
-
-def upload_schema(my_schema, weaviate):
+def upload_schema(weaviate, vectorizer=None):
     # in weaviate client v4, the schema API was removed in favor of the collections API.
     weaviate.collections.delete_all()
-    weaviate.collections.create(my_schema)
+    weaviate.collections.create(
+        name="Doc", # a generic document class
+        # vectorizer_config = vectorizer, None for now
+        properties=[
+            wvc.config.Property(
+                name="last_modified",
+                data_type=wvc.config.DataType.TEXT
+                # description": "Last modified date for the document
+            ),
+            wvc.config.Property(
+                name="player",
+                data_type=wvc.config.DataType.TEXT
+                # description": "Player related to the document
+            ),
+            wvc.config.Property(
+                name="position",
+                data_type=wvc.config.DataType.TEXT
+                # description": "Player Position related to the document
+            ),
+            wvc.config.Property(
+                name="text",
+                data_type=wvc.config.DataType.TEXT
+                # description": "Text content for the document
+            ),
+        ]
+    )
 
 def count_documents(client: weaviate.Client) -> Dict:
-    response = (
-        client.query
-        .aggregate("Doc")
-        .with_meta_count()
-        .do()
-    )
-    count = response
+    jeopardy = client.collections.get("Doc")
+    count = jeopardy.aggregate.over_all(total_count=True)
     return count
 
 def compute_embedding(chunk_text: List[str]):
@@ -136,14 +124,15 @@ def add_data_to_weaviate(files, client, chunk_under_n_chars=500, chunk_new_after
 
         print(f"Uploading {len(chunks)} chunks for {str(filename)}.")
         for i, chunk in enumerate(chunks):
-            client.batch.add_data_object(
-                data_object=chunk,
-                class_name="doc",
-                uuid=get_valid_uuid(uuid.uuid4()),
-                vector=embeddings[i]
+            with client.batch.dynamic() as batch:
+                batch.add_object(
+                    properties=chunk,
+                    collection="doc",
+                    uuid=get_valid_uuid(uuid.uuid4()),
+                    vector=embeddings[i]
             )
         
-    client.batch.flush()
+    # client.batch.flush()
 
 def question_answer(question: str, vectorstore: Weaviate):
     embedding = compute_embedding(question)
@@ -193,8 +182,7 @@ if __name__ == "__main__":
     weaviate_url = "https://my-wea-sandbox-65fijroy.weaviate.network"
     APIKEY = "11qnKUShe3GIhixsCqq3QYa5RZSiIxbijyZ5"
     client = create_local_weaviate_client(db_url=weaviate_url, APIKEY=APIKEY)
-    my_schema = get_schema()
-    upload_schema(my_schema, weaviate=client)
+    upload_schema(weaviate=client)
 
     embedding_model = SentenceTransformer(embedding_model_name, device=device)
 
@@ -205,12 +193,12 @@ if __name__ == "__main__":
         chunk_new_after_n_chars=500
     )
 
-    print(count_documents(client=client)['data']['Aggregate']['Doc'])
+    print("file number count: {}".format(count_documents(client=client).total_count))
 
     callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
-    n_gpu_layers = 1  # Metal set to 1 is enough.
-    n_batch = 100  # Should be between 1 and n_ctx, consider the amount of RAM of your Apple Silicon Chip.
-    # Make sure the model path is correct for your system!
+    n_gpu_layers = 1  # set to 1 as default
+    n_batch = 100  # Should be between 1 and n_ctx, consider the RAM amount
+    # Make sure the model path is correct for the system!
     llm = LlamaCpp(
         model_path=args.model_path,
         n_gpu_layers=n_gpu_layers,
@@ -222,17 +210,21 @@ if __name__ == "__main__":
     )
 
     # client = weaviate.Client(weaviate_url)
+    # next line currently not supported, HAVE TO WAIT FOR UPDATEs
     vectorstore = Weaviate(client, "Doc", "text")
 
-    answer, similar_docs = question_answer(question, vectorstore)
+    while True:
+        user_input = input("Enter your question here (type 'quit' to exit): ")
+        if user_input == "quit":
+            break
+        question = user_input
+        answer, similar_docs = question_answer(question, vectorstore)
+        print("\n\n\n-------------------------")
+        print(f"QUERY: {question}")
+        print("\n\n\n-------------------------")
+        print(f"Answer: {answer}")
+        print("\n\n\n-------------------------")
+        for index, result in enumerate(similar_docs):
+            print(f"\n\n-- RESULT {index+1}:\n")
+            print(result)
 
-    print("\n\n\n-------------------------")
-    print(f"QUERY: {question}")
-    print("\n\n\n-------------------------")
-    print(f"Answer: {answer}")
-    print("\n\n\n-------------------------")
-    for index, result in enumerate(similar_docs):
-        print(f"\n\n-- RESULT {index+1}:\n")
-        print(result)
-    
-    client.close()
