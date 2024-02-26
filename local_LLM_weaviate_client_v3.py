@@ -47,7 +47,12 @@ def get_result_files(folder_path) -> List[Dict]:
                 file_list.append(file_path)
     return file_list
 
-def create_local_weaviate_client(db_url: str, APIKEY: str):
+def create_local_weaviate_client(db_url: str):
+    return weaviate.Client(
+        url=db_url,
+    )
+
+def create_online_weaviate_client(db_url: str, APIKEY: str)
     return weaviate.Client(
         url=db_url,
         auth_client_secret=APIKEY
@@ -134,6 +139,7 @@ def add_data_to_weaviate(files, client, chunk_under_n_chars=500, chunk_new_after
             print(e)
             continue
 
+        # 1,250,996 chunks for all_mail_including_spam_and_trash
         print(f"Uploading {len(chunks)} chunks for {str(filename)}.")
         for i, chunk in enumerate(chunks):
             client.batch.add_data_object(
@@ -171,6 +177,7 @@ if __name__ == "__main__":
     parser.add_argument('--device', default="cuda", type=str, help='device to use')
     parser.add_argument('--question', default="Give a summary of NFL Draft 2020 Scouting Reports: RB Jonathan Taylor, Wisconsin?", type=str, help='a default question')
     parser.add_argument('--model_path', default="model_files/llama-2-7b-chat.Q4_K_S.gguf", type=str, help='path to LLM model')
+    parser.add_argument('--use_WCS', default=False, type=bool, help='prefer to use local weaviate database')
     args = parser.parse_args()
 
     output_dir = args.output
@@ -178,21 +185,19 @@ if __name__ == "__main__":
     embedding_model_name = args.embedding_model_name
     device = args.device
     question = args.question
+    use_wcs = args.use_WCS
 
     process_local(output_dir=output_dir, num_processes=2, input_path=input_dir)
     files = get_result_files(output_dir)
 
-    # weaviate_url = "http://localhost:8080"
-    '''
-    Since for now (2024/02/**) there is no way to create weaviate inside a Docker container, 
-    use its cloud service WCS for experiments. The WCS sandbox expires every two weeks. 
-    Weaviate client v4 is used
-    '''
-    # weaviate_url = os.getenv("weaviate_url", "https://my-wea-sandbox-65fijroy.weaviate.network")
-    # APIKEY = os.getenv("APIKEY", "11qnKUShe3GIhixsCqq3QYa5RZSiIxbijyZ5")
-    weaviate_url = "https://my-wea-sandbox-65fijroy.weaviate.network"
-    APIKEY = weaviate.AuthApiKey(api_key="11qnKUShe3GIhixsCqq3QYa5RZSiIxbijyZ5")
-    client = create_local_weaviate_client(db_url=weaviate_url, APIKEY=APIKEY)
+    if not use_WCS:
+        weaviate_url = "http://yuzhou-weaviate-1:8080"
+        client = create_local_weaviate_client(db_url=weaviate_url)
+    else:
+        weaviate_url = "https://local-llm-02-tpbvnze3.weaviate.network"
+        APIKEY = weaviate.AuthApiKey(api_key="GY5Xlxcz0veWhggMFmMq8xvp3w9VxiajcV73")
+        # currently using weaviate V3 type connection.
+        client = create_online_weaviate_client(db_url=weaviate_url, APIKEY=APIKEY)
     my_schema = get_schema()
     upload_schema(my_schema, weaviate=client)
 
@@ -224,14 +229,30 @@ if __name__ == "__main__":
     # client = weaviate.Client(weaviate_url)
     vectorstore = Weaviate(client, "Doc", "text")
 
-    answer, similar_docs = question_answer(question, vectorstore)
+    # answer, similar_docs = question_answer(question, vectorstore)
 
-    print("\n\n\n-------------------------")
-    print(f"QUERY: {question}")
-    print("\n\n\n-------------------------")
-    print(f"Answer: {answer}")
-    print("\n\n\n-------------------------")
-    for index, result in enumerate(similar_docs):
-        print(f"\n\n-- RESULT {index+1}:\n")
-        print(result)
+    # print("\n\n\n-------------------------")
+    # print(f"QUERY: {question}")
+    # print("\n\n\n-------------------------")
+    # print(f"Answer: {answer}")
+    # print("\n\n\n-------------------------")
+    # for index, result in enumerate(similar_docs):
+    #     print(f"\n\n-- RESULT {index+1}:\n")
+    #     print(result)
 
+    while True:
+        user_input = input("Enter your question here (type 'quit' to exit): ")
+        if user_input == "quit":
+            break
+        if user_input != None:
+            question = user_input
+        answer, similar_docs = question_answer(question, vectorstore)
+        print("\n\n\n-------------------------")
+        print(f"QUERY: {question}")
+        print("\n\n\n-------------------------")
+        print(f"Answer: {answer}")
+        print("\n\n\n-------------------------")
+        for index, result in enumerate(similar_docs):
+            print(f"\n\n-- RESULT {index+1}:\n")
+            print(result)
+    

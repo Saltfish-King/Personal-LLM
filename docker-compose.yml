@@ -9,7 +9,7 @@ services:
     - '8080'
     - --scheme
     - http
-    image: semitechnologies/weaviate:1.21.3
+    image: semitechnologies/weaviate:1.23.10
     ports:
     - 8080:8080
     volumes:
@@ -22,4 +22,4 @@ services:
       DEFAULT_VECTORIZER_MODULE: 'none'
       ENABLE_MODULES: ''
       CLUSTER_HOSTNAME: 'node1'
-...
+      
