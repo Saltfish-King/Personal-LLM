@@ -6,6 +6,7 @@ from typing import List, Dict
 import uuid
 import weaviate
 import weaviate.classes.config as wvcc
+from weaviate.classes.config import Configure, VectorDistances
 from weaviate.util import get_valid_uuid
 from unstructured.chunking.title import chunk_by_title
 from unstructured.documents.elements import DataSourceMetadata
@@ -60,6 +61,9 @@ def create_collection(weaviate, vectorizer=None):
     weaviate.collections.create(
         name="Doc", # a generic document class
         # vectorizer_config = vectorizer, None for now
+        vector_index_config=Configure.VectorIndex.hnsw(
+            distance_metric=VectorDistances.COSINE
+        ),
         properties=[
             wvcc.Property(
                 name="last_modified",
@@ -157,6 +161,24 @@ def question_answer(question: str, vectorstore: WeaviateVectorStore = None):
     answer = llm(prompt)
     return answer, content
 
+def rephrase_question(question: str):
+    prompt_template = PromptTemplate.from_template(
+    """{question}\n
+    Rephrase and expand the question, and respond.
+    """
+    )
+    '''
+    'other variations of the prompt remain within our methodology and also provide improvement in performance.
+    Such prompts include but not limited to the following:
+        • Reword and elaborate on the inquiry, then provide an answer.
+        • Reframe the question with additional context and detail, then provide an answer.
+        • Modify the original question for clarity and detail, then offer an answer.
+        • Restate and elaborate on the inquiry before proceeding with a response.
+    '''
+    prompt = prompt_template.format(question=question)
+    answer = llm(prompt)
+    return answer
+
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description='Process some integers.')
@@ -166,6 +188,7 @@ if __name__ == "__main__":
     parser.add_argument('--device', default="cuda", type=str, help='device to use')
     parser.add_argument('--question', default="Give a summary of NFL Draft 2020 Scouting Reports: RB Jonathan Taylor, Wisconsin?", type=str, help='a default question')
     parser.add_argument('--model_path', default="model_files/llama-2-7b-chat.Q4_K_S.gguf", type=str, help='path to LLM model')
+    parser.add_argument('--rar', default=False, type=bool, help='whether to use Respose and Rephrase')
     args = parser.parse_args()
 
     output_dir = args.output
@@ -173,6 +196,7 @@ if __name__ == "__main__":
     embedding_model_name = args.embedding_model_name
     device = args.device
     question = args.question
+    use_rar = args.rar
 
     process_local(output_dir=output_dir, num_processes=2, input_path=input_dir)
     files = get_result_files(output_dir)
@@ -219,10 +243,17 @@ if __name__ == "__main__":
         if user_input == "quit":
             break
         if user_input != '':
-            question = user_input        
+            question = user_input    
+        if use_rar:
+            print("Question (before rephrase): ", question)
+            question = rephrase_question(question)    
+        
         answer, similar_docs = question_answer(question)
         print("\n\n\n-------------------------")
-        print(f"QUERY: {question}")
+        if use_rar:
+            print(f"Question (after rephrase):\n {question}")
+        else:
+            print(f"QUERY: {question}")
         print("\n\n\n-------------------------")
         print(f"Answer: {answer}")
         print("\n\n\n-------------------------")
