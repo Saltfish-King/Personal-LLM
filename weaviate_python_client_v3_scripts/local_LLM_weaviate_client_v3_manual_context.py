@@ -1,3 +1,9 @@
+''' 
+This script uses weaviate python client v3, it seems to be compatible with v4, 
+but some functions are not supported, such as named vectors (supported starting from v4.5.0)
+
+'''
+
 import subprocess
 import os
 from typing import List, Dict
@@ -52,7 +58,7 @@ def create_local_weaviate_client(db_url: str):
         url=db_url,
     )
 
-def create_online_weaviate_client(db_url: str, APIKEY: str)
+def create_online_weaviate_client(db_url: str, APIKEY: str):
     return weaviate.Client(
         url=db_url,
         auth_client_secret=APIKEY
@@ -152,9 +158,7 @@ def add_data_to_weaviate(files, client, chunk_under_n_chars=500, chunk_new_after
     client.batch.flush()
 
 def question_answer(question: str, vectorstore: Weaviate):
-    embedding = compute_embedding(question)
-    similar_docs = vectorstore.max_marginal_relevance_search_by_vector(embedding)
-    content = [x.page_content for x in similar_docs]
+    content = input("Provide your context here: ")
     prompt_template = PromptTemplate.from_template(
     """\
     Given context about the subject, answer the question based on the context provided to the best of your ability.
@@ -166,7 +170,7 @@ def question_answer(question: str, vectorstore: Weaviate):
     )
     prompt = prompt_template.format(context=content, question=question)
     answer = llm(prompt)
-    return answer, similar_docs
+    return answer, content
 
 if __name__ == "__main__":
     import argparse
@@ -190,7 +194,7 @@ if __name__ == "__main__":
     process_local(output_dir=output_dir, num_processes=2, input_path=input_dir)
     files = get_result_files(output_dir)
 
-    if not use_WCS:
+    if not use_wcs:
         weaviate_url = "http://yuzhou-weaviate-1:8080"
         client = create_local_weaviate_client(db_url=weaviate_url)
     else:
@@ -229,30 +233,18 @@ if __name__ == "__main__":
     # client = weaviate.Client(weaviate_url)
     vectorstore = Weaviate(client, "Doc", "text")
 
-    # answer, similar_docs = question_answer(question, vectorstore)
-
-    # print("\n\n\n-------------------------")
-    # print(f"QUERY: {question}")
-    # print("\n\n\n-------------------------")
-    # print(f"Answer: {answer}")
-    # print("\n\n\n-------------------------")
-    # for index, result in enumerate(similar_docs):
-    #     print(f"\n\n-- RESULT {index+1}:\n")
-    #     print(result)
-
     while True:
         user_input = input("Enter your question here (type 'quit' to exit): ")
         if user_input == "quit":
             break
-        if user_input != None:
+        if user_input != '':
             question = user_input
-        answer, similar_docs = question_answer(question, vectorstore)
+        answer, manual_context = question_answer(question, vectorstore)
         print("\n\n\n-------------------------")
         print(f"QUERY: {question}")
         print("\n\n\n-------------------------")
         print(f"Answer: {answer}")
         print("\n\n\n-------------------------")
-        for index, result in enumerate(similar_docs):
-            print(f"\n\n-- RESULT {index+1}:\n")
-            print(result)
+        print(f"\n\n-- Provided Context:\n")
+        print(manual_context, "\n")
     

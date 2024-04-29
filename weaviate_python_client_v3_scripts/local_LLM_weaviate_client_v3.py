@@ -1,18 +1,22 @@
-# This script uses Weaviate Python Client V4
+''' 
+This script uses weaviate python client v3, it seems to be compatible with v4, 
+but some functions are not supported, such as named vectors (supported starting from v4.5.0)
+
+'''
 
 import subprocess
 import os
 from typing import List, Dict
 import uuid
 import weaviate
-import weaviate.classes.config as wvcc
 from weaviate.util import get_valid_uuid
+from weaviate.auth import AuthApiKey
 from unstructured.chunking.title import chunk_by_title
 from unstructured.documents.elements import DataSourceMetadata
 from unstructured.partition.json import partition_json
 from sentence_transformers import SentenceTransformer
 from langchain_community.llms import LlamaCpp
-from langchain_weaviate.vectorstores import WeaviateVectorStore
+from langchain.vectorstores.weaviate import Weaviate
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.prompts import PromptTemplate
@@ -49,34 +53,62 @@ def get_result_files(folder_path) -> List[Dict]:
                 file_list.append(file_path)
     return file_list
 
-def create_local_weaviate_client(hostname: str):
-    return weaviate.connect_to_local(host=hostname) #Connect to a local Weaviate instance deployed using Docker compose with standard port configurations.
-
-def delete_all_collections(weaviate):
-    weaviate.collections.delete_all()
-
-def create_collection(weaviate, vectorizer=None):
-    # in weaviate client v4, the schema API was removed in favor of the Collections API.
-    weaviate.collections.create(
-        name="Doc", # a generic document class
-        # vectorizer_config = vectorizer, None for now
-        properties=[
-            wvcc.Property(
-                name="last_modified",
-                data_type=wvcc.DataType.TEXT
-                # description": "Last modified date for the document
-            ),
-            wvcc.Property(
-                name="text",
-                data_type=wvcc.DataType.TEXT
-                # description": "Text content for the document
-            ),
-        ]
+def create_local_weaviate_client(db_url: str):
+    return weaviate.Client(
+        url=db_url,
     )
 
+def create_online_weaviate_client(db_url: str, APIKEY: str):
+    return weaviate.Client(
+        url=db_url,
+        auth_client_secret=APIKEY
+    )
+
+def get_schema(vectorizer: str = "none"):
+    return {
+        "classes": [
+            {
+                "class": "Doc",
+                "description": "A generic document class",
+                "vectorizer": vectorizer,
+                "properties": [
+                    {
+                        "name": "last_modified",
+                        "dataType": ["text"],
+                        "description": "Last modified date for the document",
+                    },
+                    {
+                        "name": "player",
+                        "dataType": ["text"],
+                        "description": "Player related to the document",
+                    },
+                    {
+                        "name": "position",
+                        "dataType": ["text"],
+                        "description": "Player Position related to the document",
+                    },
+                    {
+                        "name": "text",
+                        "dataType": ["text"],
+                        "description": "Text content for the document",
+                    },
+                ],
+            },
+        ],
+    }
+
+def upload_schema(my_schema, weaviate):
+    weaviate.schema.delete_all()
+    weaviate.schema.create(my_schema)
+
 def count_documents(client: weaviate.Client) -> Dict:
-    jeopardy = client.collections.get("Doc")
-    count = jeopardy.aggregate.over_all(total_count=True)
+    response = (
+        client.query
+        .aggregate("Doc")
+        .with_meta_count()
+        .do()
+    )
+    count = response
     return count
 
 def compute_embedding(chunk_text: List[str]):
@@ -104,10 +136,7 @@ def get_chunks(elements, chunk_under_n_chars=500, chunk_new_after_n_chars=1500):
     embeddings = compute_embedding(chunk_texts)
     return chunks, embeddings
 
-def get_target_collection(collection_name):
-    return client.collections.get(collection_name)
-
-def add_data_to_weaviate(files, collection, chunk_under_n_chars=500, chunk_new_after_n_chars=1500):
+def add_data_to_weaviate(files, client, chunk_under_n_chars=500, chunk_new_after_n_chars=1500):
     for filename in files:
         try:
             elements = partition_json(filename=filename)
@@ -116,34 +145,22 @@ def add_data_to_weaviate(files, collection, chunk_under_n_chars=500, chunk_new_a
             print(e)
             continue
 
+        # 1,250,996 chunks for all_mail_including_spam_and_trash
         print(f"Uploading {len(chunks)} chunks for {str(filename)}.")
         for i, chunk in enumerate(chunks):
-            with collection.batch.dynamic() as batch:
-                batch.add_object(
-                    properties=chunk,
-                    uuid=get_valid_uuid(uuid.uuid4()),
-                    vector=embeddings[i]
+            client.batch.add_data_object(
+                data_object=chunk,
+                class_name="doc",
+                uuid=get_valid_uuid(uuid.uuid4()),
+                vector=embeddings[i]
             )
         
-    # client.batch.flush()
+    client.batch.flush()
 
-def hybrid_search(query: str, collection: str, limit: int):
-    # This is the inherent hybrid search method of Weaviate
-    jeopardy = client.collections.get(collection)
-    embedding = compute_embedding(query)
-    response = jeopardy.query.hybrid(
-        query=query,
-        vector= embedding.tolist(), #use tolist() to convert a numpy.ndarray object to list 
-        limit=limit
-    )
-    return response
-
-def question_answer(question: str, vectorstore: WeaviateVectorStore = None):
-    # similar_docs = vectorstore.max_marginal_relevance_search_by_vector(embedding)
-    # content = [x.page_content for x in similar_docs]
-    similar_docs = hybrid_search(question, "Doc", 3)
-    
-    content = [x.properties['text'] for x in similar_docs.objects]
+def question_answer(question: str, vectorstore: Weaviate):
+    embedding = compute_embedding(question)
+    similar_docs = vectorstore.max_marginal_relevance_search_by_vector(embedding)
+    content = [x.page_content for x in similar_docs]
     prompt_template = PromptTemplate.from_template(
     """\
     Given context about the subject, answer the question based on the context provided to the best of your ability.
@@ -155,7 +172,7 @@ def question_answer(question: str, vectorstore: WeaviateVectorStore = None):
     )
     prompt = prompt_template.format(context=content, question=question)
     answer = llm(prompt)
-    return answer, content
+    return answer, similar_docs
 
 if __name__ == "__main__":
     import argparse
@@ -166,6 +183,7 @@ if __name__ == "__main__":
     parser.add_argument('--device', default="cuda", type=str, help='device to use')
     parser.add_argument('--question', default="Give a summary of NFL Draft 2020 Scouting Reports: RB Jonathan Taylor, Wisconsin?", type=str, help='a default question')
     parser.add_argument('--model_path', default="model_files/llama-2-7b-chat.Q4_K_S.gguf", type=str, help='path to LLM model')
+    parser.add_argument('--use_WCS', default=False, type=bool, help='prefer to use local weaviate database')
     args = parser.parse_args()
 
     output_dir = args.output
@@ -173,27 +191,32 @@ if __name__ == "__main__":
     embedding_model_name = args.embedding_model_name
     device = args.device
     question = args.question
+    use_wcs = args.use_WCS
 
     process_local(output_dir=output_dir, num_processes=2, input_path=input_dir)
     files = get_result_files(output_dir)
 
-    # weaviate_url = "http://yuzhou-weaviate-1:8080"
-    client = create_local_weaviate_client("yuzhou-weaviate-1")
-    delete_all_collections(weaviate=client)
-    create_collection(weaviate=client)
+    if not use_wcs:
+        weaviate_url = "http://yuzhou-weaviate-1:8080"
+        client = create_local_weaviate_client(db_url=weaviate_url)
+    else:
+        weaviate_url = "https://local-llm-02-tpbvnze3.weaviate.network"
+        APIKEY = weaviate.AuthApiKey(api_key="GY5Xlxcz0veWhggMFmMq8xvp3w9VxiajcV73")
+        # currently using weaviate V3 type connection.
+        client = create_online_weaviate_client(db_url=weaviate_url, APIKEY=APIKEY)
+    my_schema = get_schema()
+    upload_schema(my_schema, weaviate=client)
 
     embedding_model = SentenceTransformer(embedding_model_name, device=device)
 
-    tgt_collection = get_target_collection("Doc")
-
     add_data_to_weaviate(
         files=files,
-        collection=tgt_collection,
+        client=client,
         chunk_under_n_chars=250,
-        chunk_new_after_n_chars=500,
+        chunk_new_after_n_chars=500
     )
 
-    print("file number count: {}".format(count_documents(client=client).total_count))
+    print(count_documents(client=client)['data']['Aggregate']['Doc'])
 
     callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
     n_gpu_layers = 1  # set to 1 as default
@@ -210,17 +233,15 @@ if __name__ == "__main__":
     )
 
     # client = weaviate.Client(weaviate_url)
-    # langchain supports weaviate python client 4.0 using langchain_weaviate library
-    # But it seems like it is not necessary to use lang-chain since in this prototype, since it is only carrying out marginal_search
-    # vectorstore = WeaviateVectorStore(client, "Doc", "text")
+    vectorstore = Weaviate(client, "Doc", "text")
 
-    while True:        
+    while True:
         user_input = input("Enter your question here (type 'quit' to exit): ")
         if user_input == "quit":
             break
         if user_input != '':
-            question = user_input        
-        answer, similar_docs = question_answer(question)
+            question = user_input
+        answer, similar_docs = question_answer(question, vectorstore)
         print("\n\n\n-------------------------")
         print(f"QUERY: {question}")
         print("\n\n\n-------------------------")
@@ -229,4 +250,4 @@ if __name__ == "__main__":
         for index, result in enumerate(similar_docs):
             print(f"\n\n-- RESULT {index+1}:\n")
             print(result)
-
+    
