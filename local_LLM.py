@@ -12,7 +12,7 @@ from weaviate.util import get_valid_uuid
 from unstructured.chunking.title import chunk_by_title
 from unstructured.documents.elements import DataSourceMetadata
 from unstructured.partition.json import partition_json
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, CrossEncoder
 from langchain_community.llms import LlamaCpp
 from langchain_weaviate.vectorstores import WeaviateVectorStore
 from langchain.callbacks.manager import CallbackManager
@@ -144,16 +144,21 @@ def hybrid_search(query: str, collection: str, limit: int):
     )
     return response
 
-def question_answer(question: str, dataset: str, vectorstore: WeaviateVectorStore = None):
-    # similar_docs = vectorstore.max_marginal_relevance_search_by_vector(embedding)
-    # content = [x.page_content for x in similar_docs]
-    similar_docs = hybrid_search(question, dataset, 20)
-    content = [x.properties['text'] for x in similar_docs.objects]
 
-    # for o in similar_docs.objects:
-    #     print(o.properties)
-    #     print(o.metadata.score, o.metadata.explain_score)
+def rerank_contents(similar_doc, query, rerank_model_name):
+    # reranking use CrossEncoder
+    model = CrossEncoder(rerank_model_name, max_length=3000)
+    context_list = []
+    for obj in similar_doc.objects:
+        context_list.append([query, obj.properties['text']])
 
+    scores = model.predict(context_list)
+    sorted_pairs = sorted(zip(scores, context_list), reverse=True)
+    sorted_scores, sorted_context = zip(*sorted_pairs) # unzip the pairs
+    return sorted_context[:10]
+
+
+def question_answer(question: str, similar_context, vectorstore: WeaviateVectorStore = None):
     prompt_template = PromptTemplate.from_template(
     """\
     Given context about the subject, answer the question based on the context provided to the best of your ability. 
@@ -164,9 +169,9 @@ def question_answer(question: str, dataset: str, vectorstore: WeaviateVectorStor
     Answer:
     """
     )
-    prompt = prompt_template.format(context=content, question=question)
+    prompt = prompt_template.format(context=similar_context, question=question)
     answer = llm(prompt)
-    return answer, content
+    return answer, similar_context
 
 def rephrase_question(question: str):
     prompt_template = PromptTemplate.from_template(
@@ -201,6 +206,9 @@ if __name__ == "__main__":
     parser.add_argument('--dataset_name', default="Doc", type=str, help='dataset used in this process')
     parser.add_argument('--combine_under_n_chars', default=250, type=int, help='object character length')
     parser.add_argument('--new_after_n_chars', default=500, type=int, help='cut off new section once meet this length')
+    parser.add_argument('--rerank', default=False, type=bool, help='whether to use rerank module or not')
+    parser.add_argument('--rerank_model_name', default="cross-encoder/ms-marco-MiniLM-L-6-v2", type=str)
+    parser.add_argument('--context_window', default=16348, type=int, help='context window')
 
     args = parser.parse_args()
 
@@ -215,10 +223,12 @@ if __name__ == "__main__":
     collection = args.dataset_name
     chunk_under_n_chars = args.combine_under_n_chars
     chunk_new_after_n_chars = args.new_after_n_chars
+    rerank = args.rerank
+    rerank_model_name = args.rerank_model_name
+    ctx_window = args.context_window
 
     process_local(output_dir=output_dir, num_processes=2, input_path=input_dir)
     files = get_result_files(output_dir)
-
 
     # weaviate_url = "http://yuzhou-weaviate-1:8080"
     client = create_local_weaviate_client("yuzhou-weaviate-1")
@@ -246,7 +256,7 @@ if __name__ == "__main__":
         model_path=args.model_path,
         n_gpu_layers=n_gpu_layers,
         n_batch=n_batch,
-        n_ctx=8192, # context window. By default 512
+        n_ctx=ctx_window, # context window. By default 16348
         f16_kv=True,  # MUST set to True, otherwise you will run into problem after a couple of calls
         callback_manager=callback_manager,
         verbose=True, # Verbose is required to pass to the callback manager
@@ -267,7 +277,23 @@ if __name__ == "__main__":
             print("Question (before rephrase): ", question)
             question = rephrase_question(question)    
         
-        answer, similar_docs = question_answer(question, collection)
+
+        # similar_docs = vectorstore.max_marginal_relevance_search_by_vector(embedding)
+        # content = [x.page_content for x in similar_docs]
+
+        if rerank:
+            similar_docs = hybrid_search(question, collection, 100)
+            original_order_content = [x.properties['text'] for x in similar_docs.objects]
+            content = rerank_contents(similar_docs, question, rerank_model_name)
+        else:
+            similar_docs = hybrid_search(question, collection, 20)
+            content = [x.properties['text'] for x in similar_docs.objects]
+
+        # for o in similar_docs.objects:
+        #     print(o.properties)
+        #     print(o.metadata.score, o.metadata.explain_score)
+
+        answer, similar_docs = question_answer(question, content)
         print("\n\n\n-------------------------")
         if use_rar:
             print(f"Question (after rephrase):\n {question}")
