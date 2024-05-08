@@ -7,6 +7,7 @@ import uuid
 import weaviate
 import weaviate.classes.config as wvcc
 from weaviate.classes.config import Configure, VectorDistances
+from weaviate.classes.query import MetadataQuery
 from weaviate.util import get_valid_uuid
 from unstructured.chunking.title import chunk_by_title
 from unstructured.documents.elements import DataSourceMetadata
@@ -56,10 +57,10 @@ def create_local_weaviate_client(hostname: str):
 def delete_all_collections(weaviate):
     weaviate.collections.delete_all()
 
-def create_collection(weaviate, vectorizer=None):
+def create_collection(weaviate, dataset, vectorizer=None):
     # in weaviate client v4, the schema API was removed in favor of the Collections API.
     weaviate.collections.create(
-        name="Doc", # a generic document class
+        name=dataset, # a generic document class
         # vectorizer_config = vectorizer, None for now
         vector_index_config=Configure.VectorIndex.hnsw(
             distance_metric=VectorDistances.COSINE
@@ -78,8 +79,8 @@ def create_collection(weaviate, vectorizer=None):
         ]
     )
 
-def count_documents(client: weaviate.Client) -> Dict:
-    jeopardy = client.collections.get("Doc")
+def count_documents(client: weaviate.Client, dataset) -> Dict:
+    jeopardy = client.collections.get(dataset)
     count = jeopardy.aggregate.over_all(total_count=True)
     return count
 
@@ -138,19 +139,25 @@ def hybrid_search(query: str, collection: str, limit: int):
     response = jeopardy.query.hybrid(
         query=query,
         vector= embedding.tolist(), #use tolist() to convert a numpy.ndarray object to list 
+        return_metadata=MetadataQuery(score=True, explain_score=True),
         limit=limit
     )
     return response
 
-def question_answer(question: str, vectorstore: WeaviateVectorStore = None):
+def question_answer(question: str, dataset: str, vectorstore: WeaviateVectorStore = None):
     # similar_docs = vectorstore.max_marginal_relevance_search_by_vector(embedding)
     # content = [x.page_content for x in similar_docs]
-    similar_docs = hybrid_search(question, "Doc", 3)
-    
+    similar_docs = hybrid_search(question, dataset, 20)
     content = [x.properties['text'] for x in similar_docs.objects]
+
+    # for o in similar_docs.objects:
+    #     print(o.properties)
+    #     print(o.metadata.score, o.metadata.explain_score)
+
     prompt_template = PromptTemplate.from_template(
     """\
-    Given context about the subject, answer the question based on the context provided to the best of your ability.
+    Given context about the subject, answer the question based on the context provided to the best of your ability. 
+    Be aware that there could be unnecessary context in the provided context, select only the relavent and correct ones.
     Context: {context}
     Question:
     {question}
@@ -189,6 +196,12 @@ if __name__ == "__main__":
     parser.add_argument('--question', default="Give a summary of NFL Draft 2020 Scouting Reports: RB Jonathan Taylor, Wisconsin?", type=str, help='a default question')
     parser.add_argument('--model_path', default="model_files/llama-2-7b-chat.Q4_K_S.gguf", type=str, help='path to LLM model')
     parser.add_argument('--rar', default=False, type=bool, help='whether to use Respose and Rephrase')
+    parser.add_argument('--upload_data', default=False, type=bool, help='whether to upload the designated dataset')
+    parser.add_argument('--clean_up_database', default=False, type=bool, help='whether to delete all contents in database')
+    parser.add_argument('--dataset_name', default="Doc", type=str, help='dataset used in this process')
+    parser.add_argument('--combine_under_n_chars', default=250, type=int, help='object character length')
+    parser.add_argument('--new_after_n_chars', default=500, type=int, help='cut off new section once meet this length')
+
     args = parser.parse_args()
 
     output_dir = args.output
@@ -197,27 +210,33 @@ if __name__ == "__main__":
     device = args.device
     question = args.question
     use_rar = args.rar
+    upload_data = args.upload_data
+    delete_all = args.clean_up_database
+    collection = args.dataset_name
+    chunk_under_n_chars = args.combine_under_n_chars
+    chunk_new_after_n_chars = args.new_after_n_chars
 
     process_local(output_dir=output_dir, num_processes=2, input_path=input_dir)
     files = get_result_files(output_dir)
 
+
     # weaviate_url = "http://yuzhou-weaviate-1:8080"
     client = create_local_weaviate_client("yuzhou-weaviate-1")
-    delete_all_collections(weaviate=client)
-    create_collection(weaviate=client)
-
     embedding_model = SentenceTransformer(embedding_model_name, device=device)
 
-    tgt_collection = get_target_collection("Doc")
-
-    add_data_to_weaviate(
-        files=files,
-        collection=tgt_collection,
-        chunk_under_n_chars=250,
-        chunk_new_after_n_chars=500,
-    )
-
-    print("file number count: {}".format(count_documents(client=client).total_count))
+    if delete_all:
+        delete_all_collections(weaviate=client)
+    
+    if upload_data:
+        create_collection(dataset=collection, weaviate=client)
+        tgt_collection = get_target_collection(collection)
+        add_data_to_weaviate(
+            files=files,
+            collection=tgt_collection,
+            chunk_under_n_chars=chunk_under_n_chars,
+            chunk_new_after_n_chars=chunk_new_after_n_chars,
+        )
+        print("file number count: {}".format(count_documents(client=client, dataset=collection).total_count))
 
     callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
     n_gpu_layers = 1  # set to 1 as default
@@ -227,7 +246,7 @@ if __name__ == "__main__":
         model_path=args.model_path,
         n_gpu_layers=n_gpu_layers,
         n_batch=n_batch,
-        n_ctx=2048, # context window. By default 512
+        n_ctx=8192, # context window. By default 512
         f16_kv=True,  # MUST set to True, otherwise you will run into problem after a couple of calls
         callback_manager=callback_manager,
         verbose=True, # Verbose is required to pass to the callback manager
@@ -248,7 +267,7 @@ if __name__ == "__main__":
             print("Question (before rephrase): ", question)
             question = rephrase_question(question)    
         
-        answer, similar_docs = question_answer(question)
+        answer, similar_docs = question_answer(question, collection)
         print("\n\n\n-------------------------")
         if use_rar:
             print(f"Question (after rephrase):\n {question}")
